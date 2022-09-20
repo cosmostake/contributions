@@ -11,3 +11,4 @@ Here is the list of our contributions to:
 - [SifChain](https://github.com/COIN-SIDE/contributions/blob/main/sifchain.md)
 - [Evmos](https://github.com/COIN-SIDE/contributions/blob/main/evmos.md)
 - [Persistence](https://github.com/COIN-SIDE/contributions/blob/main/persistence.md)
+- [Stargaze](https://github.com/COIN-SIDE/contributions/blob/main/stargaze.md)
