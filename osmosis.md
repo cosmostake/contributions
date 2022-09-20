@@ -136,6 +136,28 @@ https://link.medium.com/26DOQE3Totb
 
 Ukrainian translation:
 https://link.medium.com/5lC82bLTotb
+____
+
+- Osmosis Ecosystem Spotlight: Laika
+
+![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
+
+Original:
+https://link.medium.com/SxkUAQDHrtb 
+
+Ukrainian translation:
+https://link.medium.com/GWGbeZEHrtb
+____
+
+- Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
+
+![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
+
+Original:
+https://link.medium.com/hebIsm1gttb
+
+Ukrainian translation:
+https://link.medium.com/pQqfg5Wgttb
 
 ## Gitbook
 Also, our team made a complete translation of the Osmosis documentation into Ukrainian and Russian.
