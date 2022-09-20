@@ -59,6 +59,8 @@ TWITTER NEWS AND UDPDATES FOR OSMOSIS
 [17.09.2022](https://twitter.com/Coin_Validator/status/1571066403540865025?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
 [17.09.2022](https://twitter.com/Coin_Validator/status/1571179932901953538?s=20&t=U-1tKV8g_WheSo7l90_3_w),
 [18.09.2022](https://twitter.com/Coin_Validator/status/1571423306812739584?s=20&t=U-1tKV8g_WheSo7l90_3_w),
+[19.09.2022](https://twitter.com/Coin_Validator/status/1571787435511812097?s=20&t=kB7y26MsOwW8u9DuiX8cOw),
+[20.09.2022](https://twitter.com/Coin_Validator/status/1572130199864500224?s=20&t=kB7y26MsOwW8u9DuiX8cOw),
 
 Some stats:
 
@@ -158,6 +160,7 @@ https://link.medium.com/hebIsm1gttb
 
 Ukrainian translation:
 https://link.medium.com/pQqfg5Wgttb
+____
 
 ## Gitbook
 Also, our team made a complete translation of the Osmosis documentation into Ukrainian and Russian.
