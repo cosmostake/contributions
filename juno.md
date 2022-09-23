@@ -8,3 +8,13 @@ This repository is based on the overall work of our team on the development of t
 - [Max Levush](https://github.com/maxlevush-COINSIDE)
 - [Yan Lytvynenko](https://github.com/ZAZIK3)
 - [Violetta Markush](https://github.com/vilolaa)
+
+## Technical Contributions
+- We're validators Osmosis [Juno]
+
+## Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
+We create a lot of Osmosis related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the Osmosis brand pack, and we often mention the Juno logo or other things related to it.
+
+## Twitter
+We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
+We use the Juno brandbook to match the style of the company. We often mention the Juno logo or other related things.
