@@ -25,3 +25,8 @@ We use the Juno brandbook to match the style of the company. We often mention th
 This infographic shows: basic statistics and news about Osmosis.
 ![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/191941250-8f9255ad-e7ff-4c5c-a24c-99d528fc9075.jpeg)
 ____
+
+- We create a suggestion and reminder for voting:
+
+![PROPOSAL #40_](https://user-images.githubusercontent.com/86729290/191941526-e213a76b-0a55-4bbc-89b9-cdf0947077c1.png)
+____
