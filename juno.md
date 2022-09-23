@@ -18,3 +18,10 @@ We create a lot of Juno related content (Multiple languages, English, Russian, U
 ## Twitter
 We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
 We use the Juno brandbook to match the style of the company. We often mention the Juno logo or other related things.
+
+- JUNO WEEKLY RECAP
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1570008660176166912?s=20&t=Vyate1wHNTQDiFAelboQAw)
+
+This infographic shows: basic statistics and news about Osmosis.
+![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/191941250-8f9255ad-e7ff-4c5c-a24c-99d528fc9075.jpeg)
+____
