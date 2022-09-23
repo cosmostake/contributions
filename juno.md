@@ -10,7 +10,7 @@ This repository is based on the overall work of our team on the development of t
 - [Violetta Markush](https://github.com/vilolaa)
 
 ## Technical Contributions
-- We're validators Osmosis [Juno]
+- We're validators Juno [Link]
 
 ## Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
 We create a lot of Osmosis related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the Osmosis brand pack, and we often mention the Juno logo or other things related to it.
