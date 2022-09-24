@@ -93,24 +93,27 @@ Also in Ukrainian:
 ## Medium 
 We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
-![image](https://user-images.githubusercontent.com/86729290/188892127-5924bbe9-49ae-41f4-85e0-48ee234baf18.png)
-
 - [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
+
+![image](https://user-images.githubusercontent.com/86729290/188892127-5924bbe9-49ae-41f4-85e0-48ee234baf18.png)
 ____
+
+- [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
 
 ![image](https://user-images.githubusercontent.com/86729290/188898950-a2882003-34f2-432a-959f-43e493b496ae.png)
 
-- [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
 ____
+
+- [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
 
 ![image](https://user-images.githubusercontent.com/86729290/188908550-3551e493-0055-4318-a07e-6eb204981a5f.jpeg)
 
-- [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
 ____
+
+- [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
 
 ![image](https://user-images.githubusercontent.com/86729290/188909248-89a05705-8e51-446c-befa-8a029a40ea9c.png)
 
-- [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
 ____
 
 Also in Russian:
@@ -132,44 +135,50 @@ We translate Osmosis blog posts:
 
 - Osmosis for applications: cross-chain swaps as a service
 
-![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
-
 Original:
 https://link.medium.com/26DOQE3Totb
 
 Ukrainian translation:
 https://link.medium.com/5lC82bLTotb
+
+![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
+
 ____
 
 - Osmosis Ecosystem Spotlight: Laika
-
-![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
 
 Original:
 https://link.medium.com/SxkUAQDHrtb 
 
 Ukrainian translation:
 https://link.medium.com/GWGbeZEHrtb
+
+![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
+
 ____
 
 - Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
-
-![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
 
 Original:
 https://link.medium.com/hebIsm1gttb
 
 Ukrainian translation:
 https://link.medium.com/pQqfg5Wgttb
+
+![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
+
 ____
 
 ## Gitbook
 Also, our team made a complete translation of the Osmosis documentation into Ukrainian and Russian.
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188912638-7a71e6a1-b2cb-44ae-b053-1dd5c23a3ccc.png">
 
 - [Osmosis Doc (Ukrainian translation)](https://laura-kharkevych.gitbook.io/osmosis-docs.osmosis.zone-ukrainian-translation/)
+
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188912638-7a71e6a1-b2cb-44ae-b053-1dd5c23a3ccc.png">
+
 ____
+
+- [Osmosis Doc (Russian translation)](https://laura-kharkevych.gitbook.io/osmosis-doc-russian-translation/)
 
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188914088-d817c04a-612d-4e64-a2c0-d491dd0ee980.png">
 
-- [Osmosis Doc (Russian translation)](https://laura-kharkevych.gitbook.io/osmosis-doc-russian-translation/)
