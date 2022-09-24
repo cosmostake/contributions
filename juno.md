@@ -33,7 +33,7 @@ ____
 
 - Here's the list of Twitter mentions from [COIN SIDE VALIDATOR](https://twitter.com/Coin_Validator)
 
-TWITTER NEWS AND UDPDATES FOR OSMOSIS
+TWITTER NEWS AND UDPDATES FOR JUNO
 
 [09.09.2022](https://twitter.com/Coin_Validator/status/1568218411938811904?s=20&t=0vohi7MFYMsZ5BZj1qwRaw), 
 [12.09.2022](https://twitter.com/Coin_Validator/status/1569355743782125569?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
@@ -62,8 +62,29 @@ VIDEOS WITH JUNO: <br/>
 
 We have created a series of explainer videos in Juno: <br/>
 
-![photo_2022-09-22_12-53-32](https://user-images.githubusercontent.com/86729290/192096465-05c1eee3-e81d-494f-a435-bca1d5e6bb58.jpg)
-
 - [Juno: Overview](https://www.youtube.com/watch?v=FgUuS7-jQB0&t=23s)
 
+![photo_2022-09-22_12-53-32](https://user-images.githubusercontent.com/86729290/192096465-05c1eee3-e81d-494f-a435-bca1d5e6bb58.jpg)
+
 ____
+
+## Medium 
+We also created a series of blog posts on Juno in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
+
+- [We wrote a blog post Juno: Overview](https://link.medium.com/Z952SS7Vmtb)
+
+![Fcxg12JXoAAFBOs](https://user-images.githubusercontent.com/86729290/192096904-a1c889a0-70ea-4eff-b808-ab7fed28d97e.jpeg)
+____
+
+- [We translated Hack JUNO in Ukrainian 🇺🇦](https://link.medium.com/jKCCFzycAtb)
+
+<img width="1028" alt="Снимок экрана 2022-09-24 в 14 55" src="https://user-images.githubusercontent.com/86729290/192096684-9d6c4f19-30d8-4c50-a4a3-f731dd5b6253.png">
+
+____
+
+- [We translated JUNO: Osmosis Interchain AMM in Ukrainian 🇺🇦](https://link.medium.com/Cl0uqbNcAtb)
+
+<img width="1007" alt="Снимок экрана 2022-09-24 в 14 59" src="https://user-images.githubusercontent.com/86729290/192096821-5331d92a-02c7-46c4-bd9e-2ac247ba1484.png">
+
+____
+
