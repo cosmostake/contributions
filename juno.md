@@ -76,6 +76,14 @@ We also created a series of blog posts on Juno in English, Russian and Ukrainian
 ![Fcxg12JXoAAFBOs](https://user-images.githubusercontent.com/86729290/192096904-a1c889a0-70ea-4eff-b808-ab7fed28d97e.jpeg)
 ____
 
+Also in Ukrainian 🇺🇦:
+
+- [Juno: Огляд (Ukrainian)](https://link.medium.com/xKAP2DteAtb)
+
+<img width="1018" alt="Снимок экрана 2022-09-24 в 15 24" src="https://user-images.githubusercontent.com/86729290/192097775-e0d423b3-45ba-4288-9372-095fe3a2a113.png">
+
+____
+
 - [We translated Hack JUNO in Ukrainian 🇺🇦](https://link.medium.com/jKCCFzycAtb)
 
 <img width="1028" alt="Снимок экрана 2022-09-24 в 14 55" src="https://user-images.githubusercontent.com/86729290/192096684-9d6c4f19-30d8-4c50-a4a3-f731dd5b6253.png">
