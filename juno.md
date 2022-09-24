@@ -48,5 +48,22 @@ Some stats:
 
 <img width="600" alt="Снимок экрана 2022-09-24 в 14 10" src="https://user-images.githubusercontent.com/86729290/192095262-a057d795-ed87-4826-b44d-116e1934304d.png">
 
+____
+
+## YouTube
+This is our part of our contribution to Juno: 
+We have a YouTube channel: 
+1. [COIN SIDE VALIDATORS](https://www.youtube.com/channel/UC5VKIMlsGmlBgQESGPfYmEQ)
+<img width="1438" alt="Снимок экрана 2022-09-24 в 14 47" src="https://user-images.githubusercontent.com/86729290/192096372-ce3a4367-41b7-49d7-b95f-7fb6beee91c6.png">
+
+____
+
+VIDEOS WITH JUNO: <br/>
+
+We have created a series of explainer videos in Juno: <br/>
+
+![photo_2022-09-22_12-53-32](https://user-images.githubusercontent.com/86729290/192096465-05c1eee3-e81d-494f-a435-bca1d5e6bb58.jpg)
+
+- [Juno: Overview](https://www.youtube.com/watch?v=FgUuS7-jQB0&t=23s)
 
 ____
