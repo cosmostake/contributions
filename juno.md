@@ -30,3 +30,23 @@ ____
 
 ![PROPOSAL #40_](https://user-images.githubusercontent.com/86729290/191941526-e213a76b-0a55-4bbc-89b9-cdf0947077c1.png)
 ____
+
+- Here's the list of Twitter mentions from [COIN SIDE VALIDATOR](https://twitter.com/Coin_Validator)
+
+TWITTER NEWS AND UDPDATES FOR OSMOSIS
+
+[09.09.2022](https://twitter.com/Coin_Validator/status/1568218411938811904?s=20&t=0vohi7MFYMsZ5BZj1qwRaw), 
+[12.09.2022](https://twitter.com/Coin_Validator/status/1569355743782125569?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[13.09.2022](https://twitter.com/Coin_Validator/status/1569634751782461442?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[14.09.2022](https://twitter.com/Coin_Validator/status/1569975867564240896?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[14.09.2022](https://twitter.com/Coin_Validator/status/1570008660176166912?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[16.09.2022](https://twitter.com/Coin_Validator/status/1570746614972817410?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[22.09.2022](https://twitter.com/Coin_Validator/status/1572890234274152448?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[23.09.2022](https://twitter.com/Coin_Validator/status/1573240549066547200?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+
+Some stats:
+
+<img width="600" alt="Снимок экрана 2022-09-24 в 14 10" src="https://user-images.githubusercontent.com/86729290/192095262-a057d795-ed87-4826-b44d-116e1934304d.png">
+
+
+____
