@@ -20,13 +20,21 @@ We create a lot of Juno-related content to improve the community's knowledge of 
 We use the Juno brandbook to match the style of the company. We often mention the Juno logo or other related things.
 
 - JUNO WEEKLY RECAP
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1573958502321717253?s=20&t=n1qYy1BA_KJ9Vu4od190IA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/192138042-a1f68276-9b17-459a-a922-70a8d5e77bdd.png)
+____
+
+- JUNO WEEKLY RECAP
 - [Link to Twitter post](https://twitter.com/Coin_Validator/status/1570008660176166912?s=20&t=Vyate1wHNTQDiFAelboQAw)
 
-This infographic shows: basic statistics and news about Osmosis.
-![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/191941250-8f9255ad-e7ff-4c5c-a24c-99d528fc9075.jpeg)
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/191941250-8f9255ad-e7ff-4c5c-a24c-99d528fc9075.jpeg)
 ____
 
 - We create a suggestion and reminder for voting:
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1573240549066547200?s=20&t=n1qYy1BA_KJ9Vu4od190IA)
 
 ![PROPOSAL #40_](https://user-images.githubusercontent.com/86729290/191941526-e213a76b-0a55-4bbc-89b9-cdf0947077c1.png)
 ____
@@ -43,6 +51,7 @@ TWITTER NEWS AND UDPDATES FOR JUNO
 [16.09.2022](https://twitter.com/Coin_Validator/status/1570746614972817410?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
 [22.09.2022](https://twitter.com/Coin_Validator/status/1572890234274152448?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
 [23.09.2022](https://twitter.com/Coin_Validator/status/1573240549066547200?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
+[25.09.2022](https://twitter.com/Coin_Validator/status/1573958502321717253?s=20&t=n1qYy1BA_KJ9Vu4od190IA),
 
 Some stats:
 
