@@ -46,6 +46,15 @@ ____
 
 ____
 
+- OSMOSIS WEEKLY RECAP
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1575392107673669632?s=20&t=yJ0YCV6hzef381j05oMyjA)
+
+This infographic shows: basic statistics and news about Osmosis.
+![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/192984806-7c88c845-c6ac-4742-989d-16eb44c9e00e.png)
+
+____
+
+
 - Here's the list of Twitter mentions from [COIN SIDE VALIDATOR](https://twitter.com/Coin_Validator)
 
 TWITTER NEWS AND UDPDATES FOR OSMOSIS
@@ -63,6 +72,7 @@ TWITTER NEWS AND UDPDATES FOR OSMOSIS
 [20.09.2022](https://twitter.com/Coin_Validator/status/1572130199864500224?s=20&t=kB7y26MsOwW8u9DuiX8cOw),
 [23.09.2022](https://twitter.com/Coin_Validator/status/1573265492152053762?s=20&t=irEvT6vJx3-3wOQ1KTyADQ),
 [24.09.2022](https://twitter.com/Coin_Validator/status/1573711900801638401?s=20&t=iFW8-zLNxa43xcA4rSsNuw),
+[29.09.2022](https://twitter.com/Coin_Validator/status/1575392107673669632?s=20&t=yJ0YCV6hzef381j05oMyjA),
 
 Some stats:
 
