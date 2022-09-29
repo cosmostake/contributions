@@ -73,6 +73,7 @@ TWITTER NEWS AND UDPDATES FOR OSMOSIS
 [23.09.2022](https://twitter.com/Coin_Validator/status/1573265492152053762?s=20&t=irEvT6vJx3-3wOQ1KTyADQ),
 [24.09.2022](https://twitter.com/Coin_Validator/status/1573711900801638401?s=20&t=iFW8-zLNxa43xcA4rSsNuw),
 [29.09.2022](https://twitter.com/Coin_Validator/status/1575392107673669632?s=20&t=yJ0YCV6hzef381j05oMyjA),
+[29.09.2022](https://twitter.com/Coin_Validator/status/1575413409213972481?s=20&t=uwuk8g8HVy7mORedAU5HMA),
 
 Some stats:
 
@@ -177,6 +178,18 @@ Ukrainian translation:
 https://link.medium.com/pQqfg5Wgttb
 
 ![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
+
+____
+
+- Osmosis Ecosystem Spotlight: REStake
+
+Original:
+[https://link.medium.com/26DOQE3Totb](https://link.medium.com/9pX55K6jItb)
+
+Ukrainian translation:
+[https://link.medium.com/5lC82bLTotb](https://link.medium.com/t3tTGbjjItb)
+
+![1_kUJSU16nCeRjsz6OdpfFFw](https://user-images.githubusercontent.com/86729290/192994513-ca0a9954-0104-40a2-8dd5-ac52d4895ceb.png)  
 
 ____
 
