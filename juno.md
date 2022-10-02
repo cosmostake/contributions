@@ -26,6 +26,15 @@ This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/192138042-a1f68276-9b17-459a-a922-70a8d5e77bdd.png)
 ____
 
+- TOP LIQUIDITY POOL ON JUNO
+
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1576148094537723904?s=20&t=MFKoDZmVl5wPH-5NgVfWJg)
+
+This infographic shows: basic statistics and news about Juno.
+![Fd-YZNvXwAIUm2O](https://user-images.githubusercontent.com/86729290/193443350-ef31444d-0c1c-4df4-be33-2de20dbc5fad.jpeg)
+
+____
+
 - JUNO WEEKLY RECAP
 - [Link to Twitter post](https://twitter.com/Coin_Validator/status/1570008660176166912?s=20&t=Vyate1wHNTQDiFAelboQAw)
 
@@ -52,6 +61,7 @@ TWITTER NEWS AND UDPDATES FOR JUNO
 [22.09.2022](https://twitter.com/Coin_Validator/status/1572890234274152448?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
 [23.09.2022](https://twitter.com/Coin_Validator/status/1573240549066547200?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
 [25.09.2022](https://twitter.com/Coin_Validator/status/1573958502321717253?s=20&t=n1qYy1BA_KJ9Vu4od190IA),
+[01.10.2022](https://twitter.com/Coin_Validator/status/1576148094537723904?s=20&t=MFKoDZmVl5wPH-5NgVfWJg),
 
 Some stats:
 
