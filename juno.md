@@ -10,7 +10,8 @@ This repository is based on the overall work of our team on the development of t
 - [Violetta Markush](https://github.com/vilolaa)
 
 ## Technical Contributions
-- We're validators Juno [Link]
+- We're validators [Juno](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
+<img width="1512" alt="Снимок экрана 2022-10-05 в 13 41" src="https://user-images.githubusercontent.com/86729290/194042341-e8bc375b-55fc-452d-b54f-ddadfc1de677.png">
 
 ## Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
 We create a lot of Juno related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the Juno brand pack, and we often mention the Juno logo or other things related to it.
