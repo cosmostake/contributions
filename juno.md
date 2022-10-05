@@ -50,7 +50,7 @@ ____
 
 - Here's the list of Twitter mentions from [COIN SIDE VALIDATOR](https://twitter.com/Coin_Validator)
 
-TWITTER NEWS AND UDPDATES FOR JUNO
+TWITTER POST FOR JUNO:
 
 [09.09.2022](https://twitter.com/Coin_Validator/status/1568218411938811904?s=20&t=0vohi7MFYMsZ5BZj1qwRaw), 
 [12.09.2022](https://twitter.com/Coin_Validator/status/1569355743782125569?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
@@ -62,6 +62,9 @@ TWITTER NEWS AND UDPDATES FOR JUNO
 [23.09.2022](https://twitter.com/Coin_Validator/status/1573240549066547200?s=20&t=0vohi7MFYMsZ5BZj1qwRaw),
 [25.09.2022](https://twitter.com/Coin_Validator/status/1573958502321717253?s=20&t=n1qYy1BA_KJ9Vu4od190IA),
 [01.10.2022](https://twitter.com/Coin_Validator/status/1576148094537723904?s=20&t=MFKoDZmVl5wPH-5NgVfWJg),
+[03.10.2022](https://twitter.com/Coin_Validator/status/1576499111292870657?s=20&t=NcgSOtTzFAnHA-mg6AKAhA),
+[04.10.2022](https://twitter.com/Coin_Validator/status/1577324863999574017?s=20&t=NcgSOtTzFAnHA-mg6AKAhA),
+[05.10.2022](https://twitter.com/Coin_Validator/status/1577570624939106305?s=20&t=NcgSOtTzFAnHA-mg6AKAhA),
 
 Some stats:
 
