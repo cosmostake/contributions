@@ -94,6 +94,7 @@ We have a YouTube channel:
 1. [COIN SIDE VALIDATORS](https://www.youtube.com/channel/UC5VKIMlsGmlBgQESGPfYmEQ)
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188919692-2f279232-c864-46dd-9ac5-67e26150831a.png">
 
+[![Watch the video](https://img.youtube.com/vi/N2-6znFtJmE/maxresdefault.jpg)](https://youtu.be/N2-6znFtJmE)
 
 VIDEOS WITH OSMOSIS: <br/>
 
