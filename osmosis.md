@@ -2,10 +2,17 @@
 
 # <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR OSMOSIS CHAIN </a> 
 
-This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, OSMOSIS. Our team added information from the COSMØSTAKE validator here as part of this!
+
+
+This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [Osmosis](https://app.osmosis.zone/). Our team added information from the COSMØSTAKE validator here as part of this!
+
+
+
 
 ### Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
-We create a lot of Osmosis related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the Osmosis brand pack, and we often mention the Osmosis logo or other things related to it.
+We create a lot of [Osmosis](https://app.osmosis.zone/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the [Osmosis](https://app.osmosis.zone/) brand pack, and we often mention the [Osmosis](https://app.osmosis.zone/) logo or other things related to it.
+
+
 
 Тeam:
 
@@ -14,24 +21,21 @@ We create a lot of Osmosis related content (Multiple languages, English, Russian
 - [Yan Lytvynenko](https://github.com/ZAZIK3)
 - [Violetta Markush](https://github.com/vilolaa)
 
-____
 
-### The list of contributions for the [Osmosis](https://app.osmosis.zone/)
-
-____
+## List contributions for [Osmosis](https://app.osmosis.zone/)
 
 
 
-### Technical Contributions:
-- We're validators Osmosis [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
+### TECHNICAL CONNTRIBUTIONS:
+
+- We're validators OSMOSIS [COSMØSTAKE](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188917022-0c5eba0d-d965-49be-a456-757708ded14c.png">
 
-____
 
 
 
+### TWITTER:
 
-## Twitter
 We create a lot of Osmosis-related content to improve the community's knowledge of features and inform about Osmosis-related news.
 We use the Osmosis brandbook to match the style of the company. We often mention the Osmosis logo or other related things.
 
