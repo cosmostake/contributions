@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/86729290/188872132-6b00ddf1-4fe3-407b-abd0-a97faa4bfa60.jpg)
+<img width="1280" alt="Frame 362" src="https://user-images.githubusercontent.com/86729290/196033888-2d533c52-c5dd-4d6a-90eb-5685775d642a.png">
+
+
 
 # <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR OSMOSIS CHAIN </a> 
 
@@ -10,7 +12,9 @@ This repository is based on the overall work of our team to develop the COSMOS e
 
 
 ### Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
-We create a lot of [Osmosis](https://app.osmosis.zone/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the [Osmosis](https://app.osmosis.zone/) brand pack, and we often mention the [Osmosis](https://app.osmosis.zone/) logo or other things related to it.
+We create a lot of [Osmosis](https://app.osmosis.zone/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the [Osmosis](https://app.osmosis.zone/) brand pack, and we often mention the [Osmosis](https://app.osmosis.zone/) logo or other things related to it. 
+
+Also, our validator always votes for proposals!
 
 
 
@@ -22,13 +26,13 @@ We create a lot of [Osmosis](https://app.osmosis.zone/) related content (Multipl
 - [Violetta Markush](https://github.com/vilolaa)
 
 
-## List contributions for [Osmosis](https://app.osmosis.zone/)
+# List contributions for [Osmosis](https://app.osmosis.zone/)
 
 
 
 ### TECHNICAL CONNTRIBUTIONS:
 
-- We're validators OSMOSIS [COSMØSTAKE](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
+- We're validator OSMOSIS - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188917022-0c5eba0d-d965-49be-a456-757708ded14c.png">
 
 
@@ -36,34 +40,17 @@ We create a lot of [Osmosis](https://app.osmosis.zone/) related content (Multipl
 
 ### TWITTER:
 
+
+
+
 We create a lot of Osmosis-related content to improve the community's knowledge of features and inform about Osmosis-related news.
 We use the Osmosis brandbook to match the style of the company. We often mention the Osmosis logo or other related things.
 
 - OSMOSIS WEEKLY RECAP
-- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1570338464675303424?s=20&t=hTdnEK5KBfuo_bInGJywrA)
+- [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=hTdnEK5KBfuo_bInGJywrA)
 
 This infographic shows: basic statistics and news about Osmosis.
 ![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/190652369-bc293c1f-402d-4e5f-b863-e4dc766bf3c2.png)
-____
-
-- COSMOS ECOSYSTEM WEEKLY NEWS 
-- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1569634751782461442?s=20&t=9W3vbB6D1SzfWNG4gc_o6A)
-
-This infographic shows: what happened during last week in Cosmos Ecosystem. Osmosis - have part in every episode!.
-![COSMOS ECOSYSTEM WEEKLY NEWS 111](https://user-images.githubusercontent.com/86729290/190658117-35c346e8-7d43-4876-b715-7f743430aeda.png)
-____
-
-- TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D
-- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1569014572102606849?s=20&t=9W3vbB6D1SzfWNG4gc_o6A)
-
-We also create different statistical infographics like this one: 
-![FcZCKKfXkAEr33t](https://user-images.githubusercontent.com/86729290/190659130-a5cafe35-4303-4b87-adad-5c74d62a090f.jpeg)
-____
-
-- We create a suggestion and reminder for voting:
-
-![PROPOSAL #329_](https://user-images.githubusercontent.com/86729290/190895439-da552084-a8ed-485e-af57-210c76072064.png)
-
 ____
 
 - OSMOSIS WEEKLY RECAP
@@ -74,6 +61,20 @@ This infographic shows: basic statistics and news about Osmosis.
 
 ____
 
+
+- TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1569014572102606849?s=20&t=9W3vbB6D1SzfWNG4gc_o6A)
+
+We also create different statistical infographics like this one: 
+![FcZCKKfXkAEr33t](https://user-images.githubusercontent.com/86729290/190659130-a5cafe35-4303-4b87-adad-5c74d62a090f.jpeg)
+____
+
+- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
+
+![PROPOSAL #329_](https://user-images.githubusercontent.com/86729290/190895439-da552084-a8ed-485e-af57-210c76072064.png)
+
+____
+
 - [Link to Twitter post](https://twitter.com/Coin_Validator/status/1575745485872455681?s=20&t=U8VEA6oS0Pcem4OyRUCP4Q)
 
 - We create a suggestion and reminder for voting:
@@ -81,29 +82,33 @@ ____
 
 ____
 
+- COSMOS ECOSYSTEM WEEKLY NEWS 
+- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1569634751782461442?s=20&t=9W3vbB6D1SzfWNG4gc_o6A)
+
+This infographic shows: what happened during last week in Cosmos Ecosystem. Osmosis - have part in every episode!.
+![COSMOS ECOSYSTEM WEEKLY NEWS 111](https://user-images.githubusercontent.com/86729290/190658117-35c346e8-7d43-4876-b715-7f743430aeda.png)
+____
 
 
-
-- Here's the list of Twitter mentions from [COIN SIDE VALIDATOR](https://twitter.com/Coin_Validator)
+- Here's the list of Twitter mentions from [COSMØSTAKE](https://twitter.com/COSM0STAKE)
 
 TWITTER NEWS AND UDPDATES FOR OSMOSIS
 
-[10.09.2022](https://twitter.com/Coin_Validator/status/1568520718299660288?s=20&t=T-9U9G0uflwkSEFRNmJZ6w), 
-[11.09.2022](https://twitter.com/Coin_Validator/status/1569014572102606849?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
-[12.09.2022](https://twitter.com/Coin_Validator/status/1569274220068147200?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
-[13.09.2022](https://twitter.com/Coin_Validator/status/1569634751782461442?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
-[14.09.2022](https://twitter.com/Coin_Validator/status/1569975867564240896?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
-[15.09.2022](https://twitter.com/Coin_Validator/status/1570338464675303424?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
-[17.09.2022](https://twitter.com/Coin_Validator/status/1571066403540865025?s=20&t=T-9U9G0uflwkSEFRNmJZ6w),
-[17.09.2022](https://twitter.com/Coin_Validator/status/1571179932901953538?s=20&t=U-1tKV8g_WheSo7l90_3_w),
-[18.09.2022](https://twitter.com/Coin_Validator/status/1571423306812739584?s=20&t=U-1tKV8g_WheSo7l90_3_w),
-[19.09.2022](https://twitter.com/Coin_Validator/status/1571787435511812097?s=20&t=kB7y26MsOwW8u9DuiX8cOw),
-[20.09.2022](https://twitter.com/Coin_Validator/status/1572130199864500224?s=20&t=kB7y26MsOwW8u9DuiX8cOw),
-[23.09.2022](https://twitter.com/Coin_Validator/status/1573265492152053762?s=20&t=irEvT6vJx3-3wOQ1KTyADQ),
-[24.09.2022](https://twitter.com/Coin_Validator/status/1573711900801638401?s=20&t=iFW8-zLNxa43xcA4rSsNuw),
-[29.09.2022](https://twitter.com/Coin_Validator/status/1575392107673669632?s=20&t=yJ0YCV6hzef381j05oMyjA),
-[29.09.2022](https://twitter.com/Coin_Validator/status/1575413409213972481?s=20&t=uwuk8g8HVy7mORedAU5HMA),
-[30.09.2022](https://twitter.com/Coin_Validator/status/1575745485872455681?s=20&t=U8VEA6oS0Pcem4OyRUCP4Q),
+[10.09.2022](https://twitter.com/COSM0STAKE/status/1568520718299660288?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw), 
+[11.09.2022](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[12.09.2022](https://twitter.com/COSM0STAKE/status/1569274220068147200?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[14.09.2022](https://twitter.com/COSM0STAKE/status/1569975867564240896?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[15.09.2022](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[17.09.2022](https://twitter.com/COSM0STAKE/status/1571066403540865025?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[17.09.2022](https://twitter.com/COSM0STAKE/status/1571179932901953538?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[19.09.2022](https://twitter.com/COSM0STAKE/status/1571787435511812097?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[20.09.2022](https://twitter.com/COSM0STAKE/status/1572130199864500224?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[23.09.2022](https://twitter.com/COSM0STAKE/status/1573265492152053762?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[24.09.2022](https://twitter.com/COSM0STAKE/status/1573711900801638401?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[29.09.2022](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[29.09.2022](https://twitter.com/COSM0STAKE/status/1575413409213972481?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[30.09.2022](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [03.10.2022](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 [04.10.2022](https://twitter.com/COSM0STAKE/status/1577244552691609600?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 [05.10.2022](https://twitter.com/COSM0STAKE/status/1577734760927006720?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
