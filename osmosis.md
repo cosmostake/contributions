@@ -1,4 +1,5 @@
-<img width="1280" alt="Frame 362" src="https://user-images.githubusercontent.com/86729290/196033888-2d533c52-c5dd-4d6a-90eb-5685775d642a.png">
+<img width="1280" alt="Osmosis" src="https://user-images.githubusercontent.com/86729290/196037521-739dfd72-017f-4bc9-9306-7a965f3943d8.png">
+
 
 
 
@@ -50,7 +51,6 @@ We use the Osmosis brandbook to match the style of the company. We often mention
 This infographic shows: basic statistics and news about Osmosis.
 ![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196035000-736bb920-28a6-412c-9b72-f426ab644cd0.png)
 
-____
 
 - OSMOSIS WEEKLY RECAP
 - [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Zw67wp3adXfDp99xKmkFPw)
@@ -59,34 +59,31 @@ This infographic shows: basic statistics and news about Osmosis.
 ![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196034997-e1b716e3-ef11-4ddd-a364-c9d70a27f36e.png)
 
 
-____
 
 - TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D
 - [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Zw67wp3adXfDp99xKmkFPw)
 
 ![TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D](https://user-images.githubusercontent.com/86729290/196035296-34ea712f-cb2f-4498-ae4d-dc6f6a2656b3.png)
 
-____
+
 
 - WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
+- [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
+- ![PROPOSAL #329](https://user-images.githubusercontent.com/86729290/196037734-35f27121-26c7-412e-a6c7-c4f2b295f773.png)
 
-![PROPOSAL #329_](https://user-images.githubusercontent.com/86729290/190895439-da552084-a8ed-485e-af57-210c76072064.png)
 
-____
 
-- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1575745485872455681?s=20&t=U8VEA6oS0Pcem4OyRUCP4Q)
+- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
+- [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
+![PROPOSAL 337]([https://user-images.githubusercontent.com/86729290/196037846-7eee6172-fc18-4424-a197-52c5d9dcb813.png)
 
-- We create a suggestion and reminder for voting:
-![PROPOSAL _337](https://user-images.githubusercontent.com/86729290/193214268-c3b8b24b-bb4e-4745-8ead-0ce16061214a.png)
 
-____
 
 - COSMOS ECOSYSTEM WEEKLY NEWS 
 - [Link to Twitter post](https://twitter.com/Coin_Validator/status/1569634751782461442?s=20&t=9W3vbB6D1SzfWNG4gc_o6A)
 
 This infographic shows: what happened during last week in Cosmos Ecosystem. Osmosis - have part in every episode!.
 ![COSMOS ECOSYSTEM WEEKLY NEWS 111](https://user-images.githubusercontent.com/86729290/190658117-35c346e8-7d43-4876-b715-7f743430aeda.png)
-____
 
 
 - Here's the list of Twitter mentions from [COSMØSTAKE](https://twitter.com/COSM0STAKE)
