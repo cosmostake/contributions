@@ -40,33 +40,32 @@ Also, our validator always votes for proposals!
 
 ### TWITTER:
 
-
-
-
 We create a lot of Osmosis-related content to improve the community's knowledge of features and inform about Osmosis-related news.
 We use the Osmosis brandbook to match the style of the company. We often mention the Osmosis logo or other related things.
+
 
 - OSMOSIS WEEKLY RECAP
 - [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=hTdnEK5KBfuo_bInGJywrA)
 
 This infographic shows: basic statistics and news about Osmosis.
-![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/190652369-bc293c1f-402d-4e5f-b863-e4dc766bf3c2.png)
+![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196035000-736bb920-28a6-412c-9b72-f426ab644cd0.png)
+
 ____
 
 - OSMOSIS WEEKLY RECAP
-- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1575392107673669632?s=20&t=yJ0YCV6hzef381j05oMyjA)
+- [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Zw67wp3adXfDp99xKmkFPw)
 
 This infographic shows: basic statistics and news about Osmosis.
-![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/192984806-7c88c845-c6ac-4742-989d-16eb44c9e00e.png)
+![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196034997-e1b716e3-ef11-4ddd-a364-c9d70a27f36e.png)
+
 
 ____
 
-
 - TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D
-- [Link to Twitter post](https://twitter.com/Coin_Validator/status/1569014572102606849?s=20&t=9W3vbB6D1SzfWNG4gc_o6A)
+- [Link to Twitter post](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Zw67wp3adXfDp99xKmkFPw)
 
-We also create different statistical infographics like this one: 
-![FcZCKKfXkAEr33t](https://user-images.githubusercontent.com/86729290/190659130-a5cafe35-4303-4b87-adad-5c74d62a090f.jpeg)
+![TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D](https://user-images.githubusercontent.com/86729290/196035296-34ea712f-cb2f-4498-ae4d-dc6f6a2656b3.png)
+
 ____
 
 - WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
