@@ -1,8 +1,9 @@
-![1500x500 Main Git](https://user-images.githubusercontent.com/86729290/191212200-11681623-982d-42d2-9749-9dc74f255880.png)
+![GITHUB LOGO](https://user-images.githubusercontent.com/86729290/196029540-c5cd7c45-9407-4ccd-b925-faa8ac522712.png)
 
-COIN SIDE contributions to the Networks
 
-COIN SIDE validator not only provide security to the Networks, but also contribute for the development of the Networks and Community
+COSMØSTAKE contributions to the Networks
+
+COSMØSTAKE validator not only provide security to the Networks, but also contribute for the development of the Networks and Community
 
 Here is the list of our contributions to:
 
