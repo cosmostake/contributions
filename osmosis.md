@@ -1,19 +1,35 @@
 ![image](https://user-images.githubusercontent.com/86729290/188872132-6b00ddf1-4fe3-407b-abd0-a97faa4bfa60.jpg)
-# <h1 align="center"> COIN SIDE VALIDATOR CONTRIBUTIONS FOR OSMOSIS CHAIN </a> 
-This repository is based on the overall work of our team on the development of the COSMOS ecosystems and in particular OSMOSIS. Our team has added contributions from the COIN SIDE validator here as part of this!
-# The list of contributions for the [Osmosis](https://app.osmosis.zone/)
+
+# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR OSMOSIS CHAIN </a> 
+
+This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, OSMOSIS. Our team added information from the COSMØSTAKE validator here as part of this!
+
+### Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
+We create a lot of Osmosis related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the Osmosis brand pack, and we often mention the Osmosis logo or other things related to it.
+
+Тeam:
 
 - [Laura Kharkevych](https://github.com/laura2727)
 - [Max Levush](https://github.com/maxlevush-COINSIDE)
 - [Yan Lytvynenko](https://github.com/ZAZIK3)
 - [Violetta Markush](https://github.com/vilolaa)
 
-## Technical Contributions
+____
+
+### The list of contributions for the [Osmosis](https://app.osmosis.zone/)
+
+____
+
+
+
+### Technical Contributions:
 - We're validators Osmosis [Osmosis](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188917022-0c5eba0d-d965-49be-a456-757708ded14c.png">
 
-## Community Growth (Twitter, Youtube, Medium, Gitbook etc.) 
-We create a lot of Osmosis related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the Osmosis brand pack, and we often mention the Osmosis logo or other things related to it.
+____
+
+
+
 
 ## Twitter
 We create a lot of Osmosis-related content to improve the community's knowledge of features and inform about Osmosis-related news.
@@ -61,6 +77,9 @@ ____
 
 ____
 
+
+
+
 - Here's the list of Twitter mentions from [COIN SIDE VALIDATOR](https://twitter.com/Coin_Validator)
 
 TWITTER NEWS AND UDPDATES FOR OSMOSIS
@@ -81,6 +100,12 @@ TWITTER NEWS AND UDPDATES FOR OSMOSIS
 [29.09.2022](https://twitter.com/Coin_Validator/status/1575392107673669632?s=20&t=yJ0YCV6hzef381j05oMyjA),
 [29.09.2022](https://twitter.com/Coin_Validator/status/1575413409213972481?s=20&t=uwuk8g8HVy7mORedAU5HMA),
 [30.09.2022](https://twitter.com/Coin_Validator/status/1575745485872455681?s=20&t=U8VEA6oS0Pcem4OyRUCP4Q),
+[03.10.2022](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[04.10.2022](https://twitter.com/COSM0STAKE/status/1577244552691609600?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[05.10.2022](https://twitter.com/COSM0STAKE/status/1577734760927006720?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[06.10.2022](https://twitter.com/COSM0STAKE/status/1577972885079162881?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[10.10.2022](https://twitter.com/COSM0STAKE/status/1579408168417120256?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[16.10.2022](https://twitter.com/COSM0STAKE/status/1581551305407221760?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 
 Some stats:
 
@@ -88,13 +113,15 @@ Some stats:
 
 ____
 
-## YouTube
-This is our biggest part of our contribution to Osmosis: 
-We have a YouTube channel: 
-1. [COIN SIDE VALIDATORS](https://www.youtube.com/channel/UC5VKIMlsGmlBgQESGPfYmEQ)
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188919692-2f279232-c864-46dd-9ac5-67e26150831a.png">
 
-[![Watch the video](https://img.youtube.com/vi/N2-6znFtJmE/maxresdefault.jpg)](https://youtu.be/N2-6znFtJmE)
+
+
+### YouTube
+This is our biggest part of our contribution to Osmosis: 
+
+- [USE $DOT ON THE OSMOSIS NETWORK](https://www.youtube.com/watch?v=N2-6znFtJmE&t=316s)
+
+[![USE $DOT ON THE OSMOSIS NETWORK](https://img.youtube.com/vi/N2-6znFtJmE/maxresdefault.jpg)](https://youtu.be/N2-6znFtJmE)
 
 VIDEOS WITH OSMOSIS: <br/>
 
@@ -110,7 +137,7 @@ Also in Russian:
 Also in Ukrainian:
 - [Огляд протоколу Osmosis / Його задіяність на ринку криптовалют](https://www.youtube.com/watch?v=7Cz1OCaQ9qc&t=103s)
 
-## Medium 
+### Medium 
 We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
 - [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
@@ -201,7 +228,7 @@ Ukrainian translation:
 
 ____
 
-## Gitbook
+### Gitbook
 Also, our team made a complete translation of the Osmosis documentation into Ukrainian and Russian.
 
 - [Osmosis Doc (Ukrainian translation)](https://laura-kharkevych.gitbook.io/osmosis-docs.osmosis.zone-ukrainian-translation/)
