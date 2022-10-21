@@ -121,6 +121,7 @@ This infographic shows: basic statistics and news about Osmosis.
 [16.10.2022](https://twitter.com/COSM0STAKE/status/1581551305407221760?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1583336391312027648?s=20&t=kLecoXJdOVoUwv3AT-QwSw),
+[21.10.2022](https://twitter.com/COSM0STAKE/status/1583457604533374976?s=20&t=ri2r9WHSIRp7wJZ6encytQ),
 
 SOME STATS:
 
@@ -138,13 +139,20 @@ SOME STATS:
 
 
 
+- $OSMO - Superfluid Staking
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xYo0Y7ky_Q&t=9s)
+
+![$OSMO - Superfluid Staking](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
+
+
+
 
 - $OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=G7gtYtql6Yk&t=159s)
 
-![USE $DOT ON THE OSMOSIS NETWORK](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
-
+![$OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
 
 
 
