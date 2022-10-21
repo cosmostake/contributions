@@ -34,7 +34,8 @@ Also, our validator always votes for proposals!
 ### TECHNICAL CONNTRIBUTIONS:
 
 - We're validator OSMOSIS - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
-<img width="1512" alt="image" src="https://user-images.githubusercontent.com/86729290/188917022-0c5eba0d-d965-49be-a456-757708ded14c.png">
+<img width="1512" alt="Osmosis" src="https://user-images.githubusercontent.com/86729290/197131735-3defa4e9-f6e7-4b5a-bff8-1bc3e23b271e.png">
+
 
 
 
