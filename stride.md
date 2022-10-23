@@ -1,1 +1,2 @@
-<img width="1280" alt="Stride" src="https://user-images.githubusercontent.com/86729290/192094203-521b4989-b443-4e38-b1b6-c2b6beb6b37b.png">
+<img width="1280" alt="Stride" src="https://user-images.githubusercontent.com/86729290/197390210-c531ce44-1161-41dd-8e14-dd6291b44758.png">
+
