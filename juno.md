@@ -33,6 +33,8 @@ Also, our validator always votes for proposals!
 - We're validator JUNO - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
 <img width="1512" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197390564-5b71fab1-3847-4516-9bef-562ed298bb1c.png">
 
+________________________________________________________________________________________________________
+
 
 ### YOUTUBE
 
@@ -44,67 +46,32 @@ Also, our validator always votes for proposals!
 
 
 
-- $OSMO - Superfluid Staking
+- WHAT IS $JUNO HALVING ?
 
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xYo0Y7ky_Q&t=9s)
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=NtDBBVgBLfg&t=27s)
 
-![$OSMO - Superfluid Staking](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
-
-
-
-
-- $OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=G7gtYtql6Yk&t=159s)
-
-![$OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
+![WHAT IS $JUNO HALVING ?](https://user-images.githubusercontent.com/86729290/197390809-598a9eb4-da2c-4e1f-8543-f2b491e01cb7.png)
 
 
 
 
-- HOW TO STAKE $OSMO
 
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=t1sMqlP8eHU&t=85s)
+- $JUNO - TOKENOMICS
 
-![HOW TO STAKE $OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=W3j2XKHi3NQ&t=92s)
 
-
-
-- OVERVIEW OF THE OSMOSIS PROTOCOL
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=uiGmfNv-x-I)
-
-![FcSBL3wWYAAEuxT](https://user-images.githubusercontent.com/86729290/196039308-fea9f256-d3f8-45fc-853f-2870ac3f1c90.jpeg)
+![$JUNO - TOKENOMICS](https://user-images.githubusercontent.com/86729290/197390922-40f78a61-a186-4801-bdcf-1de3d262120b.jpeg)
 
 
 
-- DEPOSIT IBC ASSETS / LEARN ABOUT NEW TECHNOLOGY IN THE COSMOS ECOSYSTEM
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=9dzMRhsaVv0&t=30s)
-
-![DEPOSIT IBC ASSETS / LEARN ABOUT NEW TECHNOLOGY IN THE COSMOS ECOSYSTEM](https://user-images.githubusercontent.com/86729290/196039524-b5f22ce6-79a0-48ee-b2ad-fe2079f896d6.jpeg)
 
 
-- INTERACTION WITH OSMOSIS EXCHANGE. SWAP TOKENS. PROVIDE LIQUIDITY.STAKING. EARN LIQUIDITY REWARDS
+- JUNO: OVERVIEW
 
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=f5WQvieoNk8&t=24s)
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=FgUuS7-jQB0&t=28s)
 
-![INTERACTION WITH OSMOSIS EXCHANGE. SWAP TOKENS. PROVIDE LIQUIDITY.STAKING. EARN LIQUIDITY REWARDS](https://user-images.githubusercontent.com/86729290/196039873-b19a0bf5-2aed-4b53-8ea8-98fe670db9bc.jpeg)
+![JUNO: OVERVIEW](https://user-images.githubusercontent.com/86729290/197391017-bf6c88f2-920c-4c04-9de4-bd935a6934fa.jpeg)
 
-
-
-- UNDERSTANdDING THE LIQUIDITY INCENTIVE PROCESS AT OSMOSIS
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=_GbfedqeLsc&t=8s)
-
-![UNDERSTANdDING THE LIQUIDITY INCENTIVE PROCESS AT OSMOSIS](https://user-images.githubusercontent.com/86729290/196039983-14b1914a-109a-495a-ab99-edfef56bf7fd.jpeg)
-
-
-WE HAVE ALSO RECORDED "OVERVIEW OF THE OSMOSIS PROTOCOL" VIDEOS IN UKRAINIAN AND RUSSIA:
-
-- [Огляд протоколу Osmosis UA](https://www.youtube.com/watch?v=7Cz1OCaQ9qc&t=82s)
-
-- [Обзор протокола Osmosis RU](https://www.youtube.com/watch?v=-shM8bDdEQc&t=20s)
 
 ________________________________________________________________________________________________________
 
