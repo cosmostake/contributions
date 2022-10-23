@@ -79,16 +79,16 @@ ________________________________________________________________________________
 
 ### TWITTER:
 
-We create a lot of Osmosis-related content to improve the community's knowledge of features and inform about Osmosis-related news.
-We use the Osmosis brandbook to match the style of the company. We often mention the Osmosis logo or other related things.
+We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
+We use the Juno brandbook to match the style of the company. We often mention the Juno logo or other related things.
 
 
-- OSMOSIS WEEKLY RECAP
+- JUNO WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=hTdnEK5KBfuo_bInGJywrA)
 
 This infographic shows: basic statistics and news about Osmosis.
-![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196035000-736bb920-28a6-412c-9b72-f426ab644cd0.png)
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196035000-736bb920-28a6-412c-9b72-f426ab644cd0.png)
 
 
 - OSMOSIS WEEKLY RECAP
