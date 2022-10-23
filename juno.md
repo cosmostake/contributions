@@ -1,4 +1,4 @@
-<img width="1280" alt="Juno git" src="https://user-images.githubusercontent.com/86729290/191205691-1c4ed765-2a5e-421d-8ca7-ecbae9ea6533.png">
+<img width="1280" alt="Frame 313" src="https://user-images.githubusercontent.com/86729290/197387651-98adfb28-7770-4945-8a83-8bf0bf05c37d.png">
 
 # <h1 align="center"> COIN SIDE VALIDATOR CONTRIBUTIONS FOR JUNO CHAIN </a> 
 This repository is based on the overall work of our team on the development of the JUNO ecosystems and in particular JUNO. Our team has added contributions from the COIN SIDE validator here as part of this!
