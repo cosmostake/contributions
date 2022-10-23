@@ -1,1 +1,1 @@
-<img width="1280" alt="Sifchain logo git" src="https://user-images.githubusercontent.com/86729290/191206476-39201a5d-1d23-4120-9fde-300859566364.png">
+<img width="1280" alt="Sifchain" src="https://user-images.githubusercontent.com/86729290/197389933-08b9318e-594b-4d21-a960-614734a6d7a1.png">
