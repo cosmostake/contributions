@@ -122,6 +122,7 @@ This infographic shows: basic statistics and news about Osmosis.
 
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1583336391312027648?s=20&t=kLecoXJdOVoUwv3AT-QwSw),
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1583457604533374976?s=20&t=ri2r9WHSIRp7wJZ6encytQ),
+[21.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=Xk0T7JtntmC47PCBvp3wqw),
 
 SOME STATS:
 
@@ -156,12 +157,18 @@ SOME STATS:
 
 
 
-
 - HOW TO STAKE $OSMO
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=x5VVI_Mu0xs&t=102s)
+
+![HOW TO STAKE $OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
+
+
+- $OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=t1sMqlP8eHU&t=85s)
 
-![HOW TO STAKE $OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
+![$OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)](https://user-images.githubusercontent.com/86729290/197693643-00ade4ca-c68c-4aa7-ab86-1e478a4f7208.jpeg)
 
 
 
@@ -246,21 +253,21 @@ ____
 Also in Russian:
 
 - [Обзор протокола Osmosis. Его задействованность в рынке криптовалют (Russian translation)](https://link.medium.com/OK4WjkfUSsb)
-- 
+
 - [Депозит активов IBC (Russian translation)](https://link.medium.com/MYiW8OLVSsb)
-- 
+
 - [Взаимодействие с биржей Osmosis. Свап токенов. Обеспечение ликвидности. Заработок вознаграждений за ликвидность. (Russian translation)](https://link.medium.com/0Nzs4pVVSsb)
-- 
+
 - [Понимание процесса стимулирования ликвидности на Osmosis (Russian translation)](https://link.medium.com/NOIxiJ5VSsb)
 
 Also in Ukrainian:
 
 - [Огляд протоколу Osmosis. Його задіяність на ринку криптовалют. (Ukrainian translation)](https://link.medium.com/UtyCKiHVSsb)
-- 
+
 - [Депозит активів IBC (Ukrainian translation)](https://link.medium.com/X9rdk4PVSsb)
-- 
+
 - [Взаємодія з биржею Osmosis. Свап токенів. Забезпечення ліквідності. Заробіток винагород за ліквідність. (Ukrainian translation)](https://link.medium.com/e5UsxaYVSsb)
-- 
+
 - [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
 
 ________________________________________________________________________________________________________
