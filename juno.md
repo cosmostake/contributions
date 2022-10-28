@@ -1,7 +1,6 @@
 <img width="1280" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197387749-d7c48458-3cc7-4579-bc87-8c98a49ba67a.png">
 
-# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR JUNO CHAIN </a> 
-
+# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR JUNO </a> 
 
 
 This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [Juno](https://app.osmosis.zone/). Our team added information from the COSMØSTAKE validator here as part of this!
@@ -55,6 +54,14 @@ ________________________________________________________________________________
 
 
 
+- $JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xZp7-Uiuaw&t=1s)
+
+![$JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM](https://user-images.githubusercontent.com/86729290/198672692-0a876c58-105f-4e18-bf59-ffc313fc37b0.jpeg)
+
+
+
 
 - $JUNO - TOKENOMICS
 
@@ -80,15 +87,16 @@ ________________________________________________________________________________
 ### TWITTER:
 
 We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
-We use the Juno brandbook to match the style of the company. We often mention the Juno logo or other related things.
+We use the Juno brandbook to match the style of the company. We often mention the [Juno](https://www.junonetwork.io/)logo or other related things.
 
 
-- JUNO WEEKLY RECAP
+- $JUNO WEEKLY RECAP
 
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=hTdnEK5KBfuo_bInGJywrA)
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=wiy1F5ezev7_tmry9EnnbA)
 
 This infographic shows: basic statistics and news about Osmosis.
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196035000-736bb920-28a6-412c-9b72-f426ab644cd0.png)
+![$JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/198673268-9a6d8d0c-82a1-4fee-8890-ec9877b5780c.png)
+
 
 
 - OSMOSIS WEEKLY RECAP
