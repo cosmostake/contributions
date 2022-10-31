@@ -42,8 +42,8 @@ Also, our validator always votes for proposals!
 
 ### TWITTER:
 
-We create a lot of Osmosis-related content to improve the community's knowledge of features and inform about Osmosis-related news.
-We use the Osmosis brandbook to match the style of the company. We often mention the Osmosis logo or other related things.
+We create a lot of [Osmosis](https://app.osmosis.zone/)-related content to improve the community's knowledge of features and inform about Osmosis-related news.
+We use the [Osmosis](https://app.osmosis.zone/) brandbook to match the style of the company. We often mention the [Osmosis](https://app.osmosis.zone/) logo or other related things.
 
 
 - OSMOSIS WEEKLY RECAP
