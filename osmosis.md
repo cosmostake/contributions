@@ -124,6 +124,9 @@ This infographic shows: basic statistics and news about Osmosis.
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1583457604533374976?s=20&t=ri2r9WHSIRp7wJZ6encytQ),
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=Xk0T7JtntmC47PCBvp3wqw),
 
+[25.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=mmzv4zZ13NIVpovY97wXUw),
+[30.10.2022](https://twitter.com/COSM0STAKE/status/1586671537989586950?s=20&t=mmzv4zZ13NIVpovY97wXUw),
+
 SOME STATS:
 
 <img width="592" alt="Снимок экрана 2022-10-16 в 16 46" src="https://user-images.githubusercontent.com/86729290/196038988-cb28cc24-edf8-4abe-b8a1-ccbd169c5a79.png">
@@ -132,7 +135,7 @@ SOME STATS:
 
 ### YOUTUBE
 
-- USE $DOT ON THE OSMOSIS NETWORK
+- USE DOT ON THE OSMOSIS NETWORK
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=N2-6znFtJmE&t=316s)
 
@@ -140,35 +143,43 @@ SOME STATS:
 
 
 
-- $OSMO - Superfluid Staking
+- OSMO - Superfluid Staking
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xYo0Y7ky_Q&t=9s)
 
-![$OSMO - Superfluid Staking](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
+![OSMO - Superfluid Staking](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
 
 
 
 
-- $OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)
+- OSMO & AXL - Cross Chain Liquidity (Satellite Tutorials)
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=G7gtYtql6Yk&t=159s)
 
-![$OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
+![OSMO & AXL - Cross Chain Liquidity (Satellite Tutorials)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
 
 
 
-- HOW TO STAKE $OSMO
+- OSMO - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=vDu2Nn3Za8I&t=33s)
+
+![OSMO - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.](https://user-images.githubusercontent.com/86729290/198932513-36a2a9ba-7d8d-4756-9eda-c0026b5cfe23.jpeg)
+
+
+
+- HOW TO STAKE OSMO
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=x5VVI_Mu0xs&t=102s)
 
-![HOW TO STAKE $OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
+![HOW TO STAKE OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
 
 
-- $OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)
+- OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=t1sMqlP8eHU&t=85s)
 
-![$OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)](https://user-images.githubusercontent.com/86729290/197693643-00ade4ca-c68c-4aa7-ab86-1e478a4f7208.jpeg)
+![OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)](https://user-images.githubusercontent.com/86729290/197693643-00ade4ca-c68c-4aa7-ab86-1e478a4f7208.jpeg)
 
 
 
@@ -176,7 +187,7 @@ SOME STATS:
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=uiGmfNv-x-I)
 
-![FcSBL3wWYAAEuxT](https://user-images.githubusercontent.com/86729290/196039308-fea9f256-d3f8-45fc-853f-2870ac3f1c90.jpeg)
+![OVERVIEW OF THE OSMOSIS PROTOCOL](https://user-images.githubusercontent.com/86729290/196039308-fea9f256-d3f8-45fc-853f-2870ac3f1c90.jpeg)
 
 
 
