@@ -227,7 +227,7 @@ ________________________________________________________________________________
 
 
 
-### COSMØSTAKE VOTES FOR PROPOSALS:
+### COSMØSTAKE REGULARLY VOTES FOR PROPOSALS:
 
 PROPOSAL #347
 
@@ -237,9 +237,6 @@ PROPOSAL #329
 
 <img width="609" alt="1" src="https://user-images.githubusercontent.com/86729290/196042403-e09e9dba-2d87-4bda-857f-98876ad3d9e6.png">
 
-PROPOSAL #340
-
-<img width="595" alt="2" src="https://user-images.githubusercontent.com/86729290/196042555-dbd1985e-d1a4-45fe-8330-cb1103280bae.png">
 
 
 
