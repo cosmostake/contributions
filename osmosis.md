@@ -73,15 +73,16 @@ This infographic shows: basic statistics and news about Osmosis.
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
 
-![PROPOSAL #329](https://user-images.githubusercontent.com/86729290/196038745-2fe57aff-f664-42f9-ac77-6993230ac5f0.png)
+![PROPOSAL 337](https://user-images.githubusercontent.com/86729290/196038745-2fe57aff-f664-42f9-ac77-6993230ac5f0.png)
 
 
 
 - WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
 
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=eFHSptW1Ck9pFdSS_T52iw)
 
-![PROPOSAL 337](https://user-images.githubusercontent.com/86729290/196038149-e4b090a1-1461-4579-bccb-b544ff6aea67.png)
+![PROPOSAL 339](https://user-images.githubusercontent.com/86729290/198933998-cd392313-bb1c-472d-a9c7-ba32bc2811ed.png)
+
 
 
 - COSMOS ECOSYSTEM WEEKLY NEWS 
@@ -89,6 +90,9 @@ This infographic shows: basic statistics and news about Osmosis.
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=8BMQgsZa848pu_m3TayiuA)
 
 ![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/196038229-db76ead3-dfa0-4043-9224-7d2f16992314.png)
+
+
+
 
 ### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [OSMOSIS](https://app.osmosis.zone/)
 
