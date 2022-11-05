@@ -31,10 +31,17 @@ Also, our validator always votes for proposals!
 
 
 
+
+__________________________________________________________________________________________________________________________________________________________
+
 ### TECHNICAL CONNTRIBUTIONS:
 
 - We're validator OSMOSIS - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
 <img width="1512" alt="Osmosis" src="https://user-images.githubusercontent.com/86729290/197131735-3defa4e9-f6e7-4b5a-bff8-1bc3e23b271e.png">
+
+__________________________________________________________________________________________________________________________________________________________
+
+
 
 
 
@@ -46,13 +53,11 @@ We create a lot of [Osmosis](https://app.osmosis.zone/)-related content to impro
 We use the [Osmosis](https://app.osmosis.zone/) brandbook to match the style of the company. We often mention the [Osmosis](https://app.osmosis.zone/) logo or other related things.
 
 
-
 - OSMOSIS THE ECOSYSTEM
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1588471348854423552?s=20&t=GpGYYLSsLssO8lvqFI1YoQ)
 
-This infographic shows: basic statistics and news about Osmosis.
-![OSMOSIS THE ECOSYSTEM]
+<img width="1274" alt="OSMOSIS THE ECOSYSTEM" src="https://user-images.githubusercontent.com/86729290/200123569-5d4c29a0-ae76-4dae-97c4-98bf8673ddff.png">
 
 
 
@@ -141,10 +146,17 @@ This infographic shows: basic statistics and news about Osmosis.
 
 [25.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=mmzv4zZ13NIVpovY97wXUw),
 [30.10.2022](https://twitter.com/COSM0STAKE/status/1586671537989586950?s=20&t=mmzv4zZ13NIVpovY97wXUw),
+[03.11.2022](https://twitter.com/COSM0STAKE/status/1588150550146736130?s=20&t=j6c2cWh0PjmK4VLfx9ECmg),
 
 SOME STATS:
 
 <img width="592" alt="Снимок экрана 2022-10-16 в 16 46" src="https://user-images.githubusercontent.com/86729290/196038988-cb28cc24-edf8-4abe-b8a1-ccbd169c5a79.png">
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
 
 
 
@@ -158,43 +170,52 @@ SOME STATS:
 
 
 
-- OSMO - Superfluid Staking
+- OSMOSIS - SUPERFLUID STAKING
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xYo0Y7ky_Q&t=9s)
 
-![OSMO - Superfluid Staking](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
+![OSMOSIS - SUPERFLUID STAKING](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
 
 
 
 
-- OSMO & AXL - Cross Chain Liquidity (Satellite Tutorials)
+- OSMOSIS & AXELAR - CROSS CHAIN LIQUIDITY (SATELLITE TUTORIALS)
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=G7gtYtql6Yk&t=159s)
 
-![OSMO & AXL - Cross Chain Liquidity (Satellite Tutorials)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
+![OSMOSIS & AXELAR - CROSS CHAIN LIQUIDITY (SATELLITE TUTORIALS)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
 
 
 
-- OSMO - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.
+- OSMOSIS - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=vDu2Nn3Za8I&t=33s)
 
-![OSMO - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.](https://user-images.githubusercontent.com/86729290/198932513-36a2a9ba-7d8d-4756-9eda-c0026b5cfe23.jpeg)
+![OSMOSIS - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.](https://user-images.githubusercontent.com/86729290/198932513-36a2a9ba-7d8d-4756-9eda-c0026b5cfe23.jpeg)
 
 
 
-- HOW TO STAKE OSMO
+- HOW TO STAKE OSMOSIS
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=x5VVI_Mu0xs&t=102s)
 
-![HOW TO STAKE OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
+![HOW TO STAKE OSMOSIS](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
 
 
-- OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)
+- OSMOSIS - EXTERNAL INCENTIVE POOLS ON OSMOSIS FRONTIER
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=flAIVKbSgo8&t=165s)
+
+![OSMOSIS - EXTERNAL INCENTIVE POOLS ON OSMOSIS FRONTIER](https://user-images.githubusercontent.com/86729290/200123872-60105f66-3b62-4363-8935-4f5bf9921255.jpeg)
+
+
+
+
+- OSMOSIS - INTEGRATION OF KADO MONEY (FIAT TO DEFI)
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=t1sMqlP8eHU&t=85s)
 
-![OSMO - INTEGRATION OF KADO MONEY (FIAT TO DEFI)](https://user-images.githubusercontent.com/86729290/197693643-00ade4ca-c68c-4aa7-ab86-1e478a4f7208.jpeg)
+![OSMOSIS - INTEGRATION OF KADO MONEY (FIAT TO DEFI)](https://user-images.githubusercontent.com/86729290/197693643-00ade4ca-c68c-4aa7-ab86-1e478a4f7208.jpeg)
 
 
 
@@ -234,7 +255,11 @@ WE HAVE ALSO RECORDED "OVERVIEW OF THE OSMOSIS PROTOCOL" VIDEOS IN UKRAINIAN AND
 
 - [Обзор протокола Osmosis RU](https://www.youtube.com/watch?v=-shM8bDdEQc&t=20s)
 
-________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
 
 
 
@@ -248,6 +273,25 @@ PROPOSAL #329
 
 <img width="609" alt="1" src="https://user-images.githubusercontent.com/86729290/196042403-e09e9dba-2d87-4bda-857f-98876ad3d9e6.png">
 
+__________________________________________________________________________________________________________________________________________________________
+
+
+### GITBOOK
+
+FULL TRANSLATION OF THE OSMOSIS DOCUMENTATION INTO UKRAINIAN AND RUSSIAN:
+
+- [LINK TO UKRAINIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-docs.osmosis.zone-ukrainian-translation/)
+<img width="1512" alt="188912638-7a71e6a1-b2cb-44ae-b053-1dd5c23a3ccc" src="https://user-images.githubusercontent.com/86729290/196041373-f74a69fa-7629-4bb3-ae29-c30b8a325577.png">
+
+_________________________________________________________________________________________________________________________________________________________
+
+- [LINK TO RUSSIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-doc-russian-translation/)
+
+<img width="1512" alt="188914088-d817c04a-612d-4e64-a2c0-d491dd0ee980" src="https://user-images.githubusercontent.com/86729290/196041476-b962802a-5a96-4b49-9b1b-24556e19303d.png">
+
+_________________________________________________________________________________________________________________________________________________________
+
+
 
 
 
@@ -255,23 +299,22 @@ PROPOSAL #329
 We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
 - [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
-
-____
+_________________________________________________________________________________________________________________________________________________________
 
 - [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
 
 
-____
+__________________________________________________________________________________________________________________________________________________________
 
 - [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
 
 
-____
+__________________________________________________________________________________________________________________________________________________________
 
 - [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
 
 
-____
+__________________________________________________________________________________________________________________________________________________________
 
 Also in Russian:
 
@@ -293,7 +336,7 @@ Also in Ukrainian:
 
 - [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
 
-________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 ALSO WE TRANSLATE OSMOSIS BLOG POSTS UKRANIAN:
 
@@ -307,8 +350,7 @@ https://link.medium.com/5lC82bLTotb
 
 ![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
 
-________________________________________________________________________________________________________
-
+__________________________________________________________________________________________________________________________________________________________
 - Osmosis Ecosystem Spotlight: Laika
 
 Original:
@@ -319,7 +361,7 @@ https://link.medium.com/GWGbeZEHrtb
 
 ![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
 
-________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
 
 - Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
 
@@ -331,8 +373,7 @@ https://link.medium.com/pQqfg5Wgttb
 
 ![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
 
-________________________________________________________________________________________________________
-
+__________________________________________________________________________________________________________________________________________________________
 - Osmosis Ecosystem Spotlight: REStake
 
 Original:
@@ -343,17 +384,4 @@ Ukrainian translation:
 
 ![1_kUJSU16nCeRjsz6OdpfFFw](https://user-images.githubusercontent.com/86729290/192994513-ca0a9954-0104-40a2-8dd5-ac52d4895ceb.png)  
 
-________________________________________________________________________________________________________
-
-### GITBOOK
-
-FULL TRANSLATION OF THE OSMOSIS DOCUMENTATION INTO UKRAINIAN AND RUSSIAN:
-
-- [LINK TO UKRAINIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-docs.osmosis.zone-ukrainian-translation/)
-<img width="1512" alt="188912638-7a71e6a1-b2cb-44ae-b053-1dd5c23a3ccc" src="https://user-images.githubusercontent.com/86729290/196041373-f74a69fa-7629-4bb3-ae29-c30b8a325577.png">
-
-________________________________________________________________________________________________________
-
-- [LINK TO RUSSIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-doc-russian-translation/)
-
-<img width="1512" alt="188914088-d817c04a-612d-4e64-a2c0-d491dd0ee980" src="https://user-images.githubusercontent.com/86729290/196041476-b962802a-5a96-4b49-9b1b-24556e19303d.png">
+_________________________________________________________________________________________________________________________________________________________
