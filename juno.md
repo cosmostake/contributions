@@ -3,7 +3,7 @@
 # <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR JUNO </a> 
 
 
-This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [Juno](https://app.osmosis.zone/). Our team added information from the COSMØSTAKE validator here as part of this!
+This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [Juno](https://www.junonetwork.io/). Our team added information from the COSMØSTAKE validator here as part of this!
 
 
 
@@ -32,42 +32,160 @@ Also, our validator always votes for proposals!
 - We're validator JUNO - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
 <img width="1512" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197390564-5b71fab1-3847-4516-9bef-562ed298bb1c.png">
 
-________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+### TWITTER:
+
+We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
+We use the Juno brandbook to match the style of the company. We often mention the [Juno](https://www.junonetwork.io/) logo or other related things.
+
+
+- JUNO WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=wiy1F5ezev7_tmry9EnnbA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/198673268-9a6d8d0c-82a1-4fee-8890-ec9877b5780c.png)
+
+
+
+- JUNO WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1577324863999574017?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125501-44ab76b3-f5c7-432e-987c-f20709e9a90e.png)
+
+
+
+- JUNO WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576499111292870657?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
+
+
+
+- JUNO WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1573958502321717253?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125858-924663dc-b9e6-41f3-add7-58feb48283a2.png)
+
+
+
+
+- JUNO WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1570008660176166912?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200126154-c10433f2-abb0-4245-aa59-22b695bc3994.png)
+
+
+
+- TOP LIQUIDITY POOL ON JUNO
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576148094537723904?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
+
+![TOP LIQUIDITY POOL ON JUNO](https://user-images.githubusercontent.com/86729290/200125743-39b56984-855e-4fe3-831a-3bfa8b492aa5.png)
+
+
+
+
+- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1573240549066547200?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
+
+![PROPOSAL #40](https://user-images.githubusercontent.com/86729290/200126019-85468766-7c19-43a3-b972-c9fc429c92b8.png)
+
+
+
+
+
+
+- COSMOS ECOSYSTEM WEEKLY NEWS 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=8BMQgsZa848pu_m3TayiuA)
+
+![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/196038229-db76ead3-dfa0-4043-9224-7d2f16992314.png)
+
+
+
+
+
+### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [JUNO](https://www.junonetwork.io/)
+
+[09.09.2022](https://twitter.com/COSM0STAKE/status/1568218411938811904?s=20&t=IRevLJMR0pl8s6X3u3A8OA), 
+[12.09.2022](https://twitter.com/COSM0STAKE/status/1569355743782125569?s=20&t=IRevLJMR0pl8s6X3u3A8OA), 
+[13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[14.09.2022](https://twitter.com/COSM0STAKE/status/1569975867564240896?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[14.09.2022](https://twitter.com/COSM0STAKE/status/1570008660176166912?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[16.09.2022](https://twitter.com/COSM0STAKE/status/1570746614972817410?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[22.09.2022](https://twitter.com/COSM0STAKE/status/1572890234274152448?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[23.09.2022](https://twitter.com/COSM0STAKE/status/1573240549066547200?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[25.09.2022](https://twitter.com/COSM0STAKE/status/1573958502321717253?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[01.10.2022](https://twitter.com/COSM0STAKE/status/1576148094537723904?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[02.10.2022](https://twitter.com/COSM0STAKE/status/1576499111292870657?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[04.10.2022](https://twitter.com/COSM0STAKE/status/1577324863999574017?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[07.10.2022](https://twitter.com/COSM0STAKE/status/1578288724084895744?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[09.10.2022](https://twitter.com/COSM0STAKE/status/1579034221863407617?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[13.10.2022](https://twitter.com/COSM0STAKE/status/1580488157438496768?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[23.10.2022](https://twitter.com/COSM0STAKE/status/1584127295614115840?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[27.10.2022](https://twitter.com/COSM0STAKE/status/1585531314459000834?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+[28.10.2022](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
+
+
+
+SOME STATS:
+
+<img width="582" alt="Снимок экрана 2022-11-05 в 17 09" src="https://user-images.githubusercontent.com/86729290/200126655-00bc4aa0-cea1-41da-b0cb-e76f355651a5.png">
+
+
+
 
 
 ### YOUTUBE
 
-- HOW TO STAKE $JUNO
+- HOW TO STAKE JUNO
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=iTD-F47fzNw&t=55s)
 
-![HOW TO STAKE $JUNO](https://user-images.githubusercontent.com/86729290/197390737-7ba1d6c6-4ab6-411c-8085-50294e648242.jpeg)
+![HOW TO STAKE JUNO](https://user-images.githubusercontent.com/86729290/197390737-7ba1d6c6-4ab6-411c-8085-50294e648242.jpeg)
 
 
 
-- WHAT IS $JUNO HALVING ?
+- WHAT IS JUNO HALVING ?
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=NtDBBVgBLfg&t=27s)
 
-![WHAT IS $JUNO HALVING ?](https://user-images.githubusercontent.com/86729290/197390809-598a9eb4-da2c-4e1f-8543-f2b491e01cb7.png)
+![WHAT IS JUNO HALVING ?](https://user-images.githubusercontent.com/86729290/197390809-598a9eb4-da2c-4e1f-8543-f2b491e01cb7.png)
 
 
 
 
-- $JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM
+- JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xZp7-Uiuaw&t=1s)
 
-![$JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM](https://user-images.githubusercontent.com/86729290/198672692-0a876c58-105f-4e18-bf59-ffc313fc37b0.jpeg)
+![JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM](https://user-images.githubusercontent.com/86729290/198672692-0a876c58-105f-4e18-bf59-ffc313fc37b0.jpeg)
 
 
 
 
-- $JUNO - TOKENOMICS
+- JUNO - TOKENOMICS
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=W3j2XKHi3NQ&t=92s)
 
-![$JUNO - TOKENOMICS](https://user-images.githubusercontent.com/86729290/197390922-40f78a61-a186-4801-bdcf-1de3d262120b.jpeg)
+![JUNO - TOKENOMICS](https://user-images.githubusercontent.com/86729290/197390922-40f78a61-a186-4801-bdcf-1de3d262120b.jpeg)
 
 
 
@@ -80,173 +198,13 @@ ________________________________________________________________________________
 ![JUNO: OVERVIEW](https://user-images.githubusercontent.com/86729290/197391017-bf6c88f2-920c-4c04-9de4-bd935a6934fa.jpeg)
 
 
-________________________________________________________________________________________________________
 
+__________________________________________________________________________________________________________________________________________________________
 
 
-### TWITTER:
 
-We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
-We use the Juno brandbook to match the style of the company. We often mention the [Juno](https://www.junonetwork.io/)logo or other related things.
 
 
-- $JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=wiy1F5ezev7_tmry9EnnbA)
-
-This infographic shows: basic statistics and news about Osmosis.
-![$JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/198673268-9a6d8d0c-82a1-4fee-8890-ec9877b5780c.png)
-
-
-
-- OSMOSIS WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Zw67wp3adXfDp99xKmkFPw)
-
-This infographic shows: basic statistics and news about Osmosis.
-![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196034997-e1b716e3-ef11-4ddd-a364-c9d70a27f36e.png)
-
-
-
-- TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Zw67wp3adXfDp99xKmkFPw)
-
-![TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D](https://user-images.githubusercontent.com/86729290/196035296-34ea712f-cb2f-4498-ae4d-dc6f6a2656b3.png)
-
-- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
-
-![PROPOSAL #329](https://user-images.githubusercontent.com/86729290/196038745-2fe57aff-f664-42f9-ac77-6993230ac5f0.png)
-
-
-
-- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
-
-![PROPOSAL 337](https://user-images.githubusercontent.com/86729290/196038149-e4b090a1-1461-4579-bccb-b544ff6aea67.png)
-
-
-- COSMOS ECOSYSTEM WEEKLY NEWS 
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=8BMQgsZa848pu_m3TayiuA)
-
-![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/196038229-db76ead3-dfa0-4043-9224-7d2f16992314.png)
-
-### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [OSMOSIS](https://app.osmosis.zone/)
-
-[10.09.2022](https://twitter.com/COSM0STAKE/status/1568520718299660288?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw), 
-[11.09.2022](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[12.09.2022](https://twitter.com/COSM0STAKE/status/1569274220068147200?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
-[13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[14.09.2022](https://twitter.com/COSM0STAKE/status/1569975867564240896?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[15.09.2022](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
-[17.09.2022](https://twitter.com/COSM0STAKE/status/1571066403540865025?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[17.09.2022](https://twitter.com/COSM0STAKE/status/1571179932901953538?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[19.09.2022](https://twitter.com/COSM0STAKE/status/1571787435511812097?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
-[20.09.2022](https://twitter.com/COSM0STAKE/status/1572130199864500224?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[23.09.2022](https://twitter.com/COSM0STAKE/status/1573265492152053762?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[24.09.2022](https://twitter.com/COSM0STAKE/status/1573711900801638401?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
-[29.09.2022](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[29.09.2022](https://twitter.com/COSM0STAKE/status/1575413409213972481?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-[30.09.2022](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
-[03.10.2022](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-[04.10.2022](https://twitter.com/COSM0STAKE/status/1577244552691609600?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-[05.10.2022](https://twitter.com/COSM0STAKE/status/1577734760927006720?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-
-[06.10.2022](https://twitter.com/COSM0STAKE/status/1577972885079162881?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-[10.10.2022](https://twitter.com/COSM0STAKE/status/1579408168417120256?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-[16.10.2022](https://twitter.com/COSM0STAKE/status/1581551305407221760?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-
-[21.10.2022](https://twitter.com/COSM0STAKE/status/1583336391312027648?s=20&t=kLecoXJdOVoUwv3AT-QwSw),
-[21.10.2022](https://twitter.com/COSM0STAKE/status/1583457604533374976?s=20&t=ri2r9WHSIRp7wJZ6encytQ),
-
-SOME STATS:
-
-<img width="592" alt="Снимок экрана 2022-10-16 в 16 46" src="https://user-images.githubusercontent.com/86729290/196038988-cb28cc24-edf8-4abe-b8a1-ccbd169c5a79.png">
-
-
-
-### YOUTUBE
-
-- USE $DOT ON THE OSMOSIS NETWORK
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=N2-6znFtJmE&t=316s)
-
-![USE $DOT ON THE OSMOSIS NETWORK](https://img.youtube.com/vi/N2-6znFtJmE/maxresdefault.jpg)
-
-
-
-- $OSMO - Superfluid Staking
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xYo0Y7ky_Q&t=9s)
-
-![$OSMO - Superfluid Staking](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
-
-
-
-
-- $OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=G7gtYtql6Yk&t=159s)
-
-![$OSMO & $AXL - Cross Chain Liquidity (Satellite Tutorials)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
-
-
-
-
-- HOW TO STAKE $OSMO
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=t1sMqlP8eHU&t=85s)
-
-![HOW TO STAKE $OSMO](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
-
-
-
-- OVERVIEW OF THE OSMOSIS PROTOCOL
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=uiGmfNv-x-I)
-
-![FcSBL3wWYAAEuxT](https://user-images.githubusercontent.com/86729290/196039308-fea9f256-d3f8-45fc-853f-2870ac3f1c90.jpeg)
-
-
-
-- DEPOSIT IBC ASSETS / LEARN ABOUT NEW TECHNOLOGY IN THE COSMOS ECOSYSTEM
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=9dzMRhsaVv0&t=30s)
-
-![DEPOSIT IBC ASSETS / LEARN ABOUT NEW TECHNOLOGY IN THE COSMOS ECOSYSTEM](https://user-images.githubusercontent.com/86729290/196039524-b5f22ce6-79a0-48ee-b2ad-fe2079f896d6.jpeg)
-
-
-- INTERACTION WITH OSMOSIS EXCHANGE. SWAP TOKENS. PROVIDE LIQUIDITY.STAKING. EARN LIQUIDITY REWARDS
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=f5WQvieoNk8&t=24s)
-
-![INTERACTION WITH OSMOSIS EXCHANGE. SWAP TOKENS. PROVIDE LIQUIDITY.STAKING. EARN LIQUIDITY REWARDS](https://user-images.githubusercontent.com/86729290/196039873-b19a0bf5-2aed-4b53-8ea8-98fe670db9bc.jpeg)
-
-
-
-- UNDERSTANdDING THE LIQUIDITY INCENTIVE PROCESS AT OSMOSIS
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=_GbfedqeLsc&t=8s)
-
-![UNDERSTANdDING THE LIQUIDITY INCENTIVE PROCESS AT OSMOSIS](https://user-images.githubusercontent.com/86729290/196039983-14b1914a-109a-495a-ab99-edfef56bf7fd.jpeg)
-
-
-WE HAVE ALSO RECORDED "OVERVIEW OF THE OSMOSIS PROTOCOL" VIDEOS IN UKRAINIAN AND RUSSIA:
-
-- [Огляд протоколу Osmosis UA](https://www.youtube.com/watch?v=7Cz1OCaQ9qc&t=82s)
-
-- [Обзор протокола Osmosis RU](https://www.youtube.com/watch?v=-shM8bDdEQc&t=20s)
-
-________________________________________________________________________________________________________
 
 
 
