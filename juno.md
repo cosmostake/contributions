@@ -208,65 +208,57 @@ ________________________________________________________________________________
 
 
 
-### COSMØSTAKE VOTES FOR PROPOSALS:
-
-PROPOSAL #347
-
-![GOVERNANCE](https://user-images.githubusercontent.com/86729290/196042629-0ddf067f-6d79-44d0-b5f0-94b252ac800e.png)
-
-PROPOSAL #329
-
-<img width="609" alt="1" src="https://user-images.githubusercontent.com/86729290/196042403-e09e9dba-2d87-4bda-857f-98876ad3d9e6.png">
-
-PROPOSAL #340
-
-<img width="595" alt="2" src="https://user-images.githubusercontent.com/86729290/196042555-dbd1985e-d1a4-45fe-8330-cb1103280bae.png">
-
-
-
 ### MEDIUM 
 We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
 - [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
 
-____
+__________________________________________________________________________________________________________________________________________________________
+
+
+
 
 - [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
 
+__________________________________________________________________________________________________________________________________________________________
 
-____
+
+
 
 - [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
+__________________________________________________________________________________________________________________________________________________________
 
 
-____
 
 - [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
 
+__________________________________________________________________________________________________________________________________________________________
 
-____
+
 
 Also in Russian:
 
 - [Обзор протокола Osmosis. Его задействованность в рынке криптовалют (Russian translation)](https://link.medium.com/OK4WjkfUSsb)
-- 
+
 - [Депозит активов IBC (Russian translation)](https://link.medium.com/MYiW8OLVSsb)
-- 
+
 - [Взаимодействие с биржей Osmosis. Свап токенов. Обеспечение ликвидности. Заработок вознаграждений за ликвидность. (Russian translation)](https://link.medium.com/0Nzs4pVVSsb)
-- 
+
 - [Понимание процесса стимулирования ликвидности на Osmosis (Russian translation)](https://link.medium.com/NOIxiJ5VSsb)
 
 Also in Ukrainian:
 
 - [Огляд протоколу Osmosis. Його задіяність на ринку криптовалют. (Ukrainian translation)](https://link.medium.com/UtyCKiHVSsb)
-- 
-- [Депозит активів IBC (Ukrainian translation)](https://link.medium.com/X9rdk4PVSsb)
-- 
-- [Взаємодія з биржею Osmosis. Свап токенів. Забезпечення ліквідності. Заробіток винагород за ліквідність. (Ukrainian translation)](https://link.medium.com/e5UsxaYVSsb)
-- 
-- [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
 
-________________________________________________________________________________________________________
+- [Депозит активів IBC (Ukrainian translation)](https://link.medium.com/X9rdk4PVSsb)
+
+- [Взаємодія з биржею Osmosis. Свап токенів. Забезпечення ліквідності. Заробіток винагород за ліквідність. (Ukrainian translation)](https://link.medium.com/e5UsxaYVSsb)
+
+- [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
+__________________________________________________________________________________________________________________________________________________________
+
+
+
 
 ALSO WE TRANSLATE OSMOSIS BLOG POSTS UKRANIAN:
 
@@ -280,7 +272,9 @@ https://link.medium.com/5lC82bLTotb
 
 ![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
 
-________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+
+
 
 - Osmosis Ecosystem Spotlight: Laika
 
@@ -291,8 +285,9 @@ Ukrainian translation:
 https://link.medium.com/GWGbeZEHrtb
 
 ![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
+__________________________________________________________________________________________________________________________________________________________
 
-________________________________________________________________________________________________________
+
 
 - Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
 
@@ -303,8 +298,9 @@ Ukrainian translation:
 https://link.medium.com/pQqfg5Wgttb
 
 ![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
+__________________________________________________________________________________________________________________________________________________________
 
-________________________________________________________________________________________________________
+
 
 - Osmosis Ecosystem Spotlight: REStake
 
@@ -315,18 +311,5 @@ Ukrainian translation:
 [https://link.medium.com/5lC82bLTotb](https://link.medium.com/t3tTGbjjItb)
 
 ![1_kUJSU16nCeRjsz6OdpfFFw](https://user-images.githubusercontent.com/86729290/192994513-ca0a9954-0104-40a2-8dd5-ac52d4895ceb.png)  
+__________________________________________________________________________________________________________________________________________________________
 
-________________________________________________________________________________________________________
-
-### GITBOOK
-
-FULL TRANSLATION OF THE OSMOSIS DOCUMENTATION INTO UKRAINIAN AND RUSSIAN:
-
-- [LINK TO UKRAINIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-docs.osmosis.zone-ukrainian-translation/)
-<img width="1512" alt="188912638-7a71e6a1-b2cb-44ae-b053-1dd5c23a3ccc" src="https://user-images.githubusercontent.com/86729290/196041373-f74a69fa-7629-4bb3-ae29-c30b8a325577.png">
-
-________________________________________________________________________________________________________
-
-- [LINK TO RUSSIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-doc-russian-translation/)
-
-<img width="1512" alt="188914088-d817c04a-612d-4e64-a2c0-d491dd0ee980" src="https://user-images.githubusercontent.com/86729290/196041476-b962802a-5a96-4b49-9b1b-24556e19303d.png">
