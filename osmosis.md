@@ -115,42 +115,34 @@ This infographic shows: basic statistics and news about Osmosis.
 [10.09.2022](https://twitter.com/COSM0STAKE/status/1568520718299660288?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw), 
 [11.09.2022](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [12.09.2022](https://twitter.com/COSM0STAKE/status/1569274220068147200?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
 [13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [14.09.2022](https://twitter.com/COSM0STAKE/status/1569975867564240896?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [15.09.2022](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
 [17.09.2022](https://twitter.com/COSM0STAKE/status/1571066403540865025?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [17.09.2022](https://twitter.com/COSM0STAKE/status/1571179932901953538?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [19.09.2022](https://twitter.com/COSM0STAKE/status/1571787435511812097?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
 [20.09.2022](https://twitter.com/COSM0STAKE/status/1572130199864500224?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [23.09.2022](https://twitter.com/COSM0STAKE/status/1573265492152053762?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [24.09.2022](https://twitter.com/COSM0STAKE/status/1573711900801638401?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
 [29.09.2022](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [29.09.2022](https://twitter.com/COSM0STAKE/status/1575413409213972481?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
 [30.09.2022](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
-
 [03.10.2022](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 [04.10.2022](https://twitter.com/COSM0STAKE/status/1577244552691609600?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 [05.10.2022](https://twitter.com/COSM0STAKE/status/1577734760927006720?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-
 [06.10.2022](https://twitter.com/COSM0STAKE/status/1577972885079162881?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 [10.10.2022](https://twitter.com/COSM0STAKE/status/1579408168417120256?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
 [16.10.2022](https://twitter.com/COSM0STAKE/status/1581551305407221760?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
-
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1583336391312027648?s=20&t=kLecoXJdOVoUwv3AT-QwSw),
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1583457604533374976?s=20&t=ri2r9WHSIRp7wJZ6encytQ),
 [21.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=Xk0T7JtntmC47PCBvp3wqw),
-
 [25.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=mmzv4zZ13NIVpovY97wXUw),
 [30.10.2022](https://twitter.com/COSM0STAKE/status/1586671537989586950?s=20&t=mmzv4zZ13NIVpovY97wXUw),
 [03.11.2022](https://twitter.com/COSM0STAKE/status/1588150550146736130?s=20&t=j6c2cWh0PjmK4VLfx9ECmg),
 
 SOME STATS:
 
-<img width="592" alt="Снимок экрана 2022-10-16 в 16 46" src="https://user-images.githubusercontent.com/86729290/196038988-cb28cc24-edf8-4abe-b8a1-ccbd169c5a79.png">
+<img width="588" alt="Снимок экрана 2022-11-05 в 16 20" src="https://user-images.githubusercontent.com/86729290/200124442-7aa6d26c-72b5-47ba-8e80-b98341dcceb7.png">
 
 __________________________________________________________________________________________________________________________________________________________
 
