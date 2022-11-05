@@ -139,6 +139,7 @@ This infographic shows: basic statistics and news about Osmosis.
 [25.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=mmzv4zZ13NIVpovY97wXUw),
 [30.10.2022](https://twitter.com/COSM0STAKE/status/1586671537989586950?s=20&t=mmzv4zZ13NIVpovY97wXUw),
 [03.11.2022](https://twitter.com/COSM0STAKE/status/1588150550146736130?s=20&t=j6c2cWh0PjmK4VLfx9ECmg),
+[05.11.2022](https://twitter.com/COSM0STAKE/status/1588916418896334848?s=20&t=ppR9x_DUjcN-QTSGlSwxLw),
 
 SOME STATS:
 
@@ -290,23 +291,37 @@ ________________________________________________________________________________
 ### MEDIUM 
 We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
+
+
+- OSMOSIS DIGEST 05.11.22
+
+Link: https://link.medium.com/cu7hGef9Hub
+
+
+![OSMOSIS DIGEST 05.11.22](https://user-images.githubusercontent.com/86729290/200127244-8894a1d7-eac8-484d-a330-abecfc0ada0f.png)
+_________________________________________________________________________________________________________________________________________________________
+
+
+
 - [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
 _________________________________________________________________________________________________________________________________________________________
 
+
+
 - [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
-
-
 __________________________________________________________________________________________________________________________________________________________
+
+
 
 - [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
-
-
 __________________________________________________________________________________________________________________________________________________________
+
+
 
 - [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
-
-
 __________________________________________________________________________________________________________________________________________________________
+
+
 
 Also in Russian:
 
@@ -318,6 +333,8 @@ Also in Russian:
 
 - [Понимание процесса стимулирования ликвидности на Osmosis (Russian translation)](https://link.medium.com/NOIxiJ5VSsb)
 
+
+
 Also in Ukrainian:
 
 - [Огляд протоколу Osmosis. Його задіяність на ринку криптовалют. (Ukrainian translation)](https://link.medium.com/UtyCKiHVSsb)
@@ -327,8 +344,7 @@ Also in Ukrainian:
 - [Взаємодія з биржею Osmosis. Свап токенів. Забезпечення ліквідності. Заробіток винагород за ліквідність. (Ukrainian translation)](https://link.medium.com/e5UsxaYVSsb)
 
 - [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
-
-__________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________
 
 ALSO WE TRANSLATE OSMOSIS BLOG POSTS UKRANIAN:
 
@@ -341,8 +357,9 @@ Ukrainian translation:
 https://link.medium.com/5lC82bLTotb
 
 ![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
-
 __________________________________________________________________________________________________________________________________________________________
+
+
 - Osmosis Ecosystem Spotlight: Laika
 
 Original:
@@ -352,8 +369,9 @@ Ukrainian translation:
 https://link.medium.com/GWGbeZEHrtb
 
 ![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
-
 __________________________________________________________________________________________________________________________________________________________
+
+
 
 - Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
 
@@ -364,8 +382,10 @@ Ukrainian translation:
 https://link.medium.com/pQqfg5Wgttb
 
 ![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
-
 __________________________________________________________________________________________________________________________________________________________
+
+
+
 - Osmosis Ecosystem Spotlight: REStake
 
 Original:
@@ -375,5 +395,4 @@ Ukrainian translation:
 [https://link.medium.com/5lC82bLTotb](https://link.medium.com/t3tTGbjjItb)
 
 ![1_kUJSU16nCeRjsz6OdpfFFw](https://user-images.githubusercontent.com/86729290/192994513-ca0a9954-0104-40a2-8dd5-ac52d4895ceb.png)  
-
 _________________________________________________________________________________________________________________________________________________________
