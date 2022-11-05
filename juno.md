@@ -209,107 +209,51 @@ ________________________________________________________________________________
 
 
 ### MEDIUM 
-We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
-- [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
+We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
+
+
+
+- We wrote a blog post JUNO DIGEST
+
+Link: [https://link.medium.com/gA5wyYtjIub](https://link.medium.com/gA5wyYtjIub)
+
+![JUNO DIGEST](https://user-images.githubusercontent.com/86729290/200133959-61f0e6ff-7604-4701-b5b6-86cc9c1e5872.png)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- We wrote a blog post JUNO OVERVIEW
+
+Link: [https://link.medium.com/inkw1nejIub](https://link.medium.com/inkw1nejIub)
+
+![JUNO OVERVIEW](https://user-images.githubusercontent.com/86729290/200133731-5766e4a9-218b-4f8e-808b-cc9f0232d095.png)
+
 
 __________________________________________________________________________________________________________________________________________________________
 
 
 
+- Junø on the Osmosis Interchain AMM
 
-- [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
+Original: [https://link.medium.com/biZdijtcIub](https://link.medium.com/biZdijtcIub)
 
-__________________________________________________________________________________________________________________________________________________________
+Ukrainian translation: [https://link.medium.com/l6E83zAcIub](https://link.medium.com/l6E83zAcIub)
 
-
-
-
-- [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
-__________________________________________________________________________________________________________________________________________________________
-
-
-
-- [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
+![Junø on the Osmosis Interchain AMM](https://user-images.githubusercontent.com/86729290/200129337-c1c42ad0-4563-474d-81bd-a7748c017f5d.png)
 
 __________________________________________________________________________________________________________________________________________________________
 
 
 
-Also in Russian:
+- Hack JUNO
 
-- [Обзор протокола Osmosis. Его задействованность в рынке криптовалют (Russian translation)](https://link.medium.com/OK4WjkfUSsb)
+Original: [https://link.medium.com/7Civf8ZbIub](https://link.medium.com/7Civf8ZbIub)
 
-- [Депозит активов IBC (Russian translation)](https://link.medium.com/MYiW8OLVSsb)
+Ukrainian translation: [https://link.medium.com/Cj8CTK6bIub](https://link.medium.com/Cj8CTK6bIub)
 
-- [Взаимодействие с биржей Osmosis. Свап токенов. Обеспечение ликвидности. Заработок вознаграждений за ликвидность. (Russian translation)](https://link.medium.com/0Nzs4pVVSsb)
-
-- [Понимание процесса стимулирования ликвидности на Osmosis (Russian translation)](https://link.medium.com/NOIxiJ5VSsb)
-
-Also in Ukrainian:
-
-- [Огляд протоколу Osmosis. Його задіяність на ринку криптовалют. (Ukrainian translation)](https://link.medium.com/UtyCKiHVSsb)
-
-- [Депозит активів IBC (Ukrainian translation)](https://link.medium.com/X9rdk4PVSsb)
-
-- [Взаємодія з биржею Osmosis. Свап токенів. Забезпечення ліквідності. Заробіток винагород за ліквідність. (Ukrainian translation)](https://link.medium.com/e5UsxaYVSsb)
-
-- [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
-__________________________________________________________________________________________________________________________________________________________
+![Hack JUNO](https://user-images.githubusercontent.com/86729290/200134168-ed80d629-a68b-4308-a93a-7f10f92e515e.png)
 
 
-
-
-ALSO WE TRANSLATE OSMOSIS BLOG POSTS UKRANIAN:
-
-- Osmosis for applications: cross-chain swaps as a service
-
-Original:
-https://link.medium.com/26DOQE3Totb
-
-Ukrainian translation:
-https://link.medium.com/5lC82bLTotb
-
-![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-
-- Osmosis Ecosystem Spotlight: Laika
-
-Original:
-https://link.medium.com/SxkUAQDHrtb 
-
-Ukrainian translation:
-https://link.medium.com/GWGbeZEHrtb
-
-![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
-__________________________________________________________________________________________________________________________________________________________
-
-
-
-- Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
-
-Original:
-https://link.medium.com/hebIsm1gttb
-
-Ukrainian translation:
-https://link.medium.com/pQqfg5Wgttb
-
-![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
-__________________________________________________________________________________________________________________________________________________________
-
-
-
-- Osmosis Ecosystem Spotlight: REStake
-
-Original:
-[https://link.medium.com/26DOQE3Totb](https://link.medium.com/9pX55K6jItb)
-
-Ukrainian translation:
-[https://link.medium.com/5lC82bLTotb](https://link.medium.com/t3tTGbjjItb)
-
-![1_kUJSU16nCeRjsz6OdpfFFw](https://user-images.githubusercontent.com/86729290/192994513-ca0a9954-0104-40a2-8dd5-ac52d4895ceb.png)  
-__________________________________________________________________________________________________________________________________________________________
 
