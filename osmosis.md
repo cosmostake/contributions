@@ -46,6 +46,17 @@ We create a lot of [Osmosis](https://app.osmosis.zone/)-related content to impro
 We use the [Osmosis](https://app.osmosis.zone/) brandbook to match the style of the company. We often mention the [Osmosis](https://app.osmosis.zone/) logo or other related things.
 
 
+
+- OSMOSIS THE ECOSYSTEM
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1588471348854423552?s=20&t=GpGYYLSsLssO8lvqFI1YoQ)
+
+This infographic shows: basic statistics and news about Osmosis.
+![OSMOSIS THE ECOSYSTEM]
+
+
+
+
 - OSMOSIS WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=hTdnEK5KBfuo_bInGJywrA)
