@@ -9,6 +9,7 @@ This repository is based on the overall work of our team to develop the COSMOS e
 
 
 ### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOL etc.) 
+
 We create a lot of [Juno](https://www.junonetwork.io/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the [Juno](https://www.junonetwork.io/) brand pack, and we often mention the [Juno](https://www.junonetwork.io/) logo or other things related to it. 
 
 Also, our validator always votes for proposals!
