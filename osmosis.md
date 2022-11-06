@@ -13,6 +13,7 @@ This repository is based on the overall work of our team to develop the COSMOS e
 
 
 ### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOL etc.) 
+
 We create a lot of [Osmosis](https://app.osmosis.zone/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the [Osmosis](https://app.osmosis.zone/) brand pack, and we often mention the [Osmosis](https://app.osmosis.zone/) logo or other things related to it. 
 
 Also, our validator always votes for proposals!
@@ -37,7 +38,8 @@ ________________________________________________________________________________
 ### TECHNICAL CONNTRIBUTIONS:
 
 - We're validator OSMOSIS - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/osmosis/validators/osmovaloper183psjr4y05kwtpfew073q6hm84xdhp9tcn8ne7)
-<img width="1512" alt="Osmosis" src="https://user-images.githubusercontent.com/86729290/197131735-3defa4e9-f6e7-4b5a-bff8-1bc3e23b271e.png">
+<img width="1512" alt="Снимок экрана 2022-11-06 в 15 00" src="https://user-images.githubusercontent.com/86729290/200172313-157ea67c-bd0f-4f0b-b221-d5031eec9129.png">
+
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -257,6 +259,9 @@ ________________________________________________________________________________
 
 
 ### COSMØSTAKE REGULARLY VOTES FOR PROPOSALS:
+
+<img width="1512" alt="Снимок экрана 2022-11-06 в 15 02" src="https://user-images.githubusercontent.com/86729290/200172337-0deb5053-7b9b-4cd8-b1a2-e9dcc48ba971.png">
+
 
 PROPOSAL #347
 
