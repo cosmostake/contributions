@@ -1,2 +1,395 @@
 <img width="1280" alt="Persistance" src="https://user-images.githubusercontent.com/86729290/197390129-ed59a5ec-83bd-47b9-95f6-09eb33d33cb1.png">
 
+# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR PERSISTENCE </a> 
+
+
+
+This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [Persistence](https://persistence.one/). Our team added information from the COSMØSTAKE validator here as part of this!
+
+
+
+
+### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOL etc.) 
+
+We create a lot of [Persistence](https://persistence.one/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the [Persistence](https://persistence.one/) brand pack, and we often mention the [Persistence](https://persistence.one/) logo or other things related to it. 
+
+Also, our validator always votes for proposals!
+
+
+
+Тeam:
+
+- [Laura Kharkevych](https://github.com/laura2727)
+- [Max Levush](https://github.com/maxlevush-COINSIDE)
+- [Yan Lytvynenko](https://github.com/ZAZIK3)
+- [Violetta Markush](https://github.com/vilolaa)
+
+
+# LIST CONTRIBUTIONS FOR [PERSISTENCE](https://persistence.one/)
+
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+### TECHNICAL CONNTRIBUTIONS:
+
+- We're validator PERSISTENCE - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
+<img width="1512" alt="Снимок экрана 2022-11-08 в 12 04 12" src="https://user-images.githubusercontent.com/86729290/200535935-d4bd4811-d0ec-4735-9198-f4e6717f47ae.png">
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+### TWITTER:
+
+We create a lot of [Persistence](https://persistence.one/)-related content to improve the community's knowledge of features and inform about Persistence-related news.
+We use the [Persistence](https://persistence.one/) brandbook to match the style of the company. We often mention the [Persistence](https://persistence.one/) logo or other related things.
+
+
+
+- PERSISTENCE WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
+
+This infographic shows: basic statistics and news about Osmosis.
+![PERSISTENCE WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200538377-03a0c37f-77fc-4aad-b6e5-85e3c193ae11.png)
+
+
+
+- OSMOSIS WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Zw67wp3adXfDp99xKmkFPw)
+
+This infographic shows: basic statistics and news about Osmosis.
+![OSMOSIS WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/196034997-e1b716e3-ef11-4ddd-a364-c9d70a27f36e.png)
+
+
+
+- TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Zw67wp3adXfDp99xKmkFPw)
+
+![TOP 10 LIQUIDITY POOLS ON OSMOSIS IN THE LAST 7D](https://user-images.githubusercontent.com/86729290/196035296-34ea712f-cb2f-4498-ae4d-dc6f6a2656b3.png)
+
+
+
+- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=8BMQgsZa848pu_m3TayiuA)
+
+![PROPOSAL 337](https://user-images.githubusercontent.com/86729290/196038745-2fe57aff-f664-42f9-ac77-6993230ac5f0.png)
+
+
+
+- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=eFHSptW1Ck9pFdSS_T52iw)
+
+![PROPOSAL 339](https://user-images.githubusercontent.com/86729290/198933998-cd392313-bb1c-472d-a9c7-ba32bc2811ed.png)
+
+
+
+- COSMOS ECOSYSTEM WEEKLY NEWS 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=8BMQgsZa848pu_m3TayiuA)
+
+![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/196038229-db76ead3-dfa0-4043-9224-7d2f16992314.png)
+
+
+
+
+### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [OSMOSIS](https://app.osmosis.zone/)
+
+[10.09.2022](https://twitter.com/COSM0STAKE/status/1568520718299660288?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw), 
+[11.09.2022](https://twitter.com/COSM0STAKE/status/1569014572102606849?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[12.09.2022](https://twitter.com/COSM0STAKE/status/1569274220068147200?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[14.09.2022](https://twitter.com/COSM0STAKE/status/1569975867564240896?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[15.09.2022](https://twitter.com/COSM0STAKE/status/1570338464675303424?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[17.09.2022](https://twitter.com/COSM0STAKE/status/1571066403540865025?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[17.09.2022](https://twitter.com/COSM0STAKE/status/1571179932901953538?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[19.09.2022](https://twitter.com/COSM0STAKE/status/1571787435511812097?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[20.09.2022](https://twitter.com/COSM0STAKE/status/1572130199864500224?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[23.09.2022](https://twitter.com/COSM0STAKE/status/1573265492152053762?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[24.09.2022](https://twitter.com/COSM0STAKE/status/1573711900801638401?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[29.09.2022](https://twitter.com/COSM0STAKE/status/1575392107673669632?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[29.09.2022](https://twitter.com/COSM0STAKE/status/1575413409213972481?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[30.09.2022](https://twitter.com/COSM0STAKE/status/1575745485872455681?s=20&t=Fg_2gYQzdA7iC1p8nfJ-fw),
+[03.10.2022](https://twitter.com/COSM0STAKE/status/1576931270205939714?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[04.10.2022](https://twitter.com/COSM0STAKE/status/1577244552691609600?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[05.10.2022](https://twitter.com/COSM0STAKE/status/1577734760927006720?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[06.10.2022](https://twitter.com/COSM0STAKE/status/1577972885079162881?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[10.10.2022](https://twitter.com/COSM0STAKE/status/1579408168417120256?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[16.10.2022](https://twitter.com/COSM0STAKE/status/1581551305407221760?s=20&t=rWN5ei6UAUBkvxAHLlE_Og),
+[21.10.2022](https://twitter.com/COSM0STAKE/status/1583336391312027648?s=20&t=kLecoXJdOVoUwv3AT-QwSw),
+[21.10.2022](https://twitter.com/COSM0STAKE/status/1583457604533374976?s=20&t=ri2r9WHSIRp7wJZ6encytQ),
+[21.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=Xk0T7JtntmC47PCBvp3wqw),
+[25.10.2022](https://twitter.com/COSM0STAKE/status/1584769908952690689?s=20&t=mmzv4zZ13NIVpovY97wXUw),
+[30.10.2022](https://twitter.com/COSM0STAKE/status/1586671537989586950?s=20&t=mmzv4zZ13NIVpovY97wXUw),
+[03.11.2022](https://twitter.com/COSM0STAKE/status/1588150550146736130?s=20&t=j6c2cWh0PjmK4VLfx9ECmg),
+[05.11.2022](https://twitter.com/COSM0STAKE/status/1588916418896334848?s=20&t=ppR9x_DUjcN-QTSGlSwxLw),
+
+SOME STATS:
+
+<img width="588" alt="Снимок экрана 2022-11-05 в 16 20" src="https://user-images.githubusercontent.com/86729290/200124442-7aa6d26c-72b5-47ba-8e80-b98341dcceb7.png">
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+### YOUTUBE
+
+- USE DOT ON THE OSMOSIS NETWORK
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=N2-6znFtJmE&t=316s)
+
+![USE $DOT ON THE OSMOSIS NETWORK](https://img.youtube.com/vi/N2-6znFtJmE/maxresdefault.jpg)
+
+
+
+- OSMOSIS - SUPERFLUID STAKING
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8xYo0Y7ky_Q&t=9s)
+
+![OSMOSIS - SUPERFLUID STAKING](https://user-images.githubusercontent.com/86729290/197215430-2c82ca49-e458-422b-8200-d79a790da5d8.jpeg)
+
+
+
+
+- OSMOSIS & AXELAR - CROSS CHAIN LIQUIDITY (SATELLITE TUTORIALS)
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=G7gtYtql6Yk&t=159s)
+
+![OSMOSIS & AXELAR - CROSS CHAIN LIQUIDITY (SATELLITE TUTORIALS)](https://user-images.githubusercontent.com/86729290/197132569-4d229dc7-c73d-4327-86f2-1c5af9ceb33e.jpeg)
+
+
+
+- OSMOSIS - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=vDu2Nn3Za8I&t=33s)
+
+![OSMOSIS - ON BINANCE 〽️ INTRODUCTION TO CEX. KEPLR WALLET INSTALLATION ⏩ INTERACTION BETWEEN CEX & DEX.](https://user-images.githubusercontent.com/86729290/198932513-36a2a9ba-7d8d-4756-9eda-c0026b5cfe23.jpeg)
+
+
+
+- HOW TO STAKE OSMOSIS
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=x5VVI_Mu0xs&t=102s)
+
+![HOW TO STAKE OSMOSIS](https://user-images.githubusercontent.com/86729290/196039051-368c2f35-8e7a-4e3a-a342-cf9432814a52.jpeg)
+
+
+- OSMOSIS - EXTERNAL INCENTIVE POOLS ON OSMOSIS FRONTIER
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=flAIVKbSgo8&t=165s)
+
+![OSMOSIS - EXTERNAL INCENTIVE POOLS ON OSMOSIS FRONTIER](https://user-images.githubusercontent.com/86729290/200123872-60105f66-3b62-4363-8935-4f5bf9921255.jpeg)
+
+
+
+
+- OSMOSIS - INTEGRATION OF KADO MONEY (FIAT TO DEFI)
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=t1sMqlP8eHU&t=85s)
+
+![OSMOSIS - INTEGRATION OF KADO MONEY (FIAT TO DEFI)](https://user-images.githubusercontent.com/86729290/197693643-00ade4ca-c68c-4aa7-ab86-1e478a4f7208.jpeg)
+
+
+
+- OVERVIEW OF THE OSMOSIS PROTOCOL
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=uiGmfNv-x-I)
+
+![OVERVIEW OF THE OSMOSIS PROTOCOL](https://user-images.githubusercontent.com/86729290/196039308-fea9f256-d3f8-45fc-853f-2870ac3f1c90.jpeg)
+
+
+
+- DEPOSIT IBC ASSETS / LEARN ABOUT NEW TECHNOLOGY IN THE COSMOS ECOSYSTEM
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=9dzMRhsaVv0&t=30s)
+
+![DEPOSIT IBC ASSETS / LEARN ABOUT NEW TECHNOLOGY IN THE COSMOS ECOSYSTEM](https://user-images.githubusercontent.com/86729290/196039524-b5f22ce6-79a0-48ee-b2ad-fe2079f896d6.jpeg)
+
+
+- INTERACTION WITH OSMOSIS EXCHANGE. SWAP TOKENS. PROVIDE LIQUIDITY.STAKING. EARN LIQUIDITY REWARDS
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=f5WQvieoNk8&t=24s)
+
+![INTERACTION WITH OSMOSIS EXCHANGE. SWAP TOKENS. PROVIDE LIQUIDITY.STAKING. EARN LIQUIDITY REWARDS](https://user-images.githubusercontent.com/86729290/196039873-b19a0bf5-2aed-4b53-8ea8-98fe670db9bc.jpeg)
+
+
+
+- UNDERSTANdDING THE LIQUIDITY INCENTIVE PROCESS AT OSMOSIS
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=_GbfedqeLsc&t=8s)
+
+![UNDERSTANdDING THE LIQUIDITY INCENTIVE PROCESS AT OSMOSIS](https://user-images.githubusercontent.com/86729290/196039983-14b1914a-109a-495a-ab99-edfef56bf7fd.jpeg)
+
+
+WE HAVE ALSO RECORDED "OVERVIEW OF THE OSMOSIS PROTOCOL" VIDEOS IN UKRAINIAN AND RUSSIA:
+
+- [Огляд протоколу Osmosis UA](https://www.youtube.com/watch?v=7Cz1OCaQ9qc&t=82s)
+
+- [Обзор протокола Osmosis RU](https://www.youtube.com/watch?v=-shM8bDdEQc&t=20s)
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+### COSMØSTAKE REGULARLY VOTES FOR PROPOSALS:
+
+<img width="1512" alt="Снимок экрана 2022-11-06 в 15 02" src="https://user-images.githubusercontent.com/86729290/200172337-0deb5053-7b9b-4cd8-b1a2-e9dcc48ba971.png">
+
+
+PROPOSAL #347
+
+![GOVERNANCE](https://user-images.githubusercontent.com/86729290/196042629-0ddf067f-6d79-44d0-b5f0-94b252ac800e.png)
+
+PROPOSAL #329
+
+<img width="609" alt="1" src="https://user-images.githubusercontent.com/86729290/196042403-e09e9dba-2d87-4bda-857f-98876ad3d9e6.png">
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+### GITBOOK
+
+FULL TRANSLATION OF THE OSMOSIS DOCUMENTATION INTO UKRAINIAN AND RUSSIAN:
+
+- [LINK TO UKRAINIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-docs.osmosis.zone-ukrainian-translation/)
+<img width="1512" alt="188912638-7a71e6a1-b2cb-44ae-b053-1dd5c23a3ccc" src="https://user-images.githubusercontent.com/86729290/196041373-f74a69fa-7629-4bb3-ae29-c30b8a325577.png">
+
+_________________________________________________________________________________________________________________________________________________________
+
+- [LINK TO RUSSIAN TRANSLATION](https://laura-kharkevych.gitbook.io/osmosis-doc-russian-translation/)
+
+<img width="1512" alt="188914088-d817c04a-612d-4e64-a2c0-d491dd0ee980" src="https://user-images.githubusercontent.com/86729290/196041476-b962802a-5a96-4b49-9b1b-24556e19303d.png">
+
+_________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+### MEDIUM 
+We also created a series of blog posts on Osmosis in English, Russian and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
+
+
+
+- OSMOSIS DIGEST 05.11.22
+
+Link: https://link.medium.com/cu7hGef9Hub
+
+
+![OSMOSIS DIGEST 05.11.22](https://user-images.githubusercontent.com/86729290/200127244-8894a1d7-eac8-484d-a330-abecfc0ada0f.png)
+_________________________________________________________________________________________________________________________________________________________
+
+
+
+- [Overview of the Osmosis protocol. His involvement in the cryptocurrency market (English)](https://link.medium.com/YuCzkJAVSsb)
+_________________________________________________________________________________________________________________________________________________________
+
+
+
+- [IBC asset deposit (English)](https://link.medium.com/2LSBqkKVSsb)
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+- [Interaction with Osmosis Exchange. Swap tokens. Provide liquidity.Staking. Earn liquidity rewards. (English)](https://link.medium.com/VaW4iHSVSsb)
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+- [Understanding the Liquidity Incentive Process at Osmosis (English)](https://link.medium.com/laJ9it3VSsb)
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+Also in Russian:
+
+- [Обзор протокола Osmosis. Его задействованность в рынке криптовалют (Russian translation)](https://link.medium.com/OK4WjkfUSsb)
+
+- [Депозит активов IBC (Russian translation)](https://link.medium.com/MYiW8OLVSsb)
+
+- [Взаимодействие с биржей Osmosis. Свап токенов. Обеспечение ликвидности. Заработок вознаграждений за ликвидность. (Russian translation)](https://link.medium.com/0Nzs4pVVSsb)
+
+- [Понимание процесса стимулирования ликвидности на Osmosis (Russian translation)](https://link.medium.com/NOIxiJ5VSsb)
+
+
+
+Also in Ukrainian:
+
+- [Огляд протоколу Osmosis. Його задіяність на ринку криптовалют. (Ukrainian translation)](https://link.medium.com/UtyCKiHVSsb)
+
+- [Депозит активів IBC (Ukrainian translation)](https://link.medium.com/X9rdk4PVSsb)
+
+- [Взаємодія з биржею Osmosis. Свап токенів. Забезпечення ліквідності. Заробіток винагород за ліквідність. (Ukrainian translation)](https://link.medium.com/e5UsxaYVSsb)
+
+- [Розуміння процесу стимулювання ліквідності на Osmosis (Ukrainian translation)](https://link.medium.com/tZMPE97VSsb)
+_________________________________________________________________________________________________________________________________________________________
+
+ALSO WE TRANSLATE OSMOSIS BLOG POSTS UKRANIAN:
+
+- Osmosis for applications: cross-chain swaps as a service
+
+Original:
+https://link.medium.com/26DOQE3Totb
+
+Ukrainian translation:
+https://link.medium.com/5lC82bLTotb
+
+![0_Nc107RRiFH1cy8Bj](https://user-images.githubusercontent.com/86729290/190895315-b182d791-8369-4688-a0ff-5f36df3f1a9a.png)
+__________________________________________________________________________________________________________________________________________________________
+
+
+- Osmosis Ecosystem Spotlight: Laika
+
+Original:
+https://link.medium.com/SxkUAQDHrtb 
+
+Ukrainian translation:
+https://link.medium.com/GWGbeZEHrtb
+
+![0_Z6rIAh18LOey5K6l](https://user-images.githubusercontent.com/86729290/191250439-5eb15c47-5375-4071-b9fd-1d2ae2e224d4.png)
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+- Osmosis to Integrate Kado for Direct Fiat On-Ramping to the DEX
+
+Original:
+https://link.medium.com/hebIsm1gttb
+
+Ukrainian translation:
+https://link.medium.com/pQqfg5Wgttb
+
+![0_pmno0YOiUcSW5Emz](https://user-images.githubusercontent.com/86729290/191250695-fdf5cdf7-39d9-4527-9532-741a74843a37.png)
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+- Osmosis Ecosystem Spotlight: REStake
+
+Original:
+[https://link.medium.com/26DOQE3Totb](https://link.medium.com/9pX55K6jItb)
+
+Ukrainian translation:
+[https://link.medium.com/5lC82bLTotb](https://link.medium.com/t3tTGbjjItb)
+
+![1_kUJSU16nCeRjsz6OdpfFFw](https://user-images.githubusercontent.com/86729290/192994513-ca0a9954-0104-40a2-8dd5-ac52d4895ceb.png)  
+_________________________________________________________________________________________________________________________________________________________
