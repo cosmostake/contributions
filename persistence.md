@@ -100,13 +100,9 @@ We also created a series of blog posts on Juno in English and Ukrainian (To make
 - We Translated into Ukrainian🇺🇦 Media post $XPRT
 XPRT Tokenomics and Utility: Powering the Persistence Ecosystem ⚛️
 
-Original: 
-https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem/
+Original: [https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem/](https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem)
 
-Ukrainian translation:
-(https://link.medium.com/xZuk9swTJtb
+Ukrainian translation: [https://link.medium.com/xZuk9swTJtb](https://link.medium.com/xZuk9swTJtb)
 
-![JUNO DIGEST](https://user-images.githubusercontent.com/86729290/200133959-61f0e6ff-7604-4701-b5b6-86cc9c1e5872.png)
-
-
+![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545237-11dbbff7-9b6e-4a55-b6c6-1f483774c809.png)
 __________________________________________________________________________________________________________________________________________________________
