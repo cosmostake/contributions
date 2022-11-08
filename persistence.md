@@ -106,3 +106,17 @@ Ukrainian translation: [https://link.medium.com/xZuk9swTJtb](https://link.medium
 
 ![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545237-11dbbff7-9b6e-4a55-b6c6-1f483774c809.png)
 __________________________________________________________________________________________________________________________________________________________
+
+
+
+
+- We Translated into Ukrainian🇺🇦 Media post $XPRT
+The Persistence Mainnet is Launching on March 30th. Introducing Our World-Class Genesis Validators ⚛️
+
+Original: [https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-launching-on-march-30th-introducing-our-world-class-genesis-validators](https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-launching-on-march-30th-introducing-our-world-class-genesis-validators/)
+
+Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium.com/prcMtkasLtb)
+
+![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545765-04d679e3-f0a5-427a-84f0-32e3d4e11247.png)
+
+__________________________________________________________________________________________________________________________________________________________
