@@ -80,4 +80,11 @@ This infographic shows: basic statistics and news about Persistence.
 
 
 
+### YOUTUBE
+
+- PERSISTANCE - HOW TO WORKS 
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=xklLFDim5Jg&t=61s)
+
+![PERSISTANCE - HOW TO WORKS](https://user-images.githubusercontent.com/86729290/200543786-85e5f28e-ea52-44a3-8026-07cb9e3c7688.jpeg)
 
