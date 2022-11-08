@@ -71,7 +71,12 @@ This infographic shows: basic statistics and news about Persistence.
 
 
 
+- COSMOS ECOSYSTEM WEEKLY NEWS
 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
+
+This infographic shows: basic statistics and news about Persistence.
+![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/200539660-71533ece-61aa-4530-a689-94c86c06ca5a.png)
 
 
 
