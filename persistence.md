@@ -88,3 +88,25 @@ This infographic shows: basic statistics and news about Persistence.
 
 ![PERSISTANCE - HOW TO WORKS](https://user-images.githubusercontent.com/86729290/200543786-85e5f28e-ea52-44a3-8026-07cb9e3c7688.jpeg)
 
+
+
+
+### MEDIUM 
+
+We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
+
+
+
+- We Translated into Ukrainian🇺🇦 Media post $XPRT
+XPRT Tokenomics and Utility: Powering the Persistence Ecosystem ⚛️
+
+Original: 
+https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem/
+
+Ukrainian translation:
+(https://link.medium.com/xZuk9swTJtb
+
+![JUNO DIGEST](https://user-images.githubusercontent.com/86729290/200133959-61f0e6ff-7604-4701-b5b6-86cc9c1e5872.png)
+
+
+__________________________________________________________________________________________________________________________________________________________
