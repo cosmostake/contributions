@@ -120,3 +120,21 @@ Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium
 ![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545765-04d679e3-f0a5-427a-84f0-32e3d4e11247.png)
 
 __________________________________________________________________________________________________________________________________________________________
+
+
+
+### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
+
+[19.09.2022](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=I8Xb2y4zdgor8IpQlK0gJw), 
+[29.09.2022](https://twitter.com/COSM0STAKE/status/1575510119168761866?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[30.09.2022](https://twitter.com/COSM0STAKE/status/1575759288324149248?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[01.10.2022](https://twitter.com/COSM0STAKE/status/1576099976174006272?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[02.10.2022](https://twitter.com/COSM0STAKE/status/1576476637197000704?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[05.10.2022](https://twitter.com/COSM0STAKE/status/1577663374908866564?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[24.10.2022](https://twitter.com/COSM0STAKE/status/1584521293147537414?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+
+
+SOME STATS:
+
+<img width="591" alt="Снимок экрана 2022-11-08 в 13 35" src="https://user-images.githubusercontent.com/86729290/200554428-78863a26-f0db-49bc-87f2-c4a1f6d9da5b.png">
+
