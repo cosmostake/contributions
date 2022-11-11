@@ -73,6 +73,14 @@ This infographic shows: basic statistics and news about Juno.
 
 
 
+- CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
+
+<img width="1757" alt="Frame 407" src="https://user-images.githubusercontent.com/86729290/201297582-202013ea-11d3-4bbd-8958-84fcfb465b79.png">
+
+
+
 - JUNO WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576499111292870657?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
@@ -80,13 +88,6 @@ This infographic shows: basic statistics and news about Juno.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
 
-
-
-- CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
-
-![CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
 
 
 
