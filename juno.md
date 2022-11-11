@@ -82,6 +82,14 @@ This infographic shows: basic statistics and news about Juno.
 
 
 
+- CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
+
+![CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
+
+
+
 - JUNO WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1573958502321717253?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
@@ -151,12 +159,13 @@ This infographic shows: basic statistics and news about Juno.
 [23.10.2022](https://twitter.com/COSM0STAKE/status/1584127295614115840?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
 [27.10.2022](https://twitter.com/COSM0STAKE/status/1585531314459000834?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
 [28.10.2022](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-
-
+[09.10.2022](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
+[10.10.2022](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
 
 SOME STATS:
 
-<img width="582" alt="Снимок экрана 2022-11-05 в 17 09" src="https://user-images.githubusercontent.com/86729290/200126655-00bc4aa0-cea1-41da-b0cb-e76f355651a5.png">
+<img width="595" alt="Снимок экрана 2022-11-11 в 10 15" src="https://user-images.githubusercontent.com/86729290/201296525-9b4b2e3a-d9f9-45f6-a607-7a5a81fa8278.png">
+
 
 
 
