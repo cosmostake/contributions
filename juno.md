@@ -47,6 +47,14 @@ We create a lot of Juno-related content to improve the community's knowledge of 
 We use the Juno brandbook to match the style of the company. We often mention the [Juno](https://www.junonetwork.io/) logo or other related things.
 
 
+- JUNO - THE ECOSYSTEM 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
+
+This infographic shows: Juno ecosystem.
+![JUNO - THE ECOSYSTEM](https://user-images.githubusercontent.com/86729290/201295727-55cf9c3a-b269-4319-8693-0431ba07c25d.jpeg)
+
+
 - JUNO WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=wiy1F5ezev7_tmry9EnnbA)
