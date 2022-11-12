@@ -111,7 +111,9 @@ This infographic shows: basic statistics and news about Persistence.
 [02.10.2022](https://twitter.com/COSM0STAKE/status/1576476637197000704?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
 [05.10.2022](https://twitter.com/COSM0STAKE/status/1577663374908866564?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
 [24.10.2022](https://twitter.com/COSM0STAKE/status/1584521293147537414?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-
+[10.11.2022](https://twitter.com/COSM0STAKE/status/1590661772934926336?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
+[10.11.2022](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
+[12.11.2022](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
 
 SOME STATS:
 
