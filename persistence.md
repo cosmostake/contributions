@@ -53,12 +53,36 @@ We use the [Persistence](https://persistence.one/) brandbook to match the style 
 
 
 
+- XPRT - THE ECOSYSTEM
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
+
+<img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
+
+
+
+
 - PERSISTENCE WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
 
 This infographic shows: basic statistics and news about Persistence.
 ![PERSISTENCE WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200538377-03a0c37f-77fc-4aad-b6e5-85e3c193ae11.png)
+
+
+
+
+- As it evolves, Persistence always strives to improve and become one of the best.
+
+Persistence integrates with @axelarcore, which allows you to do cross-chain translations designed for #Web3, which will fundamentally simplify Persistence interactions with other chains.
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
+
+<img width="2254" alt="Frame 415" src="https://user-images.githubusercontent.com/86729290/201467355-53d7dc80-b307-462f-860a-aa41d3dae039.png">
+
+
+
+
 
 
 
@@ -78,6 +102,22 @@ This infographic shows: basic statistics and news about Persistence.
 This infographic shows: basic statistics and news about Persistence.
 ![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/200539660-71533ece-61aa-4530-a689-94c86c06ca5a.png)
 
+### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
+
+[19.09.2022](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=I8Xb2y4zdgor8IpQlK0gJw), 
+[29.09.2022](https://twitter.com/COSM0STAKE/status/1575510119168761866?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[30.09.2022](https://twitter.com/COSM0STAKE/status/1575759288324149248?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[01.10.2022](https://twitter.com/COSM0STAKE/status/1576099976174006272?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[02.10.2022](https://twitter.com/COSM0STAKE/status/1576476637197000704?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[05.10.2022](https://twitter.com/COSM0STAKE/status/1577663374908866564?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+[24.10.2022](https://twitter.com/COSM0STAKE/status/1584521293147537414?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
+
+
+SOME STATS:
+
+<img width="591" alt="Снимок экрана 2022-11-08 в 13 35" src="https://user-images.githubusercontent.com/86729290/200554428-78863a26-f0db-49bc-87f2-c4a1f6d9da5b.png">
+
+__________________________________________________________________________________________________________________________________________________________
 
 
 ### YOUTUBE
@@ -87,6 +127,15 @@ This infographic shows: basic statistics and news about Persistence.
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=xklLFDim5Jg&t=61s)
 
 ![PERSISTANCE - HOW TO WORKS](https://user-images.githubusercontent.com/86729290/200543786-85e5f28e-ea52-44a3-8026-07cb9e3c7688.jpeg)
+
+
+
+- Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=YqFzHzfVqPI&t=26s)
+
+![Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet](https://user-images.githubusercontent.com/86729290/201467207-440e754e-2988-4350-989d-962dc7fe13a9.jpeg)
+
 
 
 
@@ -120,21 +169,4 @@ Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium
 ![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545765-04d679e3-f0a5-427a-84f0-32e3d4e11247.png)
 
 __________________________________________________________________________________________________________________________________________________________
-
-
-
-### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
-
-[19.09.2022](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=I8Xb2y4zdgor8IpQlK0gJw), 
-[29.09.2022](https://twitter.com/COSM0STAKE/status/1575510119168761866?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-[30.09.2022](https://twitter.com/COSM0STAKE/status/1575759288324149248?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-[01.10.2022](https://twitter.com/COSM0STAKE/status/1576099976174006272?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-[02.10.2022](https://twitter.com/COSM0STAKE/status/1576476637197000704?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-[05.10.2022](https://twitter.com/COSM0STAKE/status/1577663374908866564?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-[24.10.2022](https://twitter.com/COSM0STAKE/status/1584521293147537414?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
-
-
-SOME STATS:
-
-<img width="591" alt="Снимок экрана 2022-11-08 в 13 35" src="https://user-images.githubusercontent.com/86729290/200554428-78863a26-f0db-49bc-87f2-c4a1f6d9da5b.png">
 
