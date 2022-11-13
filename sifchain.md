@@ -40,6 +40,8 @@ Also, our validator always votes for proposals!
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/83000549/201506370-deb385d8-b328-4a3d-90f1-75f724f2e5e0.png">
 
 - [Test IPFS collab cluster guide](https://github.com/cosmostake/validator/blob/main/guides/sifchain/follow_node_ipfs.md)
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/83000549/201506468-7d546887-1e59-4281-88f5-f944abc4bd80.png">
+
 
 - [Setup validator node manually guide](https://github.com/cosmostake/validator/blob/main/guides/sifchain/sifchain_setup_validator.md)
 <img width="1512" alt="image" src="https://user-images.githubusercontent.com/83000549/201506284-69c0b7c2-b940-4ffc-b429-848d037cb348.png">
