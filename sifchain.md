@@ -8,7 +8,7 @@ This repository is based on the overall work of our team to develop the COSMOS e
 
 
 
-### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOL etc.) 
+### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOK etc.) 
 
 We create a lot of [Sifchain](https://sifchain.network/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Sifchain. We have some basic images, logos, gradients from the [Sifchain](https://sifchain.network/) brand pack, and we often mention the [Sifchain](https://sifchain.network/) logo or other things related to it. 
 
@@ -32,6 +32,18 @@ Also, our validator always votes for proposals!
 
 - We're validator SIFCHAIN - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/sifchain/validators/sifvaloper1k89razs48taq2xsjhpq8h6htm4jfyxvalwj7jj)
 <img width="1512" alt="Снимок экрана 2022-11-06 в 14 53" src="https://user-images.githubusercontent.com/86729290/200172024-b8833742-ad8e-473e-a203-d35f39cab19b.png">
+
+- We're part of IPFS Working Group
+<img width="1512" alt="Screenshot at Nov 13 12-45-23" src="https://user-images.githubusercontent.com/83000549/201506209-62dc1591-2d8c-4380-a424-6fab3c3d67bd.png">
+
+- [SifDAO Proposal: August - October IPFS Working Group Compensation](https://www.mintscan.io/sifchain/proposals/128)
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/83000549/201506370-deb385d8-b328-4a3d-90f1-75f724f2e5e0.png">
+
+- [Test IPFS collab cluster guide](https://github.com/cosmostake/validator/blob/main/guides/sifchain/follow_node_ipfs.md)
+
+- [Setup validator node manually guide](https://github.com/cosmostake/validator/blob/main/guides/sifchain/sifchain_setup_validator.md)
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/83000549/201506284-69c0b7c2-b940-4ffc-b429-848d037cb348.png">
+
 
 
 
