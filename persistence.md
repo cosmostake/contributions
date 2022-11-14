@@ -114,6 +114,8 @@ This infographic shows: basic statistics and news about Persistence.
 [10.11.2022](https://twitter.com/COSM0STAKE/status/1590661772934926336?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
 [10.11.2022](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
 [12.11.2022](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
+[13.11.2022](https://twitter.com/COSM0STAKE/status/1591759727670722560?s=20&t=pauvem7Ju7QcFPYzscxKNg),
+[14.11.2022](https://twitter.com/COSM0STAKE/status/1591850874615517185?s=20&t=pauvem7Ju7QcFPYzscxKNg),
 
 SOME STATS:
 
@@ -130,7 +132,7 @@ ________________________________________________________________________________
 
 ![PERSISTANCE - HOW TO WORKS](https://user-images.githubusercontent.com/86729290/200543786-85e5f28e-ea52-44a3-8026-07cb9e3c7688.jpeg)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 - Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet
 
@@ -138,7 +140,15 @@ ________________________________________________________________________________
 
 ![Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet](https://user-images.githubusercontent.com/86729290/201467207-440e754e-2988-4350-989d-962dc7fe13a9.jpeg)
 
+__________________________________________________________________________________________________________________________________________________________
 
+- pSTAKE Finance - full analysis of the project $XPRT
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=hWzPSCISGVs&t=2s)
+
+![maxresdefault](https://user-images.githubusercontent.com/86729290/201621796-64978574-4917-4df0-8b8f-5c416bbe396a.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
 
 
 
