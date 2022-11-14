@@ -171,6 +171,7 @@ This infographic shows: basic statistics and news about Juno.
 [28.10.2022](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
 [09.10.2022](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
 [10.10.2022](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
+[14.10.2022](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA),
 
 SOME STATS:
 
