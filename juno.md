@@ -57,6 +57,15 @@ This infographic shows: Juno ecosystem.
 
 - JUNO WEEKLY RECAP
 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA)
+
+This infographic shows: basic statistics and news about Juno.
+![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/201641974-0ebb3a72-b9f0-4961-b7bb-dae78d137ee6.png)
+
+
+
+- JUNO WEEKLY RECAP
+
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=wiy1F5ezev7_tmry9EnnbA)
 
 This infographic shows: basic statistics and news about Juno.
