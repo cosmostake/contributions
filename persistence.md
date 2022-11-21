@@ -116,6 +116,7 @@ This infographic shows: basic statistics and news about Persistence.
 [12.11.2022](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA),
 [13.11.2022](https://twitter.com/COSM0STAKE/status/1591759727670722560?s=20&t=pauvem7Ju7QcFPYzscxKNg),
 [14.11.2022](https://twitter.com/COSM0STAKE/status/1591850874615517185?s=20&t=pauvem7Ju7QcFPYzscxKNg),
+[15.11.2022](https://twitter.com/COSM0STAKE/status/1592498922651815939?s=20&t=4PAgxvnSLFzfw8A7S7z1Ew),
 
 SOME STATS:
 
@@ -125,6 +126,15 @@ ________________________________________________________________________________
 
 
 ### YOUTUBE
+
+- pSTAKE Finance - full analysis of the project $XPRT 
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=Kc2qSmRH-WQ&t=6s)
+
+![Frame 417](https://user-images.githubusercontent.com/86729290/203068306-c6cde65c-7d1d-4f81-9e68-18ecfbd3fe96.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
 
 - PERSISTANCE - HOW TO WORKS 
 
