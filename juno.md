@@ -172,6 +172,7 @@ This infographic shows: basic statistics and news about Juno.
 [09.10.2022](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
 [10.10.2022](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
 [14.10.2022](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA),
+[26.10.2022](https://twitter.com/COSM0STAKE/status/1596430345603514368?s=20&t=pc418VlMkazFgrR7zi1dzw),
 
 SOME STATS:
 
@@ -183,6 +184,7 @@ SOME STATS:
 
 
 ### YOUTUBE
+
 
 - HOW TO STAKE JUNO
 
@@ -197,6 +199,15 @@ SOME STATS:
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=NtDBBVgBLfg&t=27s)
 
 ![WHAT IS JUNO HALVING ?](https://user-images.githubusercontent.com/86729290/197390809-598a9eb4-da2c-4e1f-8543-f2b491e01cb7.png)
+
+
+
+
+- JUNO - STAKEDROP ⚛️
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=y6fEqDsAwn4&t=17s)
+
+![maxresdefault](https://user-images.githubusercontent.com/86729290/204087182-41bd71d9-1bf5-40b9-8376-0a94b628710a.jpeg)
 
 
 
