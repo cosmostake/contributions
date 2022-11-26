@@ -71,6 +71,16 @@ This infographic shows: basic statistics and news about Persistence.
 
 
 
+- $XPRT native token distribution from Pesistence
+Check out the infographic to keep abreast of all the accruals of coins 👇
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1596208845642235904?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA)
+
+![Frame 431](https://user-images.githubusercontent.com/86729290/204086947-1b3ed1c8-6e20-43bc-b68e-b7eb70861b24.png)
+
+
+
+
 
 - As it evolves, Persistence always strives to improve and become one of the best.
 
@@ -79,9 +89,6 @@ Persistence integrates with @axelarcore, which allows you to do cross-chain tran
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
 
 <img width="2254" alt="Frame 415" src="https://user-images.githubusercontent.com/86729290/201467355-53d7dc80-b307-462f-860a-aa41d3dae039.png">
-
-
-
 
 
 
@@ -104,6 +111,7 @@ This infographic shows: basic statistics and news about Persistence.
 
 ### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
 
+
 [19.09.2022](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=I8Xb2y4zdgor8IpQlK0gJw), 
 [29.09.2022](https://twitter.com/COSM0STAKE/status/1575510119168761866?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
 [30.09.2022](https://twitter.com/COSM0STAKE/status/1575759288324149248?s=20&t=I8Xb2y4zdgor8IpQlK0gJw),
@@ -117,6 +125,9 @@ This infographic shows: basic statistics and news about Persistence.
 [13.11.2022](https://twitter.com/COSM0STAKE/status/1591759727670722560?s=20&t=pauvem7Ju7QcFPYzscxKNg),
 [14.11.2022](https://twitter.com/COSM0STAKE/status/1591850874615517185?s=20&t=pauvem7Ju7QcFPYzscxKNg),
 [15.11.2022](https://twitter.com/COSM0STAKE/status/1592498922651815939?s=20&t=4PAgxvnSLFzfw8A7S7z1Ew),
+[22.11.2022](https://twitter.com/COSM0STAKE/status/1595012838611128321?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
+[22.11.2022](https://twitter.com/COSM0STAKE/status/1595070103653154820?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
+[25.11.2022](https://twitter.com/COSM0STAKE/status/1596208845642235904?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
 
 SOME STATS:
 
@@ -133,6 +144,15 @@ ________________________________________________________________________________
 
 ![Frame 417](https://user-images.githubusercontent.com/86729290/203068306-c6cde65c-7d1d-4f81-9e68-18ecfbd3fe96.jpg)
 
+__________________________________________________________________________________________________________________________________________________________
+
+
+- Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=YqFzHzfVqPI&t=26s)
+
+![Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet](https://user-images.githubusercontent.com/86729290/201467207-440e754e-2988-4350-989d-962dc7fe13a9.jpeg)
+
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -144,19 +164,35 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
-- Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=YqFzHzfVqPI&t=26s)
-
-![Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet](https://user-images.githubusercontent.com/86729290/201467207-440e754e-2988-4350-989d-962dc7fe13a9.jpeg)
-
-__________________________________________________________________________________________________________________________________________________________
 
 - pSTAKE Finance - full analysis of the project $XPRT
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=hWzPSCISGVs&t=2s)
 
 ![maxresdefault](https://user-images.githubusercontent.com/86729290/201621796-64978574-4917-4df0-8b8f-5c416bbe396a.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+- Coin98 Wallet - Using the wallet with PersistenceOne
+ via the $XPRT token. A visual overview of all functions and the additional ability to store your own currency!
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=ZRwCoxk02KA&t=167s)
+
+![photo_2022-11-22_11-46-27](https://user-images.githubusercontent.com/86729290/204086716-1c093e3e-2c7c-4d40-8b74-8e72e968b19a.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- Persistence ⚛️Foundation x Labs !
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=tQV7FvNyHKo&t=8s)
+
+![photo_2022-11-22_16-53-56](https://user-images.githubusercontent.com/86729290/204086774-e6748013-5672-4120-a392-edd53b23178e.jpg)
+
+
 
 __________________________________________________________________________________________________________________________________________________________
 
