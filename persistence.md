@@ -93,6 +93,16 @@ Persistence integrates with @axelarcore, which allows you to do cross-chain tran
 
 
 
+- Opportunity to earn and collaborate with the Persistence
+ project 🤝 with the indications described below, get acquainted and start earning😉
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1596812108335058944?s=20&t=fjsATi6gEAxl27XIDGQPLw)
+
+![photo_2022-11-25_19-22-02](https://user-images.githubusercontent.com/86729290/204132040-703686c4-834a-46b3-8de2-8d04103694a9.jpg)
+
+
+
+
 - PERSISTENCE WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1577663374908866564?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
@@ -128,6 +138,7 @@ This infographic shows: basic statistics and news about Persistence.
 [22.11.2022](https://twitter.com/COSM0STAKE/status/1595012838611128321?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
 [22.11.2022](https://twitter.com/COSM0STAKE/status/1595070103653154820?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
 [25.11.2022](https://twitter.com/COSM0STAKE/status/1596208845642235904?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
+[27.11.2022](https://twitter.com/COSM0STAKE/status/1596812108335058944?s=20&t=fjsATi6gEAxl27XIDGQPLw),
 
 SOME STATS:
 
