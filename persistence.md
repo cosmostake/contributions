@@ -53,12 +53,20 @@ We use the [Persistence](https://persistence.one/) brandbook to match the style 
 
 
 
+
 - XPRT - THE ECOSYSTEM
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
 
 <img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
 
+
+
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
+
+![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
 
 
 
@@ -112,6 +120,16 @@ This infographic shows: basic statistics and news about Persistence.
 
 
 
+
+- PERSISTENCE is leader of liquid staking and here we have summarized the team's plans for further development 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598267130713346050?s=20&t=_HFZZGIl-Mv1f5Lv9MRGAA)
+
+![photo_2022-11-26_13-48-28](https://user-images.githubusercontent.com/86729290/205439763-2a91a913-6849-454f-bf3f-b7a35cda6678.jpg)
+
+
+
+
 - COSMOS ECOSYSTEM WEEKLY NEWS
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
@@ -139,6 +157,10 @@ This infographic shows: basic statistics and news about Persistence.
 [22.11.2022](https://twitter.com/COSM0STAKE/status/1595070103653154820?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
 [25.11.2022](https://twitter.com/COSM0STAKE/status/1596208845642235904?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA),
 [27.11.2022](https://twitter.com/COSM0STAKE/status/1596812108335058944?s=20&t=fjsATi6gEAxl27XIDGQPLw),
+[27.11.2022](https://twitter.com/COSM0STAKE/status/1596877495290462208?s=20&t=_HFZZGIl-Mv1f5Lv9MRGAA),
+[29.11.2022](https://twitter.com/COSM0STAKE/status/1597513716475756544?s=20&t=_HFZZGIl-Mv1f5Lv9MRGAA),
+[01.12.2022](https://twitter.com/COSM0STAKE/status/1598267130713346050?s=20&t=_HFZZGIl-Mv1f5Lv9MRGAA),
+[02.12.2022](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA),
 
 SOME STATS:
 
@@ -149,6 +171,16 @@ ________________________________________________________________________________
 
 ### YOUTUBE
 
+- Persistence | Tokenomics & Utility $XPRT ⚛️
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=hnI5TZvQt80&t=5s)
+
+![45](https://user-images.githubusercontent.com/86729290/205439529-769feb09-3c83-44e3-a5e7-27e0ed530a20.jpeg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
 - pSTAKE Finance - full analysis of the project $XPRT 
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=Kc2qSmRH-WQ&t=6s)
@@ -156,6 +188,16 @@ ________________________________________________________________________________
 ![Frame 417](https://user-images.githubusercontent.com/86729290/203068306-c6cde65c-7d1d-4f81-9e68-18ecfbd3fe96.jpg)
 
 __________________________________________________________________________________________________________________________________________________________
+
+
+- Installing Persistence Wallet | Detailed Overview $XPRT ⚛️ 
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8349stpyrs0&t=37s)
+
+![565656565656](https://user-images.githubusercontent.com/86729290/205439664-3fc563a1-32a6-4152-a7ff-bc0f1a8762a5.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+
 
 
 - Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet
