@@ -40,26 +40,6 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
-
-![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-- Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=tRgjrVLLk1LY7hByBttSgA)
-
-![photo_2022-12-03_11-23-29](https://user-images.githubusercontent.com/86729290/205478912-c63ab56e-d442-4a1b-b852-29d58e75932f.jpg)
-
-
-
-__________________________________________________________________________________________________________________________________________________________
-
-
 
 
 
@@ -120,8 +100,7 @@ Persistence integrates with @axelarcore, which allows you to do cross-chain tran
 __________________________________________________________________________________________________________________________________________________________
 
 
-- Opportunity to earn and collaborate with the Persistence
- project 🤝 with the indications described below, get acquainted and start earning😉
+- Opportunity to earn and collaborate with the Persistence project with the indications described below, get acquainted and start earning
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1596812108335058944?s=20&t=fjsATi6gEAxl27XIDGQPLw)
 
@@ -164,6 +143,34 @@ ________________________________________________________________________________
 
 
 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #8 Upgrade v4 PersistenceCore ✔️
+
+![photo_2022-12-04_12-37-37](https://user-images.githubusercontent.com/86729290/205488415-4d6d2860-b6bd-4ba0-82da-089886ed1360.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
+
+![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=tRgjrVLLk1LY7hByBttSgA)
+
+![photo_2022-12-03_11-23-29](https://user-images.githubusercontent.com/86729290/205478912-c63ab56e-d442-4a1b-b852-29d58e75932f.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
 ### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
 
 
@@ -189,6 +196,7 @@ ________________________________________________________________________________
 [01.12.2022](https://twitter.com/COSM0STAKE/status/1598267130713346050?s=20&t=_HFZZGIl-Mv1f5Lv9MRGAA),
 [02.12.2022](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA),
 [04.12.2022](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=cwwQdcDS_5zxPE6PYTG9PQ),
+[04.12.2022](https://twitter.com/COSM0STAKE/status/1599315685389131776?s=20&t=W5dRsaghwIECET00AqD-Bw),
 
 SOME STATS:
 
@@ -251,6 +259,17 @@ ________________________________________________________________________________
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=hWzPSCISGVs&t=2s)
 
 ![maxresdefault](https://user-images.githubusercontent.com/86729290/201621796-64978574-4917-4df0-8b8f-5c416bbe396a.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+- News Background Review by  Persistence$XPRT | For November 
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=WN8IgCzOJc8&t=29s)
+
+![WN8IgCzOJc8-HD](https://user-images.githubusercontent.com/86729290/205488547-a55a4eb1-6dd1-49f6-ac0f-ccfe03efedb8.jpg)
+
 
 __________________________________________________________________________________________________________________________________________________________
 
