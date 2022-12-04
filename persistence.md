@@ -38,6 +38,22 @@ ________________________________________________________________________________
 <img width="1512" alt="Снимок экрана 2022-11-08 в 12 04 12" src="https://user-images.githubusercontent.com/86729290/200535935-d4bd4811-d0ec-4735-9198-f4e6717f47ae.png">
 
 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
+
+![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
+
+
+
+- Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=tRgjrVLLk1LY7hByBttSgA)
+
+![photo_2022-12-03_11-23-29](https://user-images.githubusercontent.com/86729290/205478912-c63ab56e-d442-4a1b-b852-29d58e75932f.jpg)
+
+
+
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -60,13 +76,6 @@ We use the [Persistence](https://persistence.one/) brandbook to match the style 
 
 <img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
 
-
-
-- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
-
-![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
 
 
 
