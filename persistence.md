@@ -37,6 +37,8 @@ ________________________________________________________________________________
 - We're validator PERSISTENCE - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
 <img width="1512" alt="Снимок экрана 2022-11-08 в 12 04 12" src="https://user-images.githubusercontent.com/86729290/200535935-d4bd4811-d0ec-4735-9198-f4e6717f47ae.png">
 
+__________________________________________________________________________________________________________________________________________________________
+
 
 - COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
 
@@ -44,6 +46,7 @@ ________________________________________________________________________________
 
 ![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
@@ -68,6 +71,8 @@ We create a lot of [Persistence](https://persistence.one/)-related content to im
 We use the [Persistence](https://persistence.one/) brandbook to match the style of the company. We often mention the [Persistence](https://persistence.one/) logo or other related things.
 
 
+__________________________________________________________________________________________________________________________________________________________
+
 
 
 - XPRT - THE ECOSYSTEM
@@ -77,6 +82,7 @@ We use the [Persistence](https://persistence.one/) brandbook to match the style 
 <img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - PERSISTENCE WEEKLY RECAP
@@ -85,6 +91,9 @@ We use the [Persistence](https://persistence.one/) brandbook to match the style 
 
 This infographic shows: basic statistics and news about Persistence.
 ![PERSISTENCE WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200538377-03a0c37f-77fc-4aad-b6e5-85e3c193ae11.png)
+
+
+__________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -96,7 +105,7 @@ Check out the infographic to keep abreast of all the accruals of coins 👇
 ![Frame 431](https://user-images.githubusercontent.com/86729290/204086947-1b3ed1c8-6e20-43bc-b68e-b7eb70861b24.png)
 
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - As it evolves, Persistence always strives to improve and become one of the best.
@@ -108,6 +117,7 @@ Persistence integrates with @axelarcore, which allows you to do cross-chain tran
 <img width="2254" alt="Frame 415" src="https://user-images.githubusercontent.com/86729290/201467355-53d7dc80-b307-462f-860a-aa41d3dae039.png">
 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - Opportunity to earn and collaborate with the Persistence
@@ -118,6 +128,7 @@ Persistence integrates with @axelarcore, which allows you to do cross-chain tran
 ![photo_2022-11-25_19-22-02](https://user-images.githubusercontent.com/86729290/204132040-703686c4-834a-46b3-8de2-8d04103694a9.jpg)
 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - PERSISTENCE WEEKLY RECAP
@@ -128,6 +139,7 @@ This infographic shows: basic statistics and news about Persistence.
 ![PERSISTENCE WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200539660-71533ece-61aa-4530-a689-94c86c06ca5a.png)
 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - PERSISTENCE is leader of liquid staking and here we have summarized the team's plans for further development 
@@ -137,6 +149,7 @@ This infographic shows: basic statistics and news about Persistence.
 ![photo_2022-11-26_13-48-28](https://user-images.githubusercontent.com/86729290/205439763-2a91a913-6849-454f-bf3f-b7a35cda6678.jpg)
 
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - COSMOS ECOSYSTEM WEEKLY NEWS
@@ -145,6 +158,11 @@ This infographic shows: basic statistics and news about Persistence.
 
 This infographic shows: basic statistics and news about Persistence.
 ![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/200539660-71533ece-61aa-4530-a689-94c86c06ca5a.png)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
 
 ### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
 
