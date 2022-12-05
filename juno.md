@@ -169,10 +169,15 @@ This infographic shows: basic statistics and news about Juno.
 [23.10.2022](https://twitter.com/COSM0STAKE/status/1584127295614115840?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
 [27.10.2022](https://twitter.com/COSM0STAKE/status/1585531314459000834?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
 [28.10.2022](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[09.10.2022](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
-[10.10.2022](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
-[14.10.2022](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA),
-[26.10.2022](https://twitter.com/COSM0STAKE/status/1596430345603514368?s=20&t=pc418VlMkazFgrR7zi1dzw),
+[09.11.2022](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
+[10.11.2022](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
+[14.11.2022](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA),
+[26.11.2022](https://twitter.com/COSM0STAKE/status/1596430345603514368?s=20&t=pc418VlMkazFgrR7zi1dzw),
+[30.11.2022](https://twitter.com/COSM0STAKE/status/1597878011768209408?s=20&t=AgezanTlo7mskhpOSK-KHA),
+[02.12.2022](https://twitter.com/COSM0STAKE/status/1598570663844855810?s=20&t=AgezanTlo7mskhpOSK-KHA),
+[03.12.2022](https://twitter.com/COSM0STAKE/status/1599051601469091840?s=20&t=AgezanTlo7mskhpOSK-KHA),
+[05.12.2022](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=AgezanTlo7mskhpOSK-KHA),
+[05.12.2022](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=AgezanTlo7mskhpOSK-KHA),
 
 SOME STATS:
 
