@@ -55,6 +55,19 @@ ________________________________________________________________________________
 
 
 
+- $XPRT WEEKLY STATISTICS PERSISTENCE
+
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599906024756068353?s=20&t=3ddYrRLAPLXBo__kvu4Oyg)
+
+
+![IMG_3698](https://user-images.githubusercontent.com/86729290/205966528-4de28b7c-b7d5-4df4-a668-c42f0f2818f3.png)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
 - XPRT - THE ECOSYSTEM
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
@@ -198,6 +211,7 @@ ________________________________________________________________________________
 [04.12.2022](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=cwwQdcDS_5zxPE6PYTG9PQ),
 [04.12.2022](https://twitter.com/COSM0STAKE/status/1599315685389131776?s=20&t=W5dRsaghwIECET00AqD-Bw),
 [04.12.2022](https://twitter.com/COSM0STAKE/status/1599373322877562881?s=20&t=_zpksa_LXUBYZ1k0IyfzpQ),
+[06.12.2022](https://twitter.com/COSM0STAKE/status/1599906024756068353?s=20&t=3ddYrRLAPLXBo__kvu4Oyg),
 
 SOME STATS:
 
