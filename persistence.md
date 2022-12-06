@@ -78,6 +78,18 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
+- The @COSM0STAKE team would like to thank @PersistenceOne for appreciating the work we bring to the ecosystem ⚛️
+
+And we are pleased to see this and be with you.
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599373322877562881?s=20&t=Pl3w5bdDutz53j_44zkvXQ)
+
+![FjIdbWjXEAAniDH](https://user-images.githubusercontent.com/86729290/205980797-98145778-1777-49d5-b87d-0d4955c8d876.jpeg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
 - PERSISTENCE WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
