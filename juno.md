@@ -46,6 +46,8 @@ ________________________________________________________________________________
 We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
 We use the Juno brandbook to match the style of the company. We often mention the [Juno](https://www.junonetwork.io/) logo or other related things.
 
+__________________________________________________________________________________________________________________________________________________________
+
 
 - JUNO - THE ECOSYSTEM 
 
@@ -53,6 +55,32 @@ We use the Juno brandbook to match the style of the company. We often mention th
 
 This infographic shows: Juno ecosystem.
 ![JUNO - THE ECOSYSTEM](https://user-images.githubusercontent.com/86729290/201295727-55cf9c3a-b269-4319-8693-0431ba07c25d.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- COSMØSTAKE votes YES on JUNO Proposal #60
+
+Loop Finance - Juno Terra Developer Grant Final Tranche Payment ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=Z4KfyTeJdye_4JOeTFN9rw)
+
+![60](https://user-images.githubusercontent.com/86729290/205974606-71ac6a3a-37ce-4691-bc30-dea10bbc6a12.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- COSMØSTAKE votes YES on JUNO Proposal #61
+
+Sunset Liquditiy Incentives for JunoSwap ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=Z4KfyTeJdye_4JOeTFN9rw)
+
+![61](https://user-images.githubusercontent.com/86729290/205975158-fd9da7d7-dadc-4941-afac-47e0fafc3ff8.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO WEEKLY RECAP
@@ -62,6 +90,7 @@ This infographic shows: Juno ecosystem.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/201641974-0ebb3a72-b9f0-4961-b7bb-dae78d137ee6.png)
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO WEEKLY RECAP
@@ -71,6 +100,7 @@ This infographic shows: basic statistics and news about Juno.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/198673268-9a6d8d0c-82a1-4fee-8890-ec9877b5780c.png)
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO WEEKLY RECAP
@@ -80,6 +110,7 @@ This infographic shows: basic statistics and news about Juno.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125501-44ab76b3-f5c7-432e-987c-f20709e9a90e.png)
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING
@@ -88,6 +119,7 @@ This infographic shows: basic statistics and news about Juno.
 
 <img width="1757" alt="Frame 407" src="https://user-images.githubusercontent.com/86729290/201297582-202013ea-11d3-4bbd-8958-84fcfb465b79.png">
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO WEEKLY RECAP
@@ -97,7 +129,7 @@ This infographic shows: basic statistics and news about Juno.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO WEEKLY RECAP
@@ -107,7 +139,7 @@ This infographic shows: basic statistics and news about Juno.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125858-924663dc-b9e6-41f3-add7-58feb48283a2.png)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO WEEKLY RECAP
@@ -117,6 +149,7 @@ This infographic shows: basic statistics and news about Juno.
 This infographic shows: basic statistics and news about Juno.
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200126154-c10433f2-abb0-4245-aa59-22b695bc3994.png)
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - TOP LIQUIDITY POOL ON JUNO
@@ -125,7 +158,7 @@ This infographic shows: basic statistics and news about Juno.
 
 ![TOP LIQUIDITY POOL ON JUNO](https://user-images.githubusercontent.com/86729290/200125743-39b56984-855e-4fe3-831a-3bfa8b492aa5.png)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
@@ -134,9 +167,7 @@ This infographic shows: basic statistics and news about Juno.
 
 ![PROPOSAL #40](https://user-images.githubusercontent.com/86729290/200126019-85468766-7c19-43a3-b972-c9fc429c92b8.png)
 
-
-
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - COSMOS ECOSYSTEM WEEKLY NEWS 
@@ -145,7 +176,7 @@ This infographic shows: basic statistics and news about Juno.
 
 ![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/196038229-db76ead3-dfa0-4043-9224-7d2f16992314.png)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -178,6 +209,9 @@ This infographic shows: basic statistics and news about Juno.
 [03.12.2022](https://twitter.com/COSM0STAKE/status/1599051601469091840?s=20&t=AgezanTlo7mskhpOSK-KHA),
 [05.12.2022](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=AgezanTlo7mskhpOSK-KHA),
 [05.12.2022](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=AgezanTlo7mskhpOSK-KHA),
+[06.12.2022](https://twitter.com/COSM0STAKE/status/1600174933434310658?s=20&t=3jfMyWOHy_1Nd68-iLVkEg),
+
+
 
 SOME STATS:
 
@@ -197,6 +231,7 @@ SOME STATS:
 
 ![HOW TO STAKE JUNO](https://user-images.githubusercontent.com/86729290/197390737-7ba1d6c6-4ab6-411c-8085-50294e648242.jpeg)
 
+__________________________________________________________________________________________________________________________________________________________
 
 
 - WHAT IS JUNO HALVING ?
@@ -205,7 +240,37 @@ SOME STATS:
 
 ![WHAT IS JUNO HALVING ?](https://user-images.githubusercontent.com/86729290/197390809-598a9eb4-da2c-4e1f-8543-f2b491e01cb7.png)
 
+__________________________________________________________________________________________________________________________________________________________
 
+
+- $JUNO Introduces Swift Protocol | Launching De-Commerce To The Masses 🤝 Overview News 🔥
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=O2ER2eVJUDo)
+
+![photo_2022-12-02_15-28-57](https://user-images.githubusercontent.com/86729290/205978813-2402116c-8c8e-4c1d-b420-bfbb1431433a.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- LIQUID STAKING $JUNO 💧 | NEW FEATURES FROM @eris_protocol 🔥
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=oTdMlDyoYi8)
+
+![maxresdefault](https://user-images.githubusercontent.com/86729290/205979048-f0ebeb70-f8d3-4257-accd-96bf8a68f219.jpeg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- $JUNO - INTEGRATES COIN98 🔥
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=U5-7wF8Jkeg&t)
+
+![photo_2022-12-01_22-26-04](https://user-images.githubusercontent.com/86729290/205979226-4e190a33-d555-4fcd-83f6-729c6a0a55bf.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO - STAKEDROP ⚛️
@@ -214,7 +279,7 @@ SOME STATS:
 
 ![maxresdefault](https://user-images.githubusercontent.com/86729290/204087182-41bd71d9-1bf5-40b9-8376-0a94b628710a.jpeg)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM
@@ -223,7 +288,7 @@ SOME STATS:
 
 ![JUNO - REVIEW (DAO🕶️ STEP BY STEP GUIDE TO USE THE PLATFORM](https://user-images.githubusercontent.com/86729290/198672692-0a876c58-105f-4e18-bf59-ffc313fc37b0.jpeg)
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO - TOKENOMICS
@@ -232,8 +297,7 @@ SOME STATS:
 
 ![JUNO - TOKENOMICS](https://user-images.githubusercontent.com/86729290/197390922-40f78a61-a186-4801-bdcf-1de3d262120b.jpeg)
 
-
-
+__________________________________________________________________________________________________________________________________________________________
 
 
 - JUNO: OVERVIEW
@@ -241,8 +305,6 @@ SOME STATS:
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=FgUuS7-jQB0&t=28s)
 
 ![JUNO: OVERVIEW](https://user-images.githubusercontent.com/86729290/197391017-bf6c88f2-920c-4c04-9de4-bd935a6934fa.jpeg)
-
-
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -265,7 +327,6 @@ Link: [https://link.medium.com/gA5wyYtjIub](https://link.medium.com/gA5wyYtjIub)
 
 ![JUNO DIGEST](https://user-images.githubusercontent.com/86729290/200133959-61f0e6ff-7604-4701-b5b6-86cc9c1e5872.png)
 
-
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -275,9 +336,7 @@ Link: [https://link.medium.com/inkw1nejIub](https://link.medium.com/inkw1nejIub)
 
 ![JUNO OVERVIEW](https://user-images.githubusercontent.com/86729290/200133731-5766e4a9-218b-4f8e-808b-cc9f0232d095.png)
 
-
 __________________________________________________________________________________________________________________________________________________________
-
 
 
 - Junø on the Osmosis Interchain AMM
@@ -291,7 +350,6 @@ Ukrainian translation: [https://link.medium.com/l6E83zAcIub](https://link.medium
 __________________________________________________________________________________________________________________________________________________________
 
 
-
 - Hack JUNO
 
 Original: [https://link.medium.com/7Civf8ZbIub](https://link.medium.com/7Civf8ZbIub)
@@ -299,6 +357,3 @@ Original: [https://link.medium.com/7Civf8ZbIub](https://link.medium.com/7Civf8Zb
 Ukrainian translation: [https://link.medium.com/Cj8CTK6bIub](https://link.medium.com/Cj8CTK6bIub)
 
 ![Hack JUNO](https://user-images.githubusercontent.com/86729290/200134168-ed80d629-a68b-4308-a93a-7f10f92e515e.png)
-
-
-
