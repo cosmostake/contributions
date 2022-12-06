@@ -333,14 +333,16 @@ We also created a series of blog posts on Juno in English and Ukrainian (To make
 
 
 
-- We Translated into Ukrainian🇺🇦 Media post $XPRT
+- We Translated into Ukrainian 🇺🇦 Media post $XPRT
 XPRT Tokenomics and Utility: Powering the Persistence Ecosystem ⚛️
 
 Original: [https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem/](https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem)
 
 Ukrainian translation: [https://link.medium.com/xZuk9swTJtb](https://link.medium.com/xZuk9swTJtb)
 
-![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545237-11dbbff7-9b6e-4a55-b6c6-1f483774c809.png)
+![200545237-11dbbff7-9b6e-4a55-b6c6-1f483774c809](https://user-images.githubusercontent.com/86729290/205972592-fec3463b-50a3-41a5-b3a1-c97f9cc91d0b.png)
+
+
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -353,7 +355,8 @@ Original: [https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-la
 
 Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium.com/prcMtkasLtb)
 
-![We Translated into Ukrainian🇺🇦](https://user-images.githubusercontent.com/86729290/200545765-04d679e3-f0a5-427a-84f0-32e3d4e11247.png)
+![200545765-04d679e3-f0a5-427a-84f0-32e3d4e11247](https://user-images.githubusercontent.com/86729290/205972827-14c5d454-85c6-4f10-a0cf-e414b5649b7c.png)
+
 
 __________________________________________________________________________________________________________________________________________________________
 
