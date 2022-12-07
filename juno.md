@@ -83,6 +83,18 @@ Sunset Liquditiy Incentives for JunoSwap ✔️
 __________________________________________________________________________________________________________________________________________________________
 
 
+- COSMØSTAKE votes YES on JUNO Proposal #63
+
+Formalise usage of Commonwealth for governance ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1600421062855905285?s=20&t=WKFFa-7UDjCNs67iNMOrRg)
+
+![photo_2022-12-06_11-09-39](https://user-images.githubusercontent.com/86729290/206144664-dc95ec25-5e74-43c0-870d-f38f5ae9e7f9.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
 - JUNO WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA)
