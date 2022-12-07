@@ -95,6 +95,20 @@ Formalise usage of Commonwealth for governance ✔️
 __________________________________________________________________________________________________________________________________________________________
 
 
+- COSMØSTAKE votes YES on JUNO Proposal #64
+
+Juno Open Source Funding Policy ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=FsN_YPrfMoX3JuYJRXMc3Q)
+
+![photo_2022-12-06_11-09-45](https://user-images.githubusercontent.com/86729290/206146781-f039ca20-cd20-4a32-a5c2-2bdc1e31d14c.jpg)
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
 - JUNO WEEKLY RECAP
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA)
@@ -222,7 +236,8 @@ ________________________________________________________________________________
 [05.12.2022](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=AgezanTlo7mskhpOSK-KHA),
 [05.12.2022](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=AgezanTlo7mskhpOSK-KHA),
 [06.12.2022](https://twitter.com/COSM0STAKE/status/1600174933434310658?s=20&t=3jfMyWOHy_1Nd68-iLVkEg),
-
+[07.12.2022](https://twitter.com/COSM0STAKE/status/1600421062855905285?s=20&t=zzzZUzMZtZ_FfKIEwjlDmQ),
+[07.12.2022](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=zzzZUzMZtZ_FfKIEwjlDmQ),
 
 
 SOME STATS:
