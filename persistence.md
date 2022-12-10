@@ -78,7 +78,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- The @COSM0STAKE team would like to thank @PersistenceOne for appreciating the work we bring to the ecosystem ⚛️
+- The COSM0STAKE team would like to thank PERSISTENCE for appreciating the work we bring to the ecosystem ⚛️
 
 And we are pleased to see this and be with you.
 
@@ -88,6 +88,19 @@ And we are pleased to see this and be with you.
 
 
 __________________________________________________________________________________________________________________________________________________________
+
+
+
+- $XPRT DAILY INFORMATION PERSISTENCE
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ)
+
+![PERCICTENCE](https://user-images.githubusercontent.com/86729290/206861069-0cafa309-58c5-4265-a59c-3f04072879f4.png)
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+
 
 
 - PERSISTENCE WEEKLY RECAP
@@ -224,6 +237,8 @@ ________________________________________________________________________________
 [04.12.2022](https://twitter.com/COSM0STAKE/status/1599315685389131776?s=20&t=W5dRsaghwIECET00AqD-Bw),
 [04.12.2022](https://twitter.com/COSM0STAKE/status/1599373322877562881?s=20&t=_zpksa_LXUBYZ1k0IyfzpQ),
 [06.12.2022](https://twitter.com/COSM0STAKE/status/1599906024756068353?s=20&t=3ddYrRLAPLXBo__kvu4Oyg),
+[09.12.2022](https://twitter.com/COSM0STAKE/status/1601177109820772356?s=20&t=VX96j09d6j00Ef7_l7bAkQ),
+[10.12.2022](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ),
 
 SOME STATS:
 
@@ -249,6 +264,15 @@ ________________________________________________________________________________
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=Kc2qSmRH-WQ&t=6s)
 
 ![Frame 417](https://user-images.githubusercontent.com/86729290/203068306-c6cde65c-7d1d-4f81-9e68-18ecfbd3fe96.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- RENEWED FOUNDATION DELEGATION PROGRAM | BY PERSISTENCE
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=dpHFjJEdsvU&t=106s)
+
+![maxresdefault](https://user-images.githubusercontent.com/86729290/206861136-a8c1f39e-94d6-4511-bf32-ae5f2bbddcd0.jpeg)
 
 __________________________________________________________________________________________________________________________________________________________
 
