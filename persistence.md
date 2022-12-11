@@ -11,7 +11,7 @@ This repository is based on the overall work of our team to develop the COSMOS e
 
 ### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOL etc.) 
 
-We create a lot of [Persistence](https://persistence.one/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Osmosis. We have some basic images, logos, gradients from the [Persistence](https://persistence.one/) brand pack, and we often mention the [Persistence](https://persistence.one/) logo or other things related to it. 
+We create a lot of [Persistence](https://persistence.one/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Persistence. We have some basic images, logos, gradients from the [Persistence](https://persistence.one/) brand pack, and we often mention the [Persistence](https://persistence.one/) logo or other things related to it. 
 
 Also, our validator always votes for proposals!
 
