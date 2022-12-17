@@ -34,10 +34,17 @@ ________________________________________________________________________________
 
 ### TECHNICAL CONNTRIBUTIONS:
 
-- We're validator PERSISTENCE - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
+- We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
 <img width="1512" alt="Снимок экрана 2022-11-08 в 12 04 12" src="https://user-images.githubusercontent.com/86729290/200535935-d4bd4811-d0ec-4735-9198-f4e6717f47ae.png">
 
 __________________________________________________________________________________________________________________________________________________________
+
+
+- We're validator PERSISTENCE (Testnet) 
+ 
+![photo_2022-12-04_10-18-28](https://user-images.githubusercontent.com/86729290/208234432-fda384cd-434c-4f08-84ec-5a541b26a731.png)
+
+
 
 
 
