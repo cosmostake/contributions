@@ -32,7 +32,7 @@ Also, our validator always votes for proposals!
 
 __________________________________________________________________________________________________________________________________________________________
 
-### TECHNICAL CONNTRIBUTIONS:
+## TECHNICAL CONNTRIBUTIONS:
 
 - We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
 <img width="1512" alt="Снимок экрана 2022-11-08 в 12 04 12" src="https://user-images.githubusercontent.com/86729290/200535935-d4bd4811-d0ec-4735-9198-f4e6717f47ae.png">
@@ -44,15 +44,21 @@ ________________________________________________________________________________
  
 ![photo_2022-12-04_10-18-28](https://user-images.githubusercontent.com/86729290/208234432-fda384cd-434c-4f08-84ec-5a541b26a731.png)
 
+__________________________________________________________________________________________________________________________________________________________
+
+
+We provide support for validators, we wrote "Guide To Setup Up | Persistence Validator Node (Manually)" 
+
+Read here: https://link.medium.com/XSUJlFF0Gvb
+
+![1__Pd8e4tj3KunaHC1cuAlMw](https://user-images.githubusercontent.com/86729290/208235971-922f3461-052f-481c-b2b7-d1b6e813018e.png)
 
 
 
 
 
 
-
-
-### TWITTER:
+## TWITTER:
 
 We create a lot of [Persistence](https://persistence.one/)-related content to improve the community's knowledge of features and inform about Persistence-related news.
 We use the [Persistence](https://persistence.one/) brandbook to match the style of the company. We often mention the [Persistence](https://persistence.one/) logo or other related things.
@@ -247,6 +253,10 @@ ________________________________________________________________________________
 [09.12.2022](https://twitter.com/COSM0STAKE/status/1601177109820772356?s=20&t=VX96j09d6j00Ef7_l7bAkQ),
 [10.12.2022](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ),
 [11.12.2022](https://twitter.com/COSM0STAKE/status/1602203523453779969?s=20&t=JNYmif-asw6aJ7A9HqWYvw),
+[14.12.2022](https://twitter.com/COSM0STAKE/status/1603029375993188352?s=20&t=YOVDfn7WBD3P08zexu2r2Q),
+[15.12.2022](https://twitter.com/COSM0STAKE/status/1603309820588818435?s=20&t=YOVDfn7WBD3P08zexu2r2Q),
+[16.12.2022](https://twitter.com/COSM0STAKE/status/1604040275562733569?s=20&t=YOVDfn7WBD3P08zexu2r2Q),
+
 
 SOME STATS:
 
@@ -255,7 +265,7 @@ SOME STATS:
 __________________________________________________________________________________________________________________________________________________________
 
 
-### YOUTUBE
+## YOUTUBE
 
 - Persistence | Tokenomics & Utility $XPRT ⚛️
 
@@ -371,7 +381,7 @@ ________________________________________________________________________________
 
 
 
-### MEDIUM 
+## MEDIUM 
 
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
