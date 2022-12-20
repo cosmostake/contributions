@@ -479,3 +479,6 @@ Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium
 
 __________________________________________________________________________________________________________________________________________________________
 
+## About us
+
+- [Our webpage](http://cosmostake.com.tilda.ws/)
