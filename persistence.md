@@ -42,14 +42,14 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- We're validator PERSISTENCE (Testnet) 
+- We launched the validator PERSISTENCE (Testnet) more than 1 month ago
  
 ![photo_2022-12-04_10-18-28](https://user-images.githubusercontent.com/86729290/208234432-fda384cd-434c-4f08-84ec-5a541b26a731.png)
 
 __________________________________________________________________________________________________________________________________________________________
 
 
-We provide support for validators, we wrote "Guide To Setup Up | Persistence Validator Node (Manually)" 
+We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
 
 Read here: https://link.medium.com/XSUJlFF0Gvb
 
