@@ -35,7 +35,9 @@ ________________________________________________________________________________
 ## TECHNICAL CONTRIBUTIONS:
 
 - We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
-<img width="1512" alt="Снимок экрана 2022-11-08 в 12 04 12" src="https://user-images.githubusercontent.com/86729290/200535935-d4bd4811-d0ec-4735-9198-f4e6717f47ae.png">
+
+<img width="1512" alt="Снимок экрана 2022-12-20 в 09 47" src="https://user-images.githubusercontent.com/86729290/208633313-dd9947cf-e25a-4f73-abff-0b9422546c1e.png">
+
 
 __________________________________________________________________________________________________________________________________________________________
 
