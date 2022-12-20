@@ -52,9 +52,34 @@ ________________________________________________________________________________
 We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
 
 Read here: https://link.medium.com/XSUJlFF0Gvb
+![photo_2022-12-20_11-51-54](https://user-images.githubusercontent.com/86729290/208640879-093934f3-3fe3-470b-ab13-2b2dc41fc87c.jpg)
 
 ![1__Pd8e4tj3KunaHC1cuAlMw](https://user-images.githubusercontent.com/86729290/208235971-922f3461-052f-481c-b2b7-d1b6e813018e.png)
 
+__________________________________________________________________________________________________________________________________________________________
+
+
+We are constantly promoting the Persistence ecosystem, the idea and the possibilities of the project. By giving community members the ability to interact with the protocol while also having a quality opportunity to stake $XPRT in return for members diligenting their tokens to us.
+
+![9](https://user-images.githubusercontent.com/86729290/208643299-d2fd7bac-2996-4380-8644-06002ea213fa.png)
+
+![11](https://user-images.githubusercontent.com/86729290/208643763-6cd73001-a8cf-4de8-ad44-d147232b84a3.png)
+
+![22](https://user-images.githubusercontent.com/86729290/208643917-cd5a6c0e-91f0-44fb-84c6-f67c3644eb3c.png)
+
+![33](https://user-images.githubusercontent.com/86729290/208644079-0f291144-9616-4b6b-8b2b-596cfaa72577.png)
+
+![44](https://user-images.githubusercontent.com/86729290/208644300-c5f72d6e-f76e-4687-980e-e1f74d34298f.png)
+
+![55](https://user-images.githubusercontent.com/86729290/208644446-56037c7a-8500-4c44-aadb-c35f59900d50.png)
+
+![88](https://user-images.githubusercontent.com/86729290/208644571-6d54e988-57a9-4d91-aa09-6b8cfcc15bb8.png)
+
+![77](https://user-images.githubusercontent.com/86729290/208644994-b2359821-9dfa-42b2-89fb-295ed98559d4.png)
+
+![66](https://user-images.githubusercontent.com/86729290/208645014-aeff77f5-26ab-4300-8a38-7c7e8d3ae49b.png)
+
+![101](https://user-images.githubusercontent.com/86729290/208645022-f2699647-0e20-45e8-8912-c9cfea002c49.png)
 
 
 
