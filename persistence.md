@@ -49,10 +49,15 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
+We provide support for validators, We created video on youtube "Guide To Setup Up | Persistence Validator Node (Manually)" 
 
-Read here: https://link.medium.com/XSUJlFF0Gvb
-![photo_2022-12-20_11-51-54](https://user-images.githubusercontent.com/86729290/208640879-093934f3-3fe3-470b-ab13-2b2dc41fc87c.jpg)
+In this video, we will install the Persistence validator step by step with you. Let's take a closer look at all the points and make it clear how to do it quickly and easily.
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=rcUpWItvluA&t)
+
+![3453534534534345](https://user-images.githubusercontent.com/86729290/208652892-1e40179f-157d-429d-8115-2a38d4c1c200.jpeg)
+
+
 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -65,7 +70,15 @@ Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistenc
 
 <img width="1512" alt="Снимок экрана 2022-12-20 в 12 49 59" src="https://user-images.githubusercontent.com/86729290/208651394-38381492-8c27-41ca-a5e5-080bf6c20209.png">
 
+__________________________________________________________________________________________________________________________________________________________
 
+
+
+We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
+
+Read here: https://link.medium.com/XSUJlFF0Gvb
+
+![11111111](https://user-images.githubusercontent.com/86729290/208652461-7866c522-4a50-47db-98cd-688ea6742697.jpeg)
 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -143,15 +156,25 @@ ________________________________________________________________________________
 
 
 
+- Learn a little about @persistenceone in this infographic
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1604797029770739713?s=20&t=MTl5Qv5xmLWiezq4FQ-HtA)
+
+<img width="2876" alt="Group 499" src="https://user-images.githubusercontent.com/86729290/208653504-3c46741e-58e3-4512-bc69-c92bc5af423c.png">
+
+
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
 - $XPRT DAILY INFORMATION PERSISTENCE
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ)
 
 ![PERCICTENCE](https://user-images.githubusercontent.com/86729290/206861069-0cafa309-58c5-4265-a59c-3f04072879f4.png)
-
-
-
-__________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -295,6 +318,9 @@ ________________________________________________________________________________
 [14.12.2022](https://twitter.com/COSM0STAKE/status/1603029375993188352?s=20&t=YOVDfn7WBD3P08zexu2r2Q),
 [15.12.2022](https://twitter.com/COSM0STAKE/status/1603309820588818435?s=20&t=YOVDfn7WBD3P08zexu2r2Q),
 [16.12.2022](https://twitter.com/COSM0STAKE/status/1604040275562733569?s=20&t=YOVDfn7WBD3P08zexu2r2Q),
+[17.12.2022](https://twitter.com/COSM0STAKE/status/1604040275562733569?s=20&t=MTl5Qv5xmLWiezq4FQ-HtA),
+[19.12.2022](https://twitter.com/COSM0STAKE/status/1604797029770739713?s=20&t=MTl5Qv5xmLWiezq4FQ-HtA),
+[20.12.2022](https://twitter.com/COSM0STAKE/status/1605122896619110401?s=20&t=MTl5Qv5xmLWiezq4FQ-HtA),
 
 
 SOME STATS:
