@@ -54,7 +54,19 @@ We provide support for validators, We wrote a blog post on medium "Guide To Setu
 Read here: https://link.medium.com/XSUJlFF0Gvb
 ![photo_2022-12-20_11-51-54](https://user-images.githubusercontent.com/86729290/208640879-093934f3-3fe3-470b-ab13-2b2dc41fc87c.jpg)
 
-![1__Pd8e4tj3KunaHC1cuAlMw](https://user-images.githubusercontent.com/86729290/208235971-922f3461-052f-481c-b2b7-d1b6e813018e.png)
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+
+We provide support for validators, We wrote a Github "Guide To Setup Up | Persistence Validator Node (Manually)" 
+
+Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistence/persistence_setup_validator.md
+
+<img width="1512" alt="Снимок экрана 2022-12-20 в 12 49 59" src="https://user-images.githubusercontent.com/86729290/208651394-38381492-8c27-41ca-a5e5-080bf6c20209.png">
+
+
+
 
 __________________________________________________________________________________________________________________________________________________________
 
