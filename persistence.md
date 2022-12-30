@@ -36,7 +36,8 @@ ________________________________________________________________________________
 
 - We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
 
-<img width="1512" alt="Снимок экрана 2022-12-20 в 09 47" src="https://user-images.githubusercontent.com/86729290/208633313-dd9947cf-e25a-4f73-abff-0b9422546c1e.png">
+<img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062150-0917075b-80e5-4137-bc6f-71ea2aef2b78.png">
+
 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -74,7 +75,8 @@ ________________________________________________________________________________
 
 
 
-We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
+We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" <img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062132-9df8ace3-274d-4dfa-bfd9-58efee5e3793.png">
+
 
 Read here: https://link.medium.com/XSUJlFF0Gvb
 
