@@ -164,12 +164,7 @@ ________________________________________________________________________________
 
 <img width="2876" alt="Group 499" src="https://user-images.githubusercontent.com/86729290/208653504-3c46741e-58e3-4512-bc69-c92bc5af423c.png">
 
-
-
-
-
 __________________________________________________________________________________________________________________________________________________________
-
 
 
 - $XPRT DAILY INFORMATION PERSISTENCE
@@ -178,7 +173,17 @@ ________________________________________________________________________________
 
 ![PERCICTENCE](https://user-images.githubusercontent.com/86729290/206861069-0cafa309-58c5-4265-a59c-3f04072879f4.png)
 
+__________________________________________________________________________________________________________________________________________________________
 
+
+- ⚡️REMINDER⚡️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1606663262862540801?s=20&t=wyd8HIKBb8FyQ-k61294_Q)
+
+![photo_2022-12-24_12-40-19](https://user-images.githubusercontent.com/86792707/210065755-0b296cfd-dd99-46d2-8bf4-056182ee087e.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
 
 - PERSISTENCE WEEKLY RECAP
 
@@ -198,6 +203,16 @@ Check out the infographic to keep abreast of all the accruals of coins 👇
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1596208845642235904?s=20&t=XWzKxHZ6yEtbpOnSLqnFKA)
 
 ![Frame 431](https://user-images.githubusercontent.com/86729290/204086947-1b3ed1c8-6e20-43bc-b68e-b7eb70861b24.png)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+- $XPRT WEEKLY STATISTICS
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1607013930085322753?s=20&t=wyd8HIKBb8FyQ-k61294_Q)
+
+![photo_2022-12-24_12-37-59](https://user-images.githubusercontent.com/86792707/210065881-b611d4a0-ce8e-49e6-9464-6e8b53719c04.jpg)
+
 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -241,6 +256,19 @@ ________________________________________________________________________________
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598267130713346050?s=20&t=_HFZZGIl-Mv1f5Lv9MRGAA)
 
 ![photo_2022-11-26_13-48-28](https://user-images.githubusercontent.com/86729290/205439763-2a91a913-6849-454f-bf3f-b7a35cda6678.jpg)
+
+
+__________________________________________________________________________________________________________________________________________________________
+
+
+- PERSISTENCE WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1606613386711781376?s=20&t=wyd8HIKBb8FyQ-k61294_Q)
+
+This infographic shows: basic statistics and news about Persistence.
+
+![WEEKLY RECAP 24](https://user-images.githubusercontent.com/86792707/210065551-31b3806c-7409-4517-be82-329e422b0a27.png)
+
 
 
 __________________________________________________________________________________________________________________________________________________________
