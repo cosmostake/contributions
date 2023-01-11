@@ -43,7 +43,10 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- We launched the validator PERSISTENCE (Testnet) more than 1 month ago
+- We're validator PERSISTENCE (Testnet) - [LINK TO COSMØSTAKE VALIDATOR](https://testnet.mintscan.io/persistence-testnet/validators/persistencevaloper16af2kgt0q2v9ks38pe4chlxk7hjqqykzy4q9gv)
+
+<img width="1512" alt="Снимок экрана 2023-01-11 в 11 32" src="https://user-images.githubusercontent.com/86792707/211770162-e8b5aada-bb3a-48e6-98cf-9812fcd0b398.png">
+
  
 ![photo_2022-12-04_10-18-28](https://user-images.githubusercontent.com/86729290/208234432-fda384cd-434c-4f08-84ec-5a541b26a731.png)
 
