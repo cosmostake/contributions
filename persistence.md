@@ -12,7 +12,7 @@ We create a lot of [PERSISTENCE](https://persistence.one) related content to imp
 
 Also, our validator always votes for proposals!
 
-
+__________________________________________________________________________________________________________________________________________________________ 
 
 <details>
 <summary>ABOUT US:</summary>
