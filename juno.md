@@ -324,6 +324,24 @@ Juno Open Source Funding Policy ✔️
 
 ![photo_2022-12-06_11-09-45](https://user-images.githubusercontent.com/86729290/206146781-f039ca20-cd20-4a32-a5c2-2bdc1e31d14c.jpg)
 __________________________________________________________________________________________________________________________________________________________
+  
+- COSMØSTAKE votes YES on JUNO Proposal #67
+Increase Community Tax ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1602973999180431360?s=20&t=s6aFBb--l0c_TtB9Hum1zw)
+
+![67](https://user-images.githubusercontent.com/86792707/215261480-b26322b7-e1d4-4777-899d-2cda81799db0.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+
+- COSMØSTAKE votes YES on JUNO Proposal #72
+COMMUNITY CONSENT COSMOS PAY SUPPORTING JUNO ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1605910289794244608?s=20&t=s6aFBb--l0c_TtB9Hum1zw)
+
+![1](https://user-images.githubusercontent.com/86792707/215261380-3a6994dc-0562-464d-9682-daede3531629.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
 </details>
 
 
