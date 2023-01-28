@@ -15,7 +15,12 @@ We create a lot of [JUNO](https://www.junonetwork.io/) related content (Multiple
 
 Also, our validator always votes for proposals!
 
+<details>
+<summary>ABOUT US</summary>
 
+- [WEBPAGE](http://cosmostake.com.tilda.ws)
+ 
+</details>
 
 <details>
 <summary>TEAM:</summary>
