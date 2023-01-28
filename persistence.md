@@ -241,21 +241,6 @@ This infographic shows: basic statistics and news about Persistence.
 __________________________________________________________________________________________________________________________________________________________
 
 
-
-- COSMØSTAKE votes YES on Persistence $XPRT Proposal #8 Upgrade v4 PersistenceCore ✔️
-
-![photo_2022-12-04_12-37-37](https://user-images.githubusercontent.com/86729290/205488415-4d6d2860-b6bd-4ba0-82da-089886ed1360.jpg)
-__________________________________________________________________________________________________________________________________________________________
-
-
-- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
-
-![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
-__________________________________________________________________________________________________________________________________________________________
-
-
 - Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=tRgjrVLLk1LY7hByBttSgA)
@@ -406,6 +391,20 @@ ________________________________________________________________________________
 
 <details>
 <summary>VOTES FOR PROPOSALS:</summary>
+ 
+
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #8 Upgrade v4 PersistenceCore ✔️
+
+![photo_2022-12-04_12-37-37](https://user-images.githubusercontent.com/86729290/205488415-4d6d2860-b6bd-4ba0-82da-089886ed1360.jpg)
+__________________________________________________________________________________________________________________________________________________________
+
+
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
+
+![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
+ 
 </details>
 
 
