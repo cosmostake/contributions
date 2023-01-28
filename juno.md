@@ -15,6 +15,8 @@ We create a lot of [JUNO](https://www.junonetwork.io) related content to improve
 
 Also, our validator always votes for proposals!
 
+__________________________________________________________________________________________________________________________________________________________ 
+
 <details>
 <summary>ABOUT US:</summary>
 
