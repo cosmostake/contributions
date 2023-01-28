@@ -7,8 +7,8 @@ COSMØSTAKE validator not only provide security to the Networks, but also contri
 
 Here is the list of our contributions to:
 
-- [Juno Network](https://github.com/COIN-SIDE/contributions/blob/main/juno.md)
 - [Persistence](https://github.com/COIN-SIDE/contributions/blob/main/persistence.md)
+- [Juno Network](https://github.com/COIN-SIDE/contributions/blob/main/juno.md)
 - [Umee](https://github.com/cosmostake/contributions/blob/main/Umee)
 - [Osmosis](https://github.com/COIN-SIDE/contributions/blob/main/osmosis.md)
 - [SifChain](https://github.com/COIN-SIDE/contributions/blob/main/sifchain.md)
