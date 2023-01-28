@@ -117,39 +117,68 @@ We are constantly promoting the [PERSISTENCE](https://persistence.one) the idea 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
 
 <img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
+ 
 __________________________________________________________________________________________________________________________________________________________
 
 
-- $XPRT WEEKLY STATISTICS PERSISTENCE
+ - Learn a little about PERSISTENCE in this infographic
 
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599906024756068353?s=20&t=3ddYrRLAPLXBo__kvu4Oyg)
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1604797029770739713?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
-![IMG_3698](https://user-images.githubusercontent.com/86729290/205966528-4de28b7c-b7d5-4df4-a668-c42f0f2818f3.png)
+<img width="2876" alt="Group 499" src="https://user-images.githubusercontent.com/86792707/215268904-beff6cd2-c52f-4f12-a897-8caba9c5e726.png">
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+
+ - XPRT WEEKLY RECAP
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1615381588807716865?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![17 01 23 WEEKLY RECAP](https://user-images.githubusercontent.com/86792707/215269031-8c32aac3-8e1e-4b3c-bcce-f3f20b58c545.png)
+
 __________________________________________________________________________________________________________________________________________________________
 
-
-
+ 
 - The COSM0STAKE team would like to thank PERSISTENCE for appreciating the work we bring to the ecosystem ⚛️
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599373322877562881?s=20&t=Pl3w5bdDutz53j_44zkvXQ)
 
 ![FjIdbWjXEAAniDH](https://user-images.githubusercontent.com/86729290/205980797-98145778-1777-49d5-b87d-0d4955c8d876.jpeg)
+ 
 __________________________________________________________________________________________________________________________________________________________
 
-
-- Learn a little about @persistenceone in this infographic
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1604797029770739713?s=20&t=MTl5Qv5xmLWiezq4FQ-HtA)
-
-<img width="2876" alt="Group 499" src="https://user-images.githubusercontent.com/86729290/208653504-3c46741e-58e3-4512-bc69-c92bc5af423c.png">
-__________________________________________________________________________________________________________________________________________________________
-
-
+ 
 - $XPRT DAILY INFORMATION PERSISTENCE
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ)
 
 ![PERCICTENCE](https://user-images.githubusercontent.com/86729290/206861069-0cafa309-58c5-4265-a59c-3f04072879f4.png)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- $XPRT DAILY INFORMATION PERSISTENCE
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1611713831998308358?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![07 01 23](https://user-images.githubusercontent.com/86792707/215269401-4f93f51e-54a3-42a5-93d8-3b63d3a03b05.jpg)
+
+<img width="1705" alt="12 01 23" src="https://user-images.githubusercontent.com/86792707/215269548-fbf02299-2065-4923-9b77-70acd13bc2d2.png">
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- $XPRT DAILY INFORMATION PERSISTENCE
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1607013930085322753?s=20&t=wyd8HIKBb8FyQ-k61294_Q)
+
+![photo_2022-12-24_12-37-59](https://user-images.githubusercontent.com/86792707/210065881-b611d4a0-ce8e-49e6-9464-6e8b53719c04.jpg)
+__________________________________________________________________________________________________________________________________________________________
+ 
+- $XPRT DAILY INFORMATION PERSISTENCE
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1603029375993188352?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![1](https://user-images.githubusercontent.com/86792707/215269718-c08da322-ebf0-4a48-90ab-ca41514f4edc.jpeg)
+
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -178,15 +207,7 @@ Check out the infographic to keep abreast of all the accruals of coins 👇
 ![Frame 431](https://user-images.githubusercontent.com/86729290/204086947-1b3ed1c8-6e20-43bc-b68e-b7eb70861b24.png)
 __________________________________________________________________________________________________________________________________________________________
 
-
-- $XPRT WEEKLY STATISTICS
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1607013930085322753?s=20&t=wyd8HIKBb8FyQ-k61294_Q)
-
-![photo_2022-12-24_12-37-59](https://user-images.githubusercontent.com/86792707/210065881-b611d4a0-ce8e-49e6-9464-6e8b53719c04.jpg)
-__________________________________________________________________________________________________________________________________________________________
-
-
+ 
 - As it evolves, Persistence always strives to improve and become one of the best.
 
 Persistence integrates with @axelarcore, which allows you to do cross-chain translations designed for #Web3, which will fundamentally simplify Persistence interactions with other chains.
@@ -241,15 +262,7 @@ This infographic shows: basic statistics and news about Persistence.
 __________________________________________________________________________________________________________________________________________________________
 
 
-- Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=tRgjrVLLk1LY7hByBttSgA)
-
-![photo_2022-12-03_11-23-29](https://user-images.githubusercontent.com/86729290/205478912-c63ab56e-d442-4a1b-b852-29d58e75932f.jpg)
-__________________________________________________________________________________________________________________________________________________________
-
-
-### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one/)
+### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [PERSISTENCE](https://persistence.one)
 
 
 [19.09.2022](https://twitter.com/COSM0STAKE/status/1571804870361116673?s=20&t=I8Xb2y4zdgor8IpQlK0gJw), 
@@ -289,8 +302,18 @@ ________________________________________________________________________________
 [24.12.2022](https://twitter.com/COSM0STAKE/status/1606613386711781376?s=20&t=wyd8HIKBb8FyQ-k61294_Q),
 [24.12.2022](https://twitter.com/COSM0STAKE/status/1606663262862540801?s=20&t=wyd8HIKBb8FyQ-k61294_Q),
 [25.12.2022](https://twitter.com/COSM0STAKE/status/1607013930085322753?s=20&t=wyd8HIKBb8FyQ-k61294_Q),
-
-
+[04.01.2023](https://twitter.com/COSM0STAKE/status/1610565565059309568?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[04.01.2023](https://twitter.com/COSM0STAKE/status/1610651371639824385?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[05.01.2023](https://twitter.com/COSM0STAKE/status/1610950466879225862?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[07.01.2023](https://twitter.com/COSM0STAKE/status/1611713831998308358?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[11.01.2023](https://twitter.com/COSM0STAKE/status/1613184762432167937?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[12.01.2023](https://twitter.com/COSM0STAKE/status/1613600946914721794?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[15.01.2023](https://twitter.com/COSM0STAKE/status/1614661920874799105?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[17.01.2023](https://twitter.com/COSM0STAKE/status/1615381588807716865?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[19.01.2023](https://twitter.com/COSM0STAKE/status/1615968661205819392?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[27.01.2023](https://twitter.com/COSM0STAKE/status/1618921677475430400?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[28.01.2023](https://twitter.com/COSM0STAKE/status/1619316237284282369?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+ 
 SOME STATS:
 
 <img width="591" alt="Снимок экрана 2022-11-08 в 13 35" src="https://user-images.githubusercontent.com/86729290/200554428-78863a26-f0db-49bc-87f2-c4a1f6d9da5b.png">
@@ -389,6 +412,10 @@ ________________________________________________________________________________
 
 
 
+
+
+
+
 <details>
 <summary>VOTES FOR PROPOSALS:</summary>
  
@@ -405,18 +432,74 @@ ________________________________________________________________________________
 
 ![photo_2022-12-03_11-09-41](https://user-images.githubusercontent.com/86729290/205439959-0c14e98a-3943-4eae-bb7a-33bc7d06b737.jpg)
  
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #10
+
+Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![photo_2022-12-03_11-23-29](https://user-images.githubusercontent.com/86729290/205478912-c63ab56e-d442-4a1b-b852-29d58e75932f.jpg)
+__________________________________________________________________________________________________________________________________________________________
+ 
+
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #12
+
+UPGRADE V6 PERSISTENCECORE ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1610565565059309568?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![photo_2023-01-03_13-27-42](https://user-images.githubusercontent.com/86792707/215268695-544d36de-32ad-4b2a-af89-004436bfea39.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #13
+
+GRANT PROPOSAL FOR DEXTER - INTERCHAIN DEX FOR YIELD - GENERATINF ASSETS ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1610950466879225862?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![photo_2023-01-04_13-30-55](https://user-images.githubusercontent.com/86792707/215268787-c5c4a561-a9c9-4c10-ba9f-8c5c30a2d60a.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #15
+
+WHITELIST DEXTER TEAM'S ADDRESS FOR PERMISSIONLESS CODE STORAGE AND INSTANTIATION ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1613184762432167937?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![11 01 23](https://user-images.githubusercontent.com/86792707/215268807-efaf0d9f-2167-4be5-87b1-0489a702fa1c.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
 </details>
+
+
+
+
+
 
 
 <details>
 <summary>MEDIUM:</summary>
+ 
+ 
+- XPRT RESEARCH PERSISTENCE IN THE CRYPTOCURRENCY MARKET! ⚛️
+
+Link: https://link.medium.com/u6vv4mqHjwb
+
+<img width="1280" alt="15 01 23" src="https://user-images.githubusercontent.com/86792707/215269828-0559942e-a188-4bfa-aca5-7005e7aa9466.png">
+
+__________________________________________________________________________________________________________________________________________________________
 
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
 - We Translated into Ukrainian 🇺🇦 Media post $XPRT
 XPRT Tokenomics and Utility: Powering the Persistence Ecosystem ⚛️
 
-Original: [https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem/](https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem)
+Original: [https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem/](https://blog.persistence.one/2021/03/25/xprt-tokenomics-and-utility-powering-the-persistence-ecosystem]
 
 Ukrainian translation: [https://link.medium.com/xZuk9swTJtb](https://link.medium.com/xZuk9swTJtb)
 
@@ -427,7 +510,7 @@ ________________________________________________________________________________
 - We Translated into Ukrainian🇺🇦 Media post $XPRT
 The Persistence Mainnet is Launching on March 30th. Introducing Our World-Class Genesis Validators ⚛️
 
-Original: [https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-launching-on-march-30th-introducing-our-world-class-genesis-validators](https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-launching-on-march-30th-introducing-our-world-class-genesis-validators/)
+Original: [https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-launching-on-march-30th-introducing-our-world-class-genesis-validators](https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-launching-on-march-30th-introducing-our-world-class-genesis-validators/]
 
 Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium.com/prcMtkasLtb)
 
