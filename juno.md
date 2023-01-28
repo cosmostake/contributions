@@ -16,7 +16,7 @@ We create a lot of [JUNO](https://www.junonetwork.io) related content to improve
 Also, our validator always votes for proposals!
 
 <details>
-<summary>ABOUT US</summary>
+<summary>ABOUT US:</summary>
 
 - [WEBPAGE](http://cosmostake.com.tilda.ws)
  
@@ -204,7 +204,7 @@ SOME STATS:
 
 
 <details>
-<summary>YOUTUBE</summary>
+<summary>YOUTUBE:</summary>
 
 
 - HOW TO STAKE JUNO
@@ -273,7 +273,7 @@ ________________________________________________________________________________
 
 
 <details>
-<summary>VOTES FOR PROPOSALS</summary>
+<summary>VOTES FOR PROPOSALS:</summary>
 
 - COSMØSTAKE votes YES on JUNO Proposal #60
 Loop Finance - Juno Terra Developer Grant Final Tranche Payment ✔️
@@ -332,7 +332,7 @@ ________________________________________________________________________________
 
 
 <details>
-<summary>MEDIUM</summary>
+<summary>MEDIUM:</summary>
 
   
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
