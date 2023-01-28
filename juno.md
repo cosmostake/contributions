@@ -11,7 +11,7 @@ Our team added information from the COSMØSTAKE validator here as part of this!
 
 ### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM etc.) 
 
-We create a lot of [JUNO](https://www.junonetwork.io/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the [JUNO](https://www.junonetwork.io/) brand pack, and we often mention the [JUNO](https://www.junonetwork.io/) logo or other things related to it. 
+We create a lot of [JUNO](https://www.junonetwork.io) related content to improve accessibility, community knowledge of features and [JUNO](https://www.junonetwork.io). We have some basic images, logos, gradients from the [JUNO](https://www.junonetwork.io) brand pack, and we often mention the [JUNO](https://www.junonetwork.io) logo or other things related to it. 
 
 Also, our validator always votes for proposals!
 
