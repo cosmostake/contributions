@@ -31,10 +31,9 @@ Also, our validator always votes for proposals!
 <details>
 <summary>TECHNICAL CONNTRIBUTIONS:</summary>
 
+
 - We're validator JUNO - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
 <img width="1512" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197390564-5b71fab1-3847-4516-9bef-562ed298bb1c.png">
-________________________________________________________________________________________________________________________
-  
 </details>
 
 
@@ -45,6 +44,7 @@ ________________________________________________________________________________
 <details>
 <summary>TWITTER:</summary>
 
+
 We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
 We use the Juno brandbook to match the style of the company. We often mention the [JUNO](https://www.junonetwork.io) logo or other related things.
 ________________________________________________________________________________________________________________________
@@ -54,59 +54,8 @@ ________________________________________________________________________________
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
 
-This infographic shows: Juno ecosystem.
 ![JUNO - THE ECOSYSTEM](https://user-images.githubusercontent.com/86729290/201295727-55cf9c3a-b269-4319-8693-0431ba07c25d.jpeg)
 __________________________________________________________________________________________________________________________________________________________
-
-
-- COSMØSTAKE votes YES on JUNO Proposal #60
-
-Loop Finance - Juno Terra Developer Grant Final Tranche Payment ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=Z4KfyTeJdye_4JOeTFN9rw)
-
-![60](https://user-images.githubusercontent.com/86729290/205974606-71ac6a3a-37ce-4691-bc30-dea10bbc6a12.jpg)
-
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-- COSMØSTAKE votes YES on JUNO Proposal #61
-
-Sunset Liquditiy Incentives for JunoSwap ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=Z4KfyTeJdye_4JOeTFN9rw)
-
-![61](https://user-images.githubusercontent.com/86729290/205975158-fd9da7d7-dadc-4941-afac-47e0fafc3ff8.jpg)
-
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-- COSMØSTAKE votes YES on JUNO Proposal #63
-
-Formalise usage of Commonwealth for governance ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1600421062855905285?s=20&t=WKFFa-7UDjCNs67iNMOrRg)
-
-![photo_2022-12-06_11-09-39](https://user-images.githubusercontent.com/86729290/206144664-dc95ec25-5e74-43c0-870d-f38f5ae9e7f9.jpg)
-
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-- COSMØSTAKE votes YES on JUNO Proposal #64
-
-Juno Open Source Funding Policy ✔️
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=FsN_YPrfMoX3JuYJRXMc3Q)
-
-![photo_2022-12-06_11-09-45](https://user-images.githubusercontent.com/86729290/206146781-f039ca20-cd20-4a32-a5c2-2bdc1e31d14c.jpg)
-
-
-
-__________________________________________________________________________________________________________________________________________________________
-
 
 
 - JUNO WEEKLY RECAP
@@ -338,18 +287,52 @@ ________________________________________________________________________________
 </details>
 
 
+<details>
+<summary>VOTES FOR PROPOSALS</summary>
+
+- COSMØSTAKE votes YES on JUNO Proposal #60
+Loop Finance - Juno Terra Developer Grant Final Tranche Payment ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=Z4KfyTeJdye_4JOeTFN9rw)
+
+![60](https://user-images.githubusercontent.com/86729290/205974606-71ac6a3a-37ce-4691-bc30-dea10bbc6a12.jpg)
+__________________________________________________________________________________________________________________________________________________________
 
 
+- COSMØSTAKE votes YES on JUNO Proposal #61
+Sunset Liquditiy Incentives for JunoSwap ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=Z4KfyTeJdye_4JOeTFN9rw)
+
+![61](https://user-images.githubusercontent.com/86729290/205975158-fd9da7d7-dadc-4941-afac-47e0fafc3ff8.jpg)
+__________________________________________________________________________________________________________________________________________________________
+
+
+- COSMØSTAKE votes YES on JUNO Proposal #63
+Formalise usage of Commonwealth for governance ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1600421062855905285?s=20&t=WKFFa-7UDjCNs67iNMOrRg)
+
+![photo_2022-12-06_11-09-39](https://user-images.githubusercontent.com/86729290/206144664-dc95ec25-5e74-43c0-870d-f38f5ae9e7f9.jpg)
+__________________________________________________________________________________________________________________________________________________________
+
+
+- COSMØSTAKE votes YES on JUNO Proposal #64
+Juno Open Source Funding Policy ✔️
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=FsN_YPrfMoX3JuYJRXMc3Q)
+
+![photo_2022-12-06_11-09-45](https://user-images.githubusercontent.com/86729290/206146781-f039ca20-cd20-4a32-a5c2-2bdc1e31d14c.jpg)
+__________________________________________________________________________________________________________________________________________________________
+</details>
 
 
 
 <details>
 <summary>MEDIUM</summary>
 
+  
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
-
-
-
 - We wrote a blog post JUNO DIGEST
 
 Link: [https://link.medium.com/gA5wyYtjIub](https://link.medium.com/gA5wyYtjIub)
