@@ -186,9 +186,14 @@ ________________________________________________________________________________
 [05.12.2022](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=AgezanTlo7mskhpOSK-KHA),
 [06.12.2022](https://twitter.com/COSM0STAKE/status/1600174933434310658?s=20&t=3jfMyWOHy_1Nd68-iLVkEg),
 [07.12.2022](https://twitter.com/COSM0STAKE/status/1600421062855905285?s=20&t=zzzZUzMZtZ_FfKIEwjlDmQ),
-[07.12.2022](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=zzzZUzMZtZ_FfKIEwjlDmQ),
-
-
+[07.12.2022](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+[10.12.2022](https://twitter.com/COSM0STAKE/status/1601485779217547265?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+[13.12.2022](https://twitter.com/COSM0STAKE/status/1602580389532418049?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+[14.12.2022](https://twitter.com/COSM0STAKE/status/1602973999180431360?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+[22.12.2022](https://twitter.com/COSM0STAKE/status/1605910289794244608?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+[08.01.2023](https://twitter.com/COSM0STAKE/status/1612081108090331136?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+  
+ 
 SOME STATS:
 
 <img width="595" alt="Снимок экрана 2022-11-11 в 10 15" src="https://user-images.githubusercontent.com/86729290/201296525-9b4b2e3a-d9f9-45f6-a607-7a5a81fa8278.png">
