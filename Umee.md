@@ -41,10 +41,10 @@ ________________________________________________________________________________
 <summary>TECHNICAL CONNTRIBUTIONS:</summary>
 
 
-- We're validator JUNO - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
-<img width="1512" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197390564-5b71fab1-3847-4516-9bef-562ed298bb1c.png">
-</details>
+- We're validator UMEE - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/umee/validators/umeevaloper10nlsvhss7cfzu0xugyeq8gjkcp5g4kx8gun7xx)
+<img width="1512" alt="Снимок экрана 2023-01-28 в 15 51" src="https://user-images.githubusercontent.com/86792707/215282984-2fa9ac4e-8642-4c30-acf5-506f6498445e.png">
 
+</details>
 
 
 
