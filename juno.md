@@ -3,50 +3,51 @@
 # <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR JUNO </a> 
 
 
-This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [Juno](https://www.junonetwork.io/). Our team added information from the COSMØSTAKE validator here as part of this!
+This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [JUNO](https://www.junonetwork.io/). 
+Our team added information from the COSMØSTAKE validator here as part of this!
 
 
 
 
-### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, GITBOOL etc.) 
+### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM etc.) 
 
-We create a lot of [Juno](https://www.junonetwork.io/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the [Juno](https://www.junonetwork.io/) brand pack, and we often mention the [Juno](https://www.junonetwork.io/) logo or other things related to it. 
+We create a lot of [JUNO](https://www.junonetwork.io/) related content (Multiple languages, English, Russian, Ukrainian) to improve accessibility, community knowledge of features and Juno. We have some basic images, logos, gradients from the [JUNO](https://www.junonetwork.io/) brand pack, and we often mention the [JUNO](https://www.junonetwork.io/) logo or other things related to it. 
 
 Also, our validator always votes for proposals!
 
 
 
-Тeam:
+<details>
+<summary>TEAM:</summary>
 
-- [Laura Kharkevych](https://github.com/laura2727)
+- [Laura Kharkevych](https://github.com/LauraKhar)
 - [Max Levush](https://github.com/maxlevush-COINSIDE)
 - [Yan Lytvynenko](https://github.com/ZAZIK3)
 - [Violetta Markush](https://github.com/vilolaa)
-
-
-# LIST CONTRIBUTIONS FOR [JUNO](https://www.junonetwork.io/)
+</details>
 
 
 
-### TECHNICAL CONNTRIBUTIONS:
+<details>
+<summary>TECHNICAL CONNTRIBUTIONS:</summary>
 
 - We're validator JUNO - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
 <img width="1512" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197390564-5b71fab1-3847-4516-9bef-562ed298bb1c.png">
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-
+________________________________________________________________________________________________________________________
+  
+</details>
 
 
 
 
-### TWITTER:
+
+
+<details>
+<summary>TWITTER:</summary>
 
 We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
-We use the Juno brandbook to match the style of the company. We often mention the [Juno](https://www.junonetwork.io/) logo or other related things.
-
-__________________________________________________________________________________________________________________________________________________________
+We use the Juno brandbook to match the style of the company. We often mention the [JUNO](https://www.junonetwork.io) logo or other related things.
+________________________________________________________________________________________________________________________
 
 
 - JUNO - THE ECOSYSTEM 
@@ -55,7 +56,6 @@ ________________________________________________________________________________
 
 This infographic shows: Juno ecosystem.
 ![JUNO - THE ECOSYSTEM](https://user-images.githubusercontent.com/86729290/201295727-55cf9c3a-b269-4319-8693-0431ba07c25d.jpeg)
-
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -243,13 +243,15 @@ ________________________________________________________________________________
 SOME STATS:
 
 <img width="595" alt="Снимок экрана 2022-11-11 в 10 15" src="https://user-images.githubusercontent.com/86729290/201296525-9b4b2e3a-d9f9-45f6-a607-7a5a81fa8278.png">
+__________________________________________________________________________________________________________________________________________________________
+</details>
 
 
 
 
 
-
-### YOUTUBE
+<details>
+<summary>YOUTUBE</summary>
 
 
 - HOW TO STAKE JUNO
@@ -280,7 +282,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- LIQUID STAKING $JUNO 💧 | NEW FEATURES FROM @eris_protocol 🔥
+- LIQUID STAKING $JUNO 💧 | NEW FEATURES FROM @eris_protocol
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=oTdMlDyoYi8)
 
@@ -290,7 +292,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- $JUNO - INTEGRATES COIN98 🔥
+- $JUNO - INTEGRATES COIN98
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=U5-7wF8Jkeg&t)
 
@@ -332,8 +334,8 @@ ________________________________________________________________________________
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=FgUuS7-jQB0&t=28s)
 
 ![JUNO: OVERVIEW](https://user-images.githubusercontent.com/86729290/197391017-bf6c88f2-920c-4c04-9de4-bd935a6934fa.jpeg)
-
 __________________________________________________________________________________________________________________________________________________________
+</details>
 
 
 
@@ -341,8 +343,8 @@ ________________________________________________________________________________
 
 
 
-
-### MEDIUM 
+<details>
+<summary>MEDIUM</summary>
 
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
@@ -383,4 +385,6 @@ Original: [https://link.medium.com/7Civf8ZbIub](https://link.medium.com/7Civf8Zb
 
 Ukrainian translation: [https://link.medium.com/Cj8CTK6bIub](https://link.medium.com/Cj8CTK6bIub)
 
-![Hack JUNO](https://user-images.githubusercontent.com/86729290/200134168-ed80d629-a68b-4308-a93a-7f10f92e515e.png)
+![Hack JUNO](https://user-images.githubusercontent.com/86729290/200134168-ed80d629-a68b-4308-a93a-7f10f92e515e.png) 
+
+</details>
