@@ -15,7 +15,7 @@ Also, our validator always votes for proposals!
 
 
 <details>
-<summary>ABOUT US</summary>
+<summary>ABOUT US:</summary>
 
 - [WEBPAGE](http://cosmostake.com.tilda.ws)
  
@@ -37,15 +37,14 @@ Also, our validator always votes for proposals!
 <details>
 <summary>TECHNICAL CONTRIBUTIONS:</summary>
 
- 
- 
+
 - We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
  
 <img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062150-0917075b-80e5-4137-bc6f-71ea2aef2b78.png">
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
 
- 
- 
- 
 - We're validator PERSISTENCE (Testnet) - [LINK TO COSMØSTAKE VALIDATOR]
 (https://testnet.mintscan.io/persistence-testnet/validators/persistencevaloper16af2kgt0q2v9ks38pe4chlxk7hjqqykzy4q9gv)
 
@@ -53,8 +52,9 @@ Also, our validator always votes for proposals!
 
 ![photo_2022-12-04_10-18-28](https://user-images.githubusercontent.com/86729290/208234432-fda384cd-434c-4f08-84ec-5a541b26a731.png)
 
+__________________________________________________________________________________________________________________________________________________________ 
  
- 
+
 We provide support for validators, We created video on youtube "Guide To Setup Up | Persistence Validator Node (Manually)" 
 
 In this video, we will install the Persistence validator step by step with you. Let's take a closer look at all the points and make it clear how to do it quickly and easily.
@@ -63,7 +63,7 @@ In this video, we will install the Persistence validator step by step with you. 
 
 ![3453534534534345](https://user-images.githubusercontent.com/86729290/208652892-1e40179f-157d-429d-8115-2a38d4c1c200.jpeg)
 
- 
+__________________________________________________________________________________________________________________________________________________________ 
  
 
 We provide support for validators, We wrote a Github "Guide To Setup Up | Persistence Validator Node (Manually)" 
@@ -72,7 +72,7 @@ Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistenc
 
 <img width="1512" alt="Снимок экрана 2022-12-20 в 12 49 59" src="https://user-images.githubusercontent.com/86729290/208651394-38381492-8c27-41ca-a5e5-080bf6c20209.png">
 
- 
+__________________________________________________________________________________________________________________________________________________________ 
  
 
 We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" <img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062132-9df8ace3-274d-4dfa-bfd9-58efee5e3793.png">
@@ -81,7 +81,7 @@ Read here: https://link.medium.com/XSUJlFF0Gvb
 
 ![1](https://user-images.githubusercontent.com/86729290/208652461-7866c522-4a50-47db-98cd-688ea6742697.jpeg)
 
- 
+__________________________________________________________________________________________________________________________________________________________ 
  
 
 We are constantly promoting the [PERSISTENCE](https://persistence.one) the idea and the possibilities of the project. By giving community members the ability to interact with the protocol while also having a quality opportunity to stake $XPRT in return for members diligenting their tokens to us.
@@ -111,8 +111,12 @@ We are constantly promoting the [PERSISTENCE](https://persistence.one) the idea 
 <details>
 <summary>TWITTER:</summary>
 
-We create a lot of [PERSISTENCE](https://persistence.one) -related content to improve the community's knowledge of features and inform about Persistence-related news.
-We use the [PERSISTENCE](https://persistence.one) brandbook to match the style of the company. We often mention the [PERSISTENCE](https://persistence.one) logo or other related things.
+ 
+- XPRT - THE ECOSYSTEM
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
+
+<img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -123,13 +127,6 @@ ________________________________________________________________________________
 ![IMG_3698](https://user-images.githubusercontent.com/86729290/205966528-4de28b7c-b7d5-4df4-a668-c42f0f2818f3.png)
 __________________________________________________________________________________________________________________________________________________________
 
- 
-- XPRT - THE ECOSYSTEM
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591026132778102784?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
-
-<img width="3000" alt="Frame 410" src="https://user-images.githubusercontent.com/86729290/201467274-17660138-8437-444d-b2b0-c365cc624e40.png">
-__________________________________________________________________________________________________________________________________________________________
 
 
 - The COSM0STAKE team would like to thank PERSISTENCE for appreciating the work we bring to the ecosystem ⚛️
@@ -316,7 +313,7 @@ SOME STATS:
 
 
 <details>
-<summary>YOUTUBE</summary>
+<summary>YOUTUBE:</summary>
 
 - Persistence | Tokenomics & Utility $XPRT ⚛️
 
@@ -408,12 +405,12 @@ ________________________________________________________________________________
 
 
 <details>
-<summary>VOTES FOR PROPOSALS</summary>
+<summary>VOTES FOR PROPOSALS:</summary>
 </details>
 
 
 <details>
-<summary>MEDIUM</summary>
+<summary>MEDIUM:</summary>
 
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
 
