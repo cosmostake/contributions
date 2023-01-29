@@ -54,153 +54,36 @@ ________________________________________________________________________________
 <summary>TWITTER:</summary>
 
 
-We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
-We use the Juno brandbook to match the style of the company. We often mention the [JUNO](https://www.junonetwork.io) logo or other related things.
+We create a lot of Umee-related content to improve the community's knowledge of features and inform about Umee-related news.
+We use the Umee brandbook to match the style of the company. We often mention the [UMEE](https://app.umee.cc) logo or other related things.
 ________________________________________________________________________________________________________________________
 
 
-- JUNO - THE ECOSYSTEM 
+- UMEE WEEKLY RECAP 
 
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1608126012067282944?s=20&t=sU0QPcNHsoHA4mSW3WG_yg)
 
-![JUNO - THE ECOSYSTEM](https://user-images.githubusercontent.com/86729290/201295727-55cf9c3a-b269-4319-8693-0431ba07c25d.jpeg)
-__________________________________________________________________________________________________________________________________________________________
-
-- JUNO WEEKLY RECAP 
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1602580389532418049?s=20&t=gBZF_hAqX5DvoSg3u5OSaQ)
-
-![JUNO WEEKLY RECAP NEW](https://user-images.githubusercontent.com/86792707/215262455-47375e2d-dc7d-4237-9aeb-1faf91f2be49.png)
-__________________________________________________________________________________________________________________________________________________________
-
-- JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA)
-
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/201641974-0ebb3a72-b9f0-4961-b7bb-dae78d137ee6.png)
-__________________________________________________________________________________________________________________________________________________________
-  
-- JUNO WEEKLY STATISTICS
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1601485779217547265?s=20&t=gBZF_hAqX5DvoSg3u5OSaQ)
-
-![photo_2022-12-10_09-48-20](https://user-images.githubusercontent.com/86792707/215262607-a170013a-be78-49f1-a189-4796c1ab2c01.jpg)
-__________________________________________________________________________________________________________________________________________________________
-  
-- JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=wiy1F5ezev7_tmry9EnnbA)
-
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/198673268-9a6d8d0c-82a1-4fee-8890-ec9877b5780c.png)
+![1](https://user-images.githubusercontent.com/86792707/215316791-fb473939-c4b1-47d2-bafa-dc499a95b1fe.jpeg)
 
 __________________________________________________________________________________________________________________________________________________________
-  
-- JUNO WEEKLY STATISTICS
 
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1612081108090331136?s=20&t=gBZF_hAqX5DvoSg3u5OSaQ)
-
-![08 01 23](https://user-images.githubusercontent.com/86792707/215262644-a0058da9-76ea-46c4-81dd-fbe01228ac96.jpg)
-__________________________________________________________________________________________________________________________________________________________
-
-- JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1577324863999574017?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
-
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125501-44ab76b3-f5c7-432e-987c-f20709e9a90e.png)
-__________________________________________________________________________________________________________________________________________________________
-  
-- CHANGE IN THE SHARE OF JUNO TOKENS AFTER THE HALVING
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q)
-
-<img width="1757" alt="Frame 407" src="https://user-images.githubusercontent.com/86729290/201297582-202013ea-11d3-4bbd-8958-84fcfb465b79.png">
-
-
-- JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576499111292870657?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
-
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
-__________________________________________________________________________________________________________________________________________________________
-
-- JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1573958502321717253?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
-
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125858-924663dc-b9e6-41f3-add7-58feb48283a2.png)
-__________________________________________________________________________________________________________________________________________________________
-
-- JUNO WEEKLY RECAP
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1570008660176166912?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
-
-![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200126154-c10433f2-abb0-4245-aa59-22b695bc3994.png)
-__________________________________________________________________________________________________________________________________________________________
-
-- TOP LIQUIDITY POOL ON JUNO
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1576148094537723904?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
-
-![TOP LIQUIDITY POOL ON JUNO](https://user-images.githubusercontent.com/86729290/200125743-39b56984-855e-4fe3-831a-3bfa8b492aa5.png)
-__________________________________________________________________________________________________________________________________________________________
-
-- WE CREATE SUGGESTION AND REMINDER FOR VOTIG:
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1573240549066547200?s=20&t=IRevLJMR0pl8s6X3u3A8OA)
-
-![PROPOSAL #40](https://user-images.githubusercontent.com/86729290/200126019-85468766-7c19-43a3-b972-c9fc429c92b8.png)
-__________________________________________________________________________________________________________________________________________________________
-
-- COSMOS ECOSYSTEM WEEKLY NEWS 
-
-- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=8BMQgsZa848pu_m3TayiuA)
-
-![COSMOS ECOSYSTEM WEEKLY NEWS](https://user-images.githubusercontent.com/86729290/196038229-db76ead3-dfa0-4043-9224-7d2f16992314.png)
-__________________________________________________________________________________________________________________________________________________________
 
 
 ### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [JUNO](https://www.junonetwork.io)
 
-[09.09.2022](https://twitter.com/COSM0STAKE/status/1568218411938811904?s=20&t=IRevLJMR0pl8s6X3u3A8OA), 
-[12.09.2022](https://twitter.com/COSM0STAKE/status/1569355743782125569?s=20&t=IRevLJMR0pl8s6X3u3A8OA), 
-[13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[14.09.2022](https://twitter.com/COSM0STAKE/status/1569975867564240896?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[14.09.2022](https://twitter.com/COSM0STAKE/status/1570008660176166912?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[16.09.2022](https://twitter.com/COSM0STAKE/status/1570746614972817410?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[22.09.2022](https://twitter.com/COSM0STAKE/status/1572890234274152448?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[23.09.2022](https://twitter.com/COSM0STAKE/status/1573240549066547200?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[25.09.2022](https://twitter.com/COSM0STAKE/status/1573958502321717253?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[01.10.2022](https://twitter.com/COSM0STAKE/status/1576148094537723904?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[02.10.2022](https://twitter.com/COSM0STAKE/status/1576499111292870657?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[04.10.2022](https://twitter.com/COSM0STAKE/status/1577324863999574017?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[07.10.2022](https://twitter.com/COSM0STAKE/status/1578288724084895744?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[09.10.2022](https://twitter.com/COSM0STAKE/status/1579034221863407617?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[13.10.2022](https://twitter.com/COSM0STAKE/status/1580488157438496768?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[23.10.2022](https://twitter.com/COSM0STAKE/status/1584127295614115840?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[27.10.2022](https://twitter.com/COSM0STAKE/status/1585531314459000834?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[28.10.2022](https://twitter.com/COSM0STAKE/status/1585932498827202563?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
-[09.11.2022](https://twitter.com/COSM0STAKE/status/1590300622032883713?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
-[10.11.2022](https://twitter.com/COSM0STAKE/status/1590708520017883139?s=20&t=owEPLp3ed9cNXp20hDSD2Q),
-[14.11.2022](https://twitter.com/COSM0STAKE/status/1592105086549123073?s=20&t=9P77ez1SCq5avhA1J84CHA),
-[26.11.2022](https://twitter.com/COSM0STAKE/status/1596430345603514368?s=20&t=pc418VlMkazFgrR7zi1dzw),
-[30.11.2022](https://twitter.com/COSM0STAKE/status/1597878011768209408?s=20&t=AgezanTlo7mskhpOSK-KHA),
-[02.12.2022](https://twitter.com/COSM0STAKE/status/1598570663844855810?s=20&t=AgezanTlo7mskhpOSK-KHA),
-[03.12.2022](https://twitter.com/COSM0STAKE/status/1599051601469091840?s=20&t=AgezanTlo7mskhpOSK-KHA),
-[05.12.2022](https://twitter.com/COSM0STAKE/status/1599665028072108032?s=20&t=AgezanTlo7mskhpOSK-KHA),
-[05.12.2022](https://twitter.com/COSM0STAKE/status/1599713231987089409?s=20&t=AgezanTlo7mskhpOSK-KHA),
-[06.12.2022](https://twitter.com/COSM0STAKE/status/1600174933434310658?s=20&t=3jfMyWOHy_1Nd68-iLVkEg),
-[07.12.2022](https://twitter.com/COSM0STAKE/status/1600421062855905285?s=20&t=zzzZUzMZtZ_FfKIEwjlDmQ),
-[07.12.2022](https://twitter.com/COSM0STAKE/status/1600426766228549632?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
-[10.12.2022](https://twitter.com/COSM0STAKE/status/1601485779217547265?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
-[13.12.2022](https://twitter.com/COSM0STAKE/status/1602580389532418049?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
-[14.12.2022](https://twitter.com/COSM0STAKE/status/1602973999180431360?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
-[22.12.2022](https://twitter.com/COSM0STAKE/status/1605910289794244608?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
-[08.01.2023](https://twitter.com/COSM0STAKE/status/1612081108090331136?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
-  
+[28.12.2022](https://twitter.com/COSM0STAKE/status/1608126012067282944?s=20&t=sU0QPcNHsoHA4mSW3WG_yg), 
+[29.12.2022](https://twitter.com/COSM0STAKE/status/1608399345346387969?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
+[31.12.2022](https://twitter.com/COSM0STAKE/status/1609094489855102980?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
+[03.01.2022](https://twitter.com/COSM0STAKE/status/1610244475003015168?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
+[07.01.2022](https://twitter.com/COSM0STAKE/status/1611654947895910400?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
+[10.01.2022](https://twitter.com/COSM0STAKE/status/1612793506724040704?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
+[10.01.2022](), 
  
 SOME STATS:
+ 
+<img width="591" alt="Снимок экрана 2023-01-29 в 11 17" src="https://user-images.githubusercontent.com/86792707/215316937-77985406-9887-4441-9394-31fd4a472943.png">
 
-<img width="595" alt="Снимок экрана 2022-11-11 в 10 15" src="https://user-images.githubusercontent.com/86729290/201296525-9b4b2e3a-d9f9-45f6-a607-7a5a81fa8278.png">
+
 </details>
 
 
