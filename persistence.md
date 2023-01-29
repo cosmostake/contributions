@@ -313,6 +313,7 @@ ________________________________________________________________________________
 [19.01.2023](https://twitter.com/COSM0STAKE/status/1615968661205819392?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
 [27.01.2023](https://twitter.com/COSM0STAKE/status/1618921677475430400?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
 [28.01.2023](https://twitter.com/COSM0STAKE/status/1619316237284282369?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
+[29.01.2023](https://twitter.com/COSM0STAKE/status/1619612590795288576?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
  
 SOME STATS:
 
@@ -420,13 +421,13 @@ ________________________________________________________________________________
 <summary>VOTES FOR PROPOSALS:</summary>
  
 
-- COSMØSTAKE votes YES on Persistence $XPRT Proposal #8 Upgrade v4 PersistenceCore ✔️
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #8 
 
 ![photo_2022-12-04_12-37-37](https://user-images.githubusercontent.com/86729290/205488415-4d6d2860-b6bd-4ba0-82da-089886ed1360.jpg)
 __________________________________________________________________________________________________________________________________________________________
 
 
-- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 Upgrade v5 PersistenceCore ✔️
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #9 
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1598969740550352897?s=20&t=k6oy6GAdngx2iUztx_psuA)
 
@@ -436,8 +437,6 @@ ________________________________________________________________________________
  
 - COSMØSTAKE votes YES on Persistence $XPRT Proposal #10
 
-Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event ✔️
-
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1599298276142223360?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
 ![photo_2022-12-03_11-23-29](https://user-images.githubusercontent.com/86729290/205478912-c63ab56e-d442-4a1b-b852-29d58e75932f.jpg)
@@ -445,8 +444,6 @@ ________________________________________________________________________________
  
 
 - COSMØSTAKE votes YES on Persistence $XPRT Proposal #12
-
-UPGRADE V6 PERSISTENCECORE ✔️
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1610565565059309568?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
@@ -456,8 +453,6 @@ ________________________________________________________________________________
  
 - COSMØSTAKE votes YES on Persistence $XPRT Proposal #13
 
-GRANT PROPOSAL FOR DEXTER - INTERCHAIN DEX FOR YIELD - GENERATINF ASSETS ✔️
-
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1610950466879225862?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
 ![photo_2023-01-04_13-30-55](https://user-images.githubusercontent.com/86792707/215268787-c5c4a561-a9c9-4c10-ba9f-8c5c30a2d60a.jpg)
@@ -466,11 +461,17 @@ ________________________________________________________________________________
  
 - COSMØSTAKE votes YES on Persistence $XPRT Proposal #15
 
-WHITELIST DEXTER TEAM'S ADDRESS FOR PERMISSIONLESS CODE STORAGE AND INSTANTIATION ✔️
-
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1613184762432167937?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
 ![11 01 23](https://user-images.githubusercontent.com/86792707/215268807-efaf0d9f-2167-4be5-87b1-0489a702fa1c.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #16
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1619612590795288576?s=20&t=sU0QPcNHsoHA4mSW3WG_yg)
+
+![1](https://user-images.githubusercontent.com/86792707/215317196-efee4d84-a403-44ad-85e4-c5331816bb69.jpeg)
 
 __________________________________________________________________________________________________________________________________________________________
  
