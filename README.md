@@ -3,7 +3,7 @@
 
 COSMØSTAKE contributions to the Networks, but also contribute for the development of the Networks and Community.
 
-Here is the list of our contributions to:
+Here is the list of our contributions to the Networks:
 
 - [Persistence](https://github.com/COIN-SIDE/contributions/blob/main/persistence.md)
 - [Juno Network](https://github.com/COIN-SIDE/contributions/blob/main/juno.md)
