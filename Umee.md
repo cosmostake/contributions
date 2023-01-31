@@ -157,7 +157,7 @@ ________________________________________________________________________________
 [03.01.2022](https://twitter.com/COSM0STAKE/status/1610244475003015168?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
 [07.01.2022](https://twitter.com/COSM0STAKE/status/1611654947895910400?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
 [10.01.2022](https://twitter.com/COSM0STAKE/status/1612793506724040704?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
-[10.01.2022](), 
+[31.01.2022](https://twitter.com/COSM0STAKE/status/1620354084237889537?s=20&t=jaL0jjg6MQEMZRakFFG_NA), 
  
 SOME STATS:
  
