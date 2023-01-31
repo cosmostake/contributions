@@ -120,6 +120,14 @@ ________________________________________________________________________________
 
 ![JUNO WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200125639-14a69f42-bda8-478e-a809-966273f453d2.png)
 __________________________________________________________________________________________________________________________________________________________
+ 
+- JUNO WEEKLY STATISTICS
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1620096785359462402?s=20&t=jaL0jjg6MQEMZRakFFG_NA)
+
+![photo_2023-01-30_15-24-55](https://user-images.githubusercontent.com/123416278/215769707-bab17a16-ea22-4ed0-b937-46f41d12c321.jpg)
+__________________________________________________________________________________________________________________________________________________________
+
 
 - JUNO WEEKLY RECAP
 
@@ -194,6 +202,7 @@ ________________________________________________________________________________
 [14.12.2022](https://twitter.com/COSM0STAKE/status/1602973999180431360?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
 [22.12.2022](https://twitter.com/COSM0STAKE/status/1605910289794244608?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
 [08.01.2023](https://twitter.com/COSM0STAKE/status/1612081108090331136?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
+[30.01.2023](https://twitter.com/COSM0STAKE/status/1620096785359462402?s=20&t=jaL0jjg6MQEMZRakFFG_NA),
   
  
 SOME STATS:
