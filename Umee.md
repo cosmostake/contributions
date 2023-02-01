@@ -158,6 +158,7 @@ ________________________________________________________________________________
 [07.01.2022](https://twitter.com/COSM0STAKE/status/1611654947895910400?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
 [10.01.2022](https://twitter.com/COSM0STAKE/status/1612793506724040704?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
 [31.01.2022](https://twitter.com/COSM0STAKE/status/1620354084237889537?s=20&t=jaL0jjg6MQEMZRakFFG_NA), 
+[01.02.2022](https://twitter.com/COSM0STAKE/status/1620683370417229825?s=20&t=mW5hyJnigNiJmikc8oyQyw),
  
 SOME STATS:
  
@@ -173,6 +174,13 @@ SOME STATS:
 <details>
 <summary>YOUTUBE:</summary>
 
+- UMEE - AUTO-COMPOUND STAKING ⚛️ 
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=igBc-NXOJII&t)
+
+<img width="1280" alt="Frame 488" src="https://user-images.githubusercontent.com/123416278/215980898-3bb38348-7c2b-4758-ad1f-52f92b13b780.png">
+
+__________________________________________________________________________________________________________________________________________________________
 
 - UMEE - CROSS CHAIN DEFI HUB | INSTRUCTIONS FOR USING THE UMEE APP ⚛️
 
