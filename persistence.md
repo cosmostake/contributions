@@ -213,8 +213,8 @@ ________________________________________________________________________________
 Persistence integrates with @axelarcore, which allows you to do cross-chain translations designed for #Web3, which will fundamentally simplify Persistence interactions with other chains.
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
-
-<img width="2254" alt="Frame 415" src="https://user-images.githubusercontent.com/86729290/201467355-53d7dc80-b307-462f-860a-aa41d3dae039.png">
+ 
+![photo_2022-12-25_19-22-02] (https://user-images.githubusercontent.com/86729290/201467355-53d7dc80-b307-462f-860a-aa41d3dae039.png)
 __________________________________________________________________________________________________________________________________________________________
 
 
