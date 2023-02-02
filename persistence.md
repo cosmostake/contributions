@@ -148,7 +148,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
  
-- $XPRT DAILY INFORMATION PERSISTENCE
+- $XPRT STATISTICS PERSISTENCE
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ)
 
@@ -156,7 +156,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
  
-- $XPRT DAILY INFORMATION PERSISTENCE
+- $XPRT STATISTICS PERSISTENCE
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1611713831998308358?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
@@ -166,18 +166,27 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
  
-- $XPRT DAILY INFORMATION PERSISTENCE
+- $XPRT STATISTICS PERSISTENCE
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1607013930085322753?s=20&t=wyd8HIKBb8FyQ-k61294_Q)
 
 ![photo_2022-12-24_12-37-59](https://user-images.githubusercontent.com/86792707/210065881-b611d4a0-ce8e-49e6-9464-6e8b53719c04.jpg)
 __________________________________________________________________________________________________________________________________________________________
  
-- $XPRT DAILY INFORMATION PERSISTENCE
+- $XPRT STATISTICS PERSISTENCE
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1603029375993188352?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
 
 ![1](https://user-images.githubusercontent.com/86792707/215269718-c08da322-ebf0-4a48-90ab-ca41514f4edc.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- $XPRT STATISTICS PERSISTENCE
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1603029375993188352?s=20&t=SNTC-mAFkUH2xcDqNudxKg)
+
+![111](https://user-images.githubusercontent.com/123416278/216037420-770a187a-3aa0-4a6e-a80c-3724e360e698.jpeg)
+
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -214,7 +223,8 @@ Persistence integrates with @axelarcore, which allows you to do cross-chain tran
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1591347672727764992?s=20&t=jXeLDCYuBNzG7bRC3py4WA)
  
-![photo_2022-12-25_19-22-02] (https://user-images.githubusercontent.com/86729290/201467355-53d7dc80-b307-462f-860a-aa41d3dae039.png)
+![6767676767](https://user-images.githubusercontent.com/123416278/216038288-6b9dea09-66e7-4a1e-806c-4c75e898c16f.jpeg)
+
 __________________________________________________________________________________________________________________________________________________________
 
 
@@ -230,7 +240,6 @@ ________________________________________________________________________________
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1577663374908866564?s=20&t=71i-ze2RQxOV0GLrhSTh8A)
 
-This infographic shows: basic statistics and news about Persistence.
 ![PERSISTENCE WEEKLY RECAP](https://user-images.githubusercontent.com/86729290/200539660-71533ece-61aa-4530-a689-94c86c06ca5a.png)
 __________________________________________________________________________________________________________________________________________________________
 
@@ -314,6 +323,8 @@ ________________________________________________________________________________
 [27.01.2023](https://twitter.com/COSM0STAKE/status/1618921677475430400?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
 [28.01.2023](https://twitter.com/COSM0STAKE/status/1619316237284282369?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
 [29.01.2023](https://twitter.com/COSM0STAKE/status/1619612590795288576?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
+[01.02.2023](https://twitter.com/COSM0STAKE/status/1620714156545699840?s=20&t=ZRLRnqDd9DAFb6wXhg8w7g),
+[01.02.2023](https://twitter.com/COSM0STAKE/status/1620736767367462913?s=20&t=ZRLRnqDd9DAFb6wXhg8w7g),
  
 SOME STATS:
 
