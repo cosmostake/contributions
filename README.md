@@ -12,5 +12,4 @@ Here is the list of our contributions to the Networks:
 - [Osmosis](https://github.com/COIN-SIDE/contributions/blob/main/osmosis.md)
 - [Evmos](https://github.com/COIN-SIDE/contributions/blob/main/evmos.md)
 - [Stargaze](https://github.com/COIN-SIDE/contributions/blob/main/stargaze.md)
-- [AssetMantle](https://github.com/COIN-SIDE/contributions/blob/main/AssetMantle.md)
 - [Stride](https://github.com/COIN-SIDE/contributions/blob/main/stride.md)
