@@ -7,7 +7,7 @@ Here is the list of our contributions to the Networks:
 
 - [Persistence](https://github.com/COIN-SIDE/contributions/blob/main/persistence.md)
 - [Juno Network](https://github.com/COIN-SIDE/contributions/blob/main/juno.md)
-- [Umee](https://github.com/cosmostake/contributions/blob/main/Umee.md)
+- [Umee](https://github.com/cosmostake/contributions/blob/main/umee.md)
 - [Fetch.ai](https://github.com/cosmostake/contributions/blob/main/fetch.ai.md)
 - [Osmosis](https://github.com/COIN-SIDE/contributions/blob/main/osmosis.md)
 - [Evmos](https://github.com/COIN-SIDE/contributions/blob/main/evmos.md)
