@@ -13,5 +13,4 @@ Here is the list of our contributions to the Networks:
 - [Evmos](https://github.com/COIN-SIDE/contributions/blob/main/evmos.md)
 - [Stargaze](https://github.com/COIN-SIDE/contributions/blob/main/stargaze.md)
 - [AssetMantle](https://github.com/COIN-SIDE/contributions/blob/main/AssetMantle.md)
-- [Secret Network](https://github.com/COIN-SIDE/contributions/blob/main/secret.md)
 - [Stride](https://github.com/COIN-SIDE/contributions/blob/main/stride.md)
