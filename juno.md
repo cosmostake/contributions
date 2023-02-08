@@ -63,6 +63,13 @@ ________________________________________________________________________________
 
 ![JUNO - THE ECOSYSTEM](https://user-images.githubusercontent.com/86729290/201295727-55cf9c3a-b269-4319-8693-0431ba07c25d.jpeg)
 __________________________________________________________________________________________________________________________________________________________
+ 
+- JUNO | STATISTICS  
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1623250311971328004?s=20&t=cd2pvRJUtMH0keNQ73WuJw)
+
+![JUNO STATISTICS](https://user-images.githubusercontent.com/123416278/217532552-b39069e9-4c4e-4d1d-8a4c-d402c26a2226.png)
+__________________________________________________________________________________________________________________________________________________________
 
 - JUNO WEEKLY RECAP 
 
@@ -203,6 +210,7 @@ ________________________________________________________________________________
 [22.12.2022](https://twitter.com/COSM0STAKE/status/1605910289794244608?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
 [08.01.2023](https://twitter.com/COSM0STAKE/status/1612081108090331136?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
 [30.01.2023](https://twitter.com/COSM0STAKE/status/1620096785359462402?s=20&t=jaL0jjg6MQEMZRakFFG_NA),
+[08.01.2023](https://twitter.com/COSM0STAKE/status/1623250311971328004?s=20&t=cd2pvRJUtMH0keNQ73WuJw),
   
  
 SOME STATS:
