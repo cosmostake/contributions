@@ -68,6 +68,15 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
  
  
+- UMEE - Mainnet Upgrade v4: Historacle Launch! 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1622887850181025793?s=20&t=h1QYfv7wpQK1BRf3rqWPJA)
+
+<img width="1394" alt="Frame 495" src="https://user-images.githubusercontent.com/123416278/217448380-dde4b517-d185-4b9e-b668-4c24bfa9c8ed.png">
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+ 
 - UMEE is the leading project among the @cosmos ecosystem in terms of the number of transactions over the past 7D. One of the most important projects based on #Tedermint ⚛️  
 
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1611654947895910400?s=20&t=mykGXHqpZMWCDJ7lyCZwRQ)
@@ -159,6 +168,9 @@ ________________________________________________________________________________
 [10.01.2022](https://twitter.com/COSM0STAKE/status/1612793506724040704?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
 [31.01.2022](https://twitter.com/COSM0STAKE/status/1620354084237889537?s=20&t=jaL0jjg6MQEMZRakFFG_NA), 
 [01.02.2022](https://twitter.com/COSM0STAKE/status/1620683370417229825?s=20&t=mW5hyJnigNiJmikc8oyQyw),
+[03.02.2022](https://twitter.com/COSM0STAKE/status/1621418625574862850?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
+[06.02.2022](https://twitter.com/COSM0STAKE/status/1622522306965696515?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
+[07.02.2022](https://twitter.com/COSM0STAKE/status/1622887850181025793?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
  
 SOME STATS:
  
@@ -173,6 +185,14 @@ SOME STATS:
 
 <details>
 <summary>YOUTUBE:</summary>
+ 
+- UMEE | TOKENOMICS 
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=0BSRJsmey24&t=32s)
+
+![photo_2023-02-02_10-52-53](https://user-images.githubusercontent.com/123416278/217448064-4b806a2b-f12a-4bd6-b5de-d1c075ae9510.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
 
 - UMEE - AUTO-COMPOUND STAKING ⚛️ 
 
@@ -197,10 +217,22 @@ ________________________________________________________________________________
 <summary>VOTES FOR PROPOSALS:</summary>
 
 - COSMØSTAKE votes YES on Proposal #39 
+ 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1620354084237889537?s=20&t=h1QYfv7wpQK1BRf3rqWPJA)
 
 ![UME 39](https://user-images.githubusercontent.com/123416278/215749937-4424c5c0-2dc2-4473-b98c-19f34a66ed35.jpg)
 
 __________________________________________________________________________________________________________________________________________________________
+ 
+
+- COSMØSTAKE votes YES on Proposal #41
+ 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1622522306965696515?s=20&t=h1QYfv7wpQK1BRf3rqWPJA)
+
+![41](https://user-images.githubusercontent.com/123416278/217448758-042a42ce-adc3-4f52-b05a-b275d9002b1e.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
 </details>
 
 
