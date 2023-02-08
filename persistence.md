@@ -324,7 +324,8 @@ ________________________________________________________________________________
 [28.01.2023](https://twitter.com/COSM0STAKE/status/1619316237284282369?s=20&t=SNTC-mAFkUH2xcDqNudxKg),
 [29.01.2023](https://twitter.com/COSM0STAKE/status/1619612590795288576?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
 [01.02.2023](https://twitter.com/COSM0STAKE/status/1620714156545699840?s=20&t=ZRLRnqDd9DAFb6wXhg8w7g),
-[01.02.2023](https://twitter.com/COSM0STAKE/status/1620736767367462913?s=20&t=ZRLRnqDd9DAFb6wXhg8w7g),
+[03.02.2023](https://twitter.com/COSM0STAKE/status/1621486581277249543?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
+[05.02.2023](https://twitter.com/COSM0STAKE/status/1622254179182837760?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
  
 SOME STATS:
 
@@ -334,6 +335,15 @@ SOME STATS:
 
 <details>
 <summary>YOUTUBE:</summary>
+ 
+ 
+- Coin98 Wallet - Using the wallet with Persistence via the $XPRT token.
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=ZRwCoxk02KA&t=167s)
+
+![photo_2022-11-22_11-46-27](https://user-images.githubusercontent.com/86729290/204086716-1c093e3e-2c7c-4d40-8b74-8e72e968b19a.jpg)
+__________________________________________________________________________________________________________________________________________________________
+
 
 - Persistence | Tokenomics & Utility $XPRT ⚛️
 
@@ -371,7 +381,7 @@ ________________________________________________________________________________
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=YqFzHzfVqPI&t=26s)
 
-![Staking $XPRT via Cosmostation Dashboard. Installing Cosmostation Wallet](https://user-images.githubusercontent.com/86729290/201467207-440e754e-2988-4350-989d-962dc7fe13a9.jpeg)
+![Staking $XPRT](https://user-images.githubusercontent.com/86729290/201467207-440e754e-2988-4350-989d-962dc7fe13a9.jpeg)
 __________________________________________________________________________________________________________________________________________________________
 
 - PERSISTANCE - HOW TO WORKS 
@@ -398,20 +408,20 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 
 
-- Coin98 Wallet - Using the wallet with PersistenceOne
- via the $XPRT token. A visual overview of all functions and the additional ability to store your own currency!
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=ZRwCoxk02KA&t=167s)
-
-![photo_2022-11-22_11-46-27](https://user-images.githubusercontent.com/86729290/204086716-1c093e3e-2c7c-4d40-8b74-8e72e968b19a.jpg)
-__________________________________________________________________________________________________________________________________________________________
-
-
 - Persistence ⚛️Foundation x Labs !
 
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=tQV7FvNyHKo&t=8s)
 
 ![photo_2022-11-22_16-53-56](https://user-images.githubusercontent.com/86729290/204086774-e6748013-5672-4120-a392-edd53b23178e.jpg)
+__________________________________________________________________________________________________________________________________________________________
+ 
+
+- Governance Deep-Dive: Proposal #16 full review Persistence
+ 
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=Dwmo54e76Yo&t=24s)
+
+<img width="1280" alt="111" src="https://user-images.githubusercontent.com/123416278/217446747-4a3f4b26-a65d-4b11-9077-6af127895809.png">
+
 __________________________________________________________________________________________________________________________________________________________
 
 
