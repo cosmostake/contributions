@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 
 We create a lot of Fetch.ai-related content to improve the community's knowledge of features and inform about Fetch.ai-related news.
-We use the Umee brandbook to match the style of the company. We often mention the [Fetch.ai](https://fetch.ai/learn-about-fet) logo or other related things.
+We use the Fetch.ai brandbook to match the style of the company. We often mention the [Fetch.ai](https://fetch.ai/learn-about-fet) logo or other related things.
 ________________________________________________________________________________________________________________________
 
  
