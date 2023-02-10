@@ -171,10 +171,8 @@ ________________________________________________________________________________
 [03.02.2022](https://twitter.com/COSM0STAKE/status/1621418625574862850?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
 [06.02.2022](https://twitter.com/COSM0STAKE/status/1622522306965696515?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
 [07.02.2022](https://twitter.com/COSM0STAKE/status/1622887850181025793?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
- 
-SOME STATS:
- 
-<img width="591" alt="Снимок экрана 2023-01-29 в 11 17" src="https://user-images.githubusercontent.com/86792707/215316937-77985406-9887-4441-9394-31fd4a472943.png">
+[09.02.2022](https://twitter.com/COSM0STAKE/status/1623601416978808832?s=20&t=tgmG5g8CBFX6TPQ32GK77A),
+[10.02.2022](https://twitter.com/COSM0STAKE/status/1623947498116075523?s=20&t=tgmG5g8CBFX6TPQ32GK77A),
 
 
 </details>
@@ -230,6 +228,22 @@ ________________________________________________________________________________
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1622522306965696515?s=20&t=h1QYfv7wpQK1BRf3rqWPJA)
 
 ![41](https://user-images.githubusercontent.com/123416278/217448758-042a42ce-adc3-4f52-b05a-b275d9002b1e.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Proposal #42
+ 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1623601416978808832?s=20&t=tgmG5g8CBFX6TPQ32GK77A)
+
+![42](https://user-images.githubusercontent.com/123416278/218030834-dbb82ab0-8109-4f98-a1d9-6f19526d13ee.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Proposal #43
+ 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1623947498116075523?s=20&t=tgmG5g8CBFX6TPQ32GK77A)
+
+![43](https://user-images.githubusercontent.com/123416278/218030943-aaab45e3-08d6-49ba-8b0a-5d76e64e6020.jpg)
 
 __________________________________________________________________________________________________________________________________________________________
  
