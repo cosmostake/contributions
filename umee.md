@@ -158,7 +158,7 @@ ________________________________________________________________________________
 
 
 
-### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [JUNO](https://www.junonetwork.io)
+### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [UMEE](https://app.umee.cc)
 
 [28.12.2022](https://twitter.com/COSM0STAKE/status/1608126012067282944?s=20&t=sU0QPcNHsoHA4mSW3WG_yg), 
 [29.12.2022](https://twitter.com/COSM0STAKE/status/1608399345346387969?s=20&t=sU0QPcNHsoHA4mSW3WG_yg),
