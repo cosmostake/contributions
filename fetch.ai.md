@@ -53,10 +53,18 @@ ________________________________________________________________________________
 <details>
 <summary>TWITTER:</summary>
 
-
 We create a lot of Fetch.ai-related content to improve the community's knowledge of features and inform about Fetch.ai-related news.
 We use the Fetch.ai brandbook to match the style of the company. We often mention the [Fetch.ai](https://fetch.ai/learn-about-fet) logo or other related things.
-________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+
+ 
+- FET | STATISTICS 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1624326580905410560?s=20&t=Cf_Qv6t6j17DI3BPyYQJTw)
+
+![FETCH AI STATISTICS](https://user-images.githubusercontent.com/123416278/218249606-bdde74da-94be-4343-8dfc-49218f141856.png)
+
+__________________________________________________________________________________________________________________________________________________________
 
  
 - FET NEWS RECAP 
@@ -76,7 +84,7 @@ ________________________________________________________________________________
 
 [31.01.2023](https://twitter.com/COSM0STAKE/status/1620442076214362112?s=20&t=ol6h2UaHXNYwf00MF6P6IQ), 
 [09.02.2023](https://twitter.com/COSM0STAKE/status/1623680357391380480?s=20&t=ol6h2UaHXNYwf00MF6P6IQ),
-
+[11.02.2023](https://twitter.com/COSM0STAKE/status/1624326580905410560?s=20&t=Cf_Qv6t6j17DI3BPyYQJTw),
  
 SOME STATS:
  
