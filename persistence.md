@@ -326,6 +326,7 @@ ________________________________________________________________________________
 [01.02.2023](https://twitter.com/COSM0STAKE/status/1620714156545699840?s=20&t=ZRLRnqDd9DAFb6wXhg8w7g),
 [03.02.2023](https://twitter.com/COSM0STAKE/status/1621486581277249543?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
 [05.02.2023](https://twitter.com/COSM0STAKE/status/1622254179182837760?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
+[12.02.2023](https://twitter.com/COSM0STAKE/status/1624686158557896707?s=20&t=5V5MkVcymw17M2ptNVgNHA),
  
 SOME STATS:
 
@@ -493,6 +494,14 @@ ________________________________________________________________________________
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1619612590795288576?s=20&t=sU0QPcNHsoHA4mSW3WG_yg)
 
 ![1](https://user-images.githubusercontent.com/86792707/215317196-efee4d84-a403-44ad-85e4-c5331816bb69.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Persistence $XPRT Proposal #18
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1624686158557896707?s=20&t=5V5MkVcymw17M2ptNVgNHA)
+
+![18](https://user-images.githubusercontent.com/123416278/218300697-8abfeed8-fccc-41ec-8211-e68d92098ec3.jpg)
 
 __________________________________________________________________________________________________________________________________________________________
  
