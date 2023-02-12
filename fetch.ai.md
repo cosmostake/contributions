@@ -85,6 +85,7 @@ ________________________________________________________________________________
 [31.01.2023](https://twitter.com/COSM0STAKE/status/1620442076214362112?s=20&t=ol6h2UaHXNYwf00MF6P6IQ), 
 [09.02.2023](https://twitter.com/COSM0STAKE/status/1623680357391380480?s=20&t=ol6h2UaHXNYwf00MF6P6IQ),
 [11.02.2023](https://twitter.com/COSM0STAKE/status/1624326580905410560?s=20&t=Cf_Qv6t6j17DI3BPyYQJTw),
+[11.02.2023](https://twitter.com/COSM0STAKE/status/1624406292574896129?s=20),
  
 SOME STATS:
  
@@ -99,6 +100,14 @@ SOME STATS:
 
 <details>
 <summary>YOUTUBE:</summary>
+ 
+- fetch.ai Tokenomics | $FET token utility 
+
+- [LINK TO YOUTUBE VIDEO](https://twitter.com/COSM0STAKE/status/1624406292574896129?s=20&t=4fK5TqEaD0Jkd-_QJuZd1g)
+
+![22](https://user-images.githubusercontent.com/123416278/218262005-08e642da-f19a-4436-90ca-49144b41d7d4.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
  
 -  What is [Fetch.ai](https://fetch.ai)? 
 
