@@ -57,6 +57,14 @@ ________________________________________________________________________________
 We create a lot of Umee-related content to improve the community's knowledge of features and inform about Umee-related news.
 We use the Umee brandbook to match the style of the company. We often mention the [UMEE](https://app.umee.cc) logo or other related things.
 ________________________________________________________________________________________________________________________
+ 
+- UMEE | STATISTICS  
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1625083512444358657?s=20&t=AuMz_AH6sX1aVryf4VjpGQ)
+
+![UMEE STATISTICS](https://user-images.githubusercontent.com/123416278/218444371-21664bd3-8e0b-4c43-8db5-1f85df4e8bf3.png)
+
+__________________________________________________________________________________________________________________________________________________________
 
  
 - WHAT IS UMEE ?  
@@ -173,7 +181,7 @@ ________________________________________________________________________________
 [07.02.2022](https://twitter.com/COSM0STAKE/status/1622887850181025793?s=20&t=h1QYfv7wpQK1BRf3rqWPJA),
 [09.02.2022](https://twitter.com/COSM0STAKE/status/1623601416978808832?s=20&t=tgmG5g8CBFX6TPQ32GK77A),
 [10.02.2022](https://twitter.com/COSM0STAKE/status/1623947498116075523?s=20&t=tgmG5g8CBFX6TPQ32GK77A),
-
+[13.02.2022](https://twitter.com/COSM0STAKE/status/1625083512444358657?s=20&t=AuMz_AH6sX1aVryf4VjpGQ),
 
 </details>
 
