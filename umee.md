@@ -10,7 +10,7 @@ Our team added information from the COSMØSTAKE validator here as part of this!
 
 
 
-### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM etc.) 
+### COMMUNITY GROWTH (TECHNICAL CONNTRIBUTIONS, TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM etc.) 
 
 We create a lot of [UMEE](https://app.umee.cc) related content to improve accessibility, community knowledge of features and [UMEE](https://app.umee.cc). 
 We have some basic images, logos, gradients from the [UMEE](https://app.umee.cc) brand pack, and we often mention the [UMEE](https://app.umee.cc) logo or other things related to it. 
