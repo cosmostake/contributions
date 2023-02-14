@@ -41,7 +41,9 @@ ________________________________________________________________________________
 <summary>TECHNICAL CONNTRIBUTIONS:</summary>
 
 
-- We're validator Fetch.ai - [LINK TO COSMØSTAKE VALIDATOR]()
+- We're validator Fetch.ai (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/fetchai/validators/fetchvaloper1upsnujmqcceexscnpyk85dvpdjy8w45h7p5ca8)
+
+<img width="1512" alt="Снимок экрана 2023-02-14 в 09 49" src="https://user-images.githubusercontent.com/123416278/218673136-49a527cc-fcd8-4a83-bcf6-e60119b6d1a4.png">
 
 
 </details>
@@ -65,6 +67,14 @@ ________________________________________________________________________________
 ![FETCH AI STATISTICS](https://user-images.githubusercontent.com/123416278/218249606-bdde74da-94be-4343-8dfc-49218f141856.png)
 
 __________________________________________________________________________________________________________________________________________________________
+ 
+- WE VALIDATE $FET 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1625399544346300416?s=20&t=cObTK0vLqusMhrgTmlzLeA)
+
+![We validate fetch](https://user-images.githubusercontent.com/123416278/218672466-af3bafbf-8728-4ae2-a40d-448dd86055f1.png)
+
+__________________________________________________________________________________________________________________________________________________________
 
  
 - FET NEWS RECAP 
@@ -86,6 +96,7 @@ ________________________________________________________________________________
 [09.02.2023](https://twitter.com/COSM0STAKE/status/1623680357391380480?s=20&t=ol6h2UaHXNYwf00MF6P6IQ),
 [11.02.2023](https://twitter.com/COSM0STAKE/status/1624326580905410560?s=20&t=Cf_Qv6t6j17DI3BPyYQJTw),
 [11.02.2023](https://twitter.com/COSM0STAKE/status/1624406292574896129?s=20),
+[14.02.2023](https://twitter.com/COSM0STAKE/status/1625399544346300416?s=20&t=cObTK0vLqusMhrgTmlzLeA),
  
 SOME STATS:
  
