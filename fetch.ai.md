@@ -76,6 +76,34 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
+- Introduction to | @Fetch_ai
+ 
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1626619455919779840?s=20)
+
+![1](https://user-images.githubusercontent.com/123416278/219711196-510059d0-28c6-4745-a096-7a5d403f8ded.png)
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- About Technology | Fetch_ai
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1626619458721644544?s=20)
+
+<img width="1430" alt="Frame 508" src="https://user-images.githubusercontent.com/123416278/219711915-4a2f9fc7-c27c-4df1-ad6e-64a86abfa6fa.png">
+
+
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- About Technology | Fetch_ai
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1626619461531738114?s=20)
+
+<img width="1430" alt="Frame 509 " src="https://user-images.githubusercontent.com/123416278/219711941-bb512cf4-79a3-46eb-8ab7-cde3b184f6dd.png">
+
+__________________________________________________________________________________________________________________________________________________________
  
 - FET NEWS RECAP 
 
@@ -97,6 +125,9 @@ ________________________________________________________________________________
 [11.02.2023](https://twitter.com/COSM0STAKE/status/1624326580905410560?s=20&t=Cf_Qv6t6j17DI3BPyYQJTw),
 [11.02.2023](https://twitter.com/COSM0STAKE/status/1624406292574896129?s=20),
 [14.02.2023](https://twitter.com/COSM0STAKE/status/1625399544346300416?s=20&t=cObTK0vLqusMhrgTmlzLeA),
+[17.02.2023](https://twitter.com/COSM0STAKE/status/1626619455919779840?s=20),
+[17.02.2023](https://twitter.com/COSM0STAKE/status/1626619458721644544?s=20),
+[17.02.2023](https://twitter.com/COSM0STAKE/status/1626619461531738114?s=20),
  
 SOME STATS:
  
