@@ -327,6 +327,7 @@ ________________________________________________________________________________
 [03.02.2023](https://twitter.com/COSM0STAKE/status/1621486581277249543?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
 [05.02.2023](https://twitter.com/COSM0STAKE/status/1622254179182837760?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
 [12.02.2023](https://twitter.com/COSM0STAKE/status/1624686158557896707?s=20&t=5V5MkVcymw17M2ptNVgNHA),
+[13.02.2023](https://twitter.com/COSM0STAKE/status/1625201816416710656?s=20),
  
 SOME STATS:
 
@@ -343,6 +344,15 @@ SOME STATS:
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=ZRwCoxk02KA&t=167s)
 
 ![photo_2022-11-22_11-46-27](https://user-images.githubusercontent.com/86729290/204086716-1c093e3e-2c7c-4d40-8b74-8e72e968b19a.jpg)
+__________________________________________________________________________________________________________________________________________________________
+ 
+- Concept of Liquid Staking Derivatives Persistence
+
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=XXmx9GXS0kE&t=34s)
+
+![121212121](https://user-images.githubusercontent.com/123416278/219932847-3d6e7d8d-1d80-40e3-88fc-2d2731b05d0a.jpg)
+
 __________________________________________________________________________________________________________________________________________________________
 
 
