@@ -75,7 +75,8 @@ Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistenc
 __________________________________________________________________________________________________________________________________________________________ 
  
 
-We provide support for validators, We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" <img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062132-9df8ace3-274d-4dfa-bfd9-58efee5e3793.png">
+We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
+<img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062132-9df8ace3-274d-4dfa-bfd9-58efee5e3793.png">
 
 Read here: https://link.medium.com/XSUJlFF0Gvb
 
@@ -84,25 +85,6 @@ Read here: https://link.medium.com/XSUJlFF0Gvb
 __________________________________________________________________________________________________________________________________________________________ 
  
 
-We are constantly promoting the [PERSISTENCE](https://persistence.one) the idea and the possibilities of the project. By giving community members the ability to interact with the protocol while also having a quality opportunity to stake $XPRT in return for members diligenting their tokens to us.
-
-![9](https://user-images.githubusercontent.com/86729290/208643299-d2fd7bac-2996-4380-8644-06002ea213fa.png)
-
-![11](https://user-images.githubusercontent.com/86729290/208643763-6cd73001-a8cf-4de8-ad44-d147232b84a3.png)
-
-![33](https://user-images.githubusercontent.com/86729290/208644079-0f291144-9616-4b6b-8b2b-596cfaa72577.png)
-
-![44](https://user-images.githubusercontent.com/86729290/208644300-c5f72d6e-f76e-4687-980e-e1f74d34298f.png)
-
-![55](https://user-images.githubusercontent.com/86729290/208644446-56037c7a-8500-4c44-aadb-c35f59900d50.png)
-
-![88](https://user-images.githubusercontent.com/86729290/208644571-6d54e988-57a9-4d91-aa09-6b8cfcc15bb8.png)
-
-![77](https://user-images.githubusercontent.com/86729290/208644994-b2359821-9dfa-42b2-89fb-295ed98559d4.png)
-
-![66](https://user-images.githubusercontent.com/86729290/208645014-aeff77f5-26ab-4300-8a38-7c7e8d3ae49b.png)
-
-![101](https://user-images.githubusercontent.com/86729290/208645022-f2699647-0e20-45e8-8912-c9cfea002c49.png)
 </details>
 
 
@@ -153,6 +135,17 @@ ________________________________________________________________________________
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1601578927268712450?s=20&t=VX96j09d6j00Ef7_l7bAkQ)
 
 ![PERCICTENCE](https://user-images.githubusercontent.com/86729290/206861069-0cafa309-58c5-4265-a59c-3f04072879f4.png)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- @pStakeFinance & @CeffuGlobal Partnership 🤝
+
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1629071198792327168?s=20)
+
+<img width="1260" alt="IMG_5560" src="https://user-images.githubusercontent.com/123416278/222465131-5f03f898-d04f-4e93-8bea-dc692a745e93.PNG">
+
+<img width="1340" alt="IMG_5561" src="https://user-images.githubusercontent.com/123416278/222465197-f9ca783b-386d-486a-b840-040e94c7e05b.png">
+
 
 __________________________________________________________________________________________________________________________________________________________
  
@@ -328,6 +321,8 @@ ________________________________________________________________________________
 [05.02.2023](https://twitter.com/COSM0STAKE/status/1622254179182837760?s=20&t=P0wEZ2YE0f2p6g2_uv6VhA),
 [12.02.2023](https://twitter.com/COSM0STAKE/status/1624686158557896707?s=20&t=5V5MkVcymw17M2ptNVgNHA),
 [13.02.2023](https://twitter.com/COSM0STAKE/status/1625201816416710656?s=20),
+[24.02.2023](https://twitter.com/COSM0STAKE/status/1629071198792327168?s=20),
+[24.02.2023](https://twitter.com/COSM0STAKE/status/1629071195113984001?s=20),
  
 SOME STATS:
 
