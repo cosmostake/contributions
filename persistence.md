@@ -323,6 +323,7 @@ ________________________________________________________________________________
 [13.02.2023](https://twitter.com/COSM0STAKE/status/1625201816416710656?s=20),
 [24.02.2023](https://twitter.com/COSM0STAKE/status/1629071198792327168?s=20),
 [24.02.2023](https://twitter.com/COSM0STAKE/status/1629071195113984001?s=20),
+[02.03.2023](https://twitter.com/COSM0STAKE/status/1631310874592854016?s=20),
  
 SOME STATS:
 
@@ -436,6 +437,18 @@ ________________________________________________________________________________
 - [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=ibh5Yopn3H8)
 
 ![3463453](https://user-images.githubusercontent.com/86729290/205488651-12a652ad-e886-497d-8876-2fb8c6ab2a24.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- A complete review of working with Dexter Zone by Persistence
+
+- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=piMKEpeXKBs)
+ 
+![maxresdefault](https://user-images.githubusercontent.com/123416278/222468679-0ca1fbd5-9131-40f4-a0b5-6e0731dec796.jpeg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+ 
 </details>
 
 
