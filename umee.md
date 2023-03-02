@@ -278,6 +278,11 @@ ________________________________________________________________________________
 <details>
 <summary>MEDIUM:</summary>
 
+- Guide To Setup Up | UmeeValidator Node (Manually)
+ 
+- [Read:](https://link.medium.com/vvSsFSGtCxb)
+
+![1_hOCkGpWUTf6JKdsyRolFiA](https://user-images.githubusercontent.com/123416278/222462470-c574ff81-8cec-4b89-b75b-331e39f14959.jpg)
 
 __________________________________________________________________________________________________________________________________________________________
 </details>
