@@ -22,7 +22,7 @@ ________________________________________________________________________________
 <details>
 <summary>ABOUT US:</summary>
 
-- [WEBPAGE](http://cosmostake.com.tilda.ws)
+- [WEBPAGE](https://cosmostake.space)
  
 </details>
 
