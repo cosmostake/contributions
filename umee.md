@@ -23,7 +23,6 @@ ________________________________________________________________________________
 <summary>ABOUT US:</summary>
 
 - [WEBPAGE](https://cosmostake.space)
- 
 </details>
 
 <details>
@@ -36,9 +35,38 @@ ________________________________________________________________________________
 </details>
 
 
+<details>
+<summary>ENDPOINTS RPC,REST,gRPC,WSS:</summary>
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+```console
+https://umee-testnet-rpc.cosmostake.space 
+```
+__________________________________________________________________________________________________________________________________________________________
+ 
+</details>
+
 
 <details>
-<summary>TECHNICAL CONNTRIBUTIONS:</summary>
+<summary>IBC RELAYER:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
+
+ - [Umee channel-0](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) <> [Osmosis channel-184](https://www.mintscan.io/osmosis/account/osmo16wtdntpcal8zldu0k3eltqn26pchd8csrtv7tk)
+__________________________________________________________________________________________________________________________________________________________
+
+- [Umee channel-43](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) <> [Juno channel-208](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp)
+__________________________________________________________________________________________________________________________________________________________
+
+- [Umee channel-34](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) <> [Stride channel-29](https://www.mintscan.io/stride/account/stride1z9vqynvye6dch4qpz404n9e2nma7v6a3pkww0e)
+__________________________________________________________________________________________________________________________________________________________
+ 
+</details>
+
+
+<details>
+<summary>MAINNET NODE, TESTNET NODE AND OTHERS TECHNICAL CONTRIBUTIONS:</summary>
 
 
 - We're validator UMEE - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/umee/validators/umeevaloper10nlsvhss7cfzu0xugyeq8gjkcp5g4kx8gun7xx)
