@@ -85,6 +85,18 @@ ________________________________________________________________________________
 <img width="1512" alt="Juno testnet" src="https://user-images.githubusercontent.com/123416278/224549670-14a4c4dd-84f2-4353-9d7e-fb17c8a91ac7.png">
 
 __________________________________________________________________________________________________________________________________________________________
+ 
+- GUIDE TO SETUP | UMEE VALIDATOR TESTNET NODE (MANUALLY) [LINK TO MEDIUM](https://medium.com/@cosmostake/guide-to-set-up-juno-validator-testnet-node-manually-a3d3d5ed6b89)
+
+![Juno testnet](https://user-images.githubusercontent.com/123416278/224550420-e3391857-f4da-42fb-bd32-80fe2cba5118.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- GUIDE TO SETUP | UMEE VALIDATOR MAINNET NODE (MANUALLY) [LINK TO MEDIUM](https://medium.com/@cosmostake/guide-to-set-up-juno-validator-mainnet-node-manually-ad80574e496f)
+
+![Juno mainnet](https://user-images.githubusercontent.com/123416278/224550485-13844ca6-0113-4cd2-bc64-09401ede0c8d.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
 
 
 </details>
