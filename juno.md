@@ -1,46 +1,80 @@
 <img width="1280" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197387749-d7c48458-3cc7-4579-bc87-8c98a49ba67a.png">
 
-# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR JUNO </a> 
+#### <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [JUNO](https://www.junonetwork.io) </a> 
+
+[COSMØSTAKE](https://cosmostake.space) Validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
+
+We always use only official brand pack, logos, gradients [JUNO](https://www.junonetwork.io) or other things related to it. 
+
+- [x] Also, [COSMØSTAKE](https://cosmostake.space) Always maximum votes for proposals! 
+
+__________________________________________________________________________________________________________________________________________________________
 
 
-This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [JUNO](https://www.junonetwork.io/). 
-Our team added information from the COSMØSTAKE validator here as part of this!
-
-
-
-
-### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM etc.) 
-
-We create a lot of [JUNO](https://www.junonetwork.io) related content to improve accessibility, community knowledge of features and [JUNO](https://www.junonetwork.io). We have some basic images, logos, gradients from the [JUNO](https://www.junonetwork.io) brand pack, and we often mention the [JUNO](https://www.junonetwork.io) logo or other things related to it. 
-
-Also, our validator always votes for proposals!
-
-__________________________________________________________________________________________________________________________________________________________ 
 
 <details>
-<summary>ABOUT US:</summary>
+<summary>WEB:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
 
-- [WEBPAGE](https://cosmostake.space)
+www.cosmostake.space
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+</details>
+
+
+
+
+<details>
+<summary>ENDPOINTS RPC, REST, gRPC, WSS:</summary>
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+```console
+https://juno-testnet-rpc.cosmostake.space
+```
+__________________________________________________________________________________________________________________________________________________________
+ 
+</details>
+
+
+<details>
+<summary>IBC RELAYER:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
+
+ - [Juno channel-0](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp) <> [Osmosis channel-42](https://www.mintscan.io/osmosis/account/osmo16wtdntpcal8zldu0k3eltqn26pchd8csrtv7tk) 
+__________________________________________________________________________________________________________________________________________________________
+
+- [Juno channel-208](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp) <> [Umee channel-43](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) 
+__________________________________________________________________________________________________________________________________________________________
+
+- [Juno channel-33](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp) <> [Persistence channel-37](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) 
+__________________________________________________________________________________________________________________________________________________________
+ 
+- [Juno channel-139](https://www.mintscan.io/juno/account/juno1p9u4glx4sjcx863xxvj05n8zdrzzhd7h5s63kp) <> [Stride channel-24](https://www.mintscan.io/stride/account/stride1z9vqynvye6dch4qpz404n9e2nma7v6a3pkww0e)
+__________________________________________________________________________________________________________________________________________________________
  
 </details>
 
 <details>
-<summary>TEAM:</summary>
+<summary>MAINNET NODE, TESTNET NODE AND OTHERS TECHNICAL CONTRIBUTIONS:</summary>
 
-- [Laura Kharkevych](https://github.com/LauraKhar)
-- [Max Levush](https://github.com/maxlevush-COINSIDE)
-- [Yan Lytvynenko](https://github.com/ZAZIK3)
-- [Violetta Markush](https://github.com/vilolaa)
-</details>
+__________________________________________________________________________________________________________________________________________________________
 
-
-
-<details>
-<summary>TECHNICAL CONNTRIBUTIONS:</summary>
-
-
-- We're validator JUNO - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
+- VALIDATOR MAINNET JUNO - [LINK TO COSMØSTAKE MAINNET](https://www.mintscan.io/juno/validators/junovaloper1fsa7hy2qgq8xnfpnendmch3v8035529g3cwcms)
 <img width="1512" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197390564-5b71fab1-3847-4516-9bef-562ed298bb1c.png">
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
+ - VALIDATOR TESTNET JUNO - [LINK TO COSMØSTAKE TESTNET](https://testnet.mintscan.io/juno-testnet/validators/junovaloper12mclkvsuu5v5lxkrv3suzddc653elhgc5nahrf)
+
+<img width="1512" alt="Juno testnet" src="https://user-images.githubusercontent.com/123416278/224545965-3eab1b46-a5ed-4e86-b7cc-1bac2da6d7ba.png">
+
+__________________________________________________________________________________________________________________________________________________________ 
+
+
 </details>
 
 
@@ -51,6 +85,7 @@ ________________________________________________________________________________
 <details>
 <summary>TWITTER:</summary>
 
+__________________________________________________________________________________________________________________________________________________________
 
 We create a lot of Juno-related content to improve the community's knowledge of features and inform about Juno-related news.
 We use the Juno brandbook to match the style of the company. We often mention the [JUNO](https://www.junonetwork.io) logo or other related things.
@@ -174,6 +209,9 @@ ________________________________________________________________________________
 
 ### HER'S THE LIST OF TWITTER MENTIONS FROM [COSMØSTAKE](https://twitter.com/COSM0STAKE) ABOUT [JUNO](https://www.junonetwork.io)
 
+__________________________________________________________________________________________________________________________________________________________
+ 
+
 [09.09.2022](https://twitter.com/COSM0STAKE/status/1568218411938811904?s=20&t=IRevLJMR0pl8s6X3u3A8OA), 
 [12.09.2022](https://twitter.com/COSM0STAKE/status/1569355743782125569?s=20&t=IRevLJMR0pl8s6X3u3A8OA), 
 [13.09.2022](https://twitter.com/COSM0STAKE/status/1569634751782461442?s=20&t=IRevLJMR0pl8s6X3u3A8OA),
@@ -211,11 +249,7 @@ ________________________________________________________________________________
 [08.01.2023](https://twitter.com/COSM0STAKE/status/1612081108090331136?s=20&t=s6aFBb--l0c_TtB9Hum1zw),
 [30.01.2023](https://twitter.com/COSM0STAKE/status/1620096785359462402?s=20&t=jaL0jjg6MQEMZRakFFG_NA),
 [08.01.2023](https://twitter.com/COSM0STAKE/status/1623250311971328004?s=20&t=cd2pvRJUtMH0keNQ73WuJw),
-  
  
-SOME STATS:
-
-<img width="595" alt="Снимок экрана 2022-11-11 в 10 15" src="https://user-images.githubusercontent.com/86729290/201296525-9b4b2e3a-d9f9-45f6-a607-7a5a81fa8278.png">
 </details>
 
 
@@ -225,6 +259,7 @@ SOME STATS:
 <details>
 <summary>YOUTUBE:</summary>
 
+__________________________________________________________________________________________________________________________________________________________
 
 - HOW TO STAKE JUNO
 
@@ -290,9 +325,15 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________
 </details>
 
+ 
+ 
+ 
+
 
 <details>
 <summary>VOTES FOR PROPOSALS:</summary>
+
+__________________________________________________________________________________________________________________________________________________________ 
 
 - COSMØSTAKE votes YES on JUNO Proposal #60
 Loop Finance - Juno Terra Developer Grant Final Tranche Payment ✔️
@@ -345,7 +386,7 @@ COMMUNITY CONSENT COSMOS PAY SUPPORTING JUNO ✔️
 
 ![1](https://user-images.githubusercontent.com/86792707/215261380-3a6994dc-0562-464d-9682-daede3531629.jpg)
 
-__________________________________________________________________________________________________________________________________________________________
+
 </details>
 
 
@@ -353,9 +394,14 @@ ________________________________________________________________________________
 <details>
 <summary>MEDIUM:</summary>
 
-  
+__________________________________________________________________________________________________________________________________________________________
+
 We also created a series of blog posts on Juno in English and Ukrainian (To make it more comfortable for the community to absorb not only video but also visual material) on topics such as:
-- We wrote a blog post JUNO DIGEST
+ 
+__________________________________________________________________________________________________________________________________________________________ 
+
+ 
+- JUNO DIGEST
 
 Link: [https://link.medium.com/gA5wyYtjIub](https://link.medium.com/gA5wyYtjIub)
 
@@ -364,7 +410,7 @@ Link: [https://link.medium.com/gA5wyYtjIub](https://link.medium.com/gA5wyYtjIub)
 __________________________________________________________________________________________________________________________________________________________
 
 
-- We wrote a blog post JUNO OVERVIEW
+- JUNO OVERVIEW
 
 Link: [https://link.medium.com/inkw1nejIub](https://link.medium.com/inkw1nejIub)
 
@@ -373,7 +419,7 @@ Link: [https://link.medium.com/inkw1nejIub](https://link.medium.com/inkw1nejIub)
 __________________________________________________________________________________________________________________________________________________________
 
 
-- Junø on the Osmosis Interchain AMM
+- JUNO ON THE OSMOSIS INTERCHAIN AMM
 
 Original: [https://link.medium.com/biZdijtcIub](https://link.medium.com/biZdijtcIub)
 
@@ -384,12 +430,27 @@ Ukrainian translation: [https://link.medium.com/l6E83zAcIub](https://link.medium
 __________________________________________________________________________________________________________________________________________________________
 
 
-- Hack JUNO
+- HACK JUNO
 
 Original: [https://link.medium.com/7Civf8ZbIub](https://link.medium.com/7Civf8ZbIub)
 
 Ukrainian translation: [https://link.medium.com/Cj8CTK6bIub](https://link.medium.com/Cj8CTK6bIub)
 
 ![Hack JUNO](https://user-images.githubusercontent.com/86729290/200134168-ed80d629-a68b-4308-a93a-7f10f92e515e.png) 
+
+</details>
+ 
+ 
+<details>
+<summary>TEAM:</summary>
+
+__________________________________________________________________________________________________________________________________________________________
+
+- [Laura Kharkevych](https://github.com/LauraKhar)
+- [Max Levush](https://github.com/maxlevush-COINSIDE)
+- [Yan Lytvynenko](https://github.com/ZAZIK3)
+- [Violetta Markush](https://github.com/vilolaa)
+ 
+__________________________________________________________________________________________________________________________________________________________ 
 
 </details>
