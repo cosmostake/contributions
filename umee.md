@@ -23,6 +23,7 @@ ________________________________________________________________________________
 <summary>ABOUT US:</summary>
 
 - [WEBPAGE](https://cosmostake.space)
+
 </details>
 
 <details>
