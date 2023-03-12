@@ -4,47 +4,30 @@
 # <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [UMEE](https://app.umee.cc) </a> 
 
 
-This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [UMEE](https://app.umee.cc). 
-Our team added information from the [COSMØSTAKE](https://cosmostake.space) validator here as part of this!
+[COSMØSTAKE](https://cosmostake.space) Validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
 
+We always use only official brand pack, logos, gradients or other things related to it [UMEE](https://app.umee.cc). 
 
-##### [COSMØSTAKE](https://cosmostake.space) VALIDATOR PROVIDES MUCH MORE THAN SECURITY! WE ARE ACTIVELY PARTICIPATE IN THE DEVEELOPMENT OF THE NETWORK AND COMMUNITY BY PROVIDING INFORMATIONAL, TECHNICAL AND HUMANITARIAN SUPPORT! 
-##### BELOW IS THE COMPLETE LIST OF UMEE CONTRIBUTIONS. 
- 
-We have some basic images, logos, gradients from the [UMEE](https://app.umee.cc) brand pack, and we often mention the [UMEE](https://app.umee.cc) logo or other things related to it. 
-
-Also, our validator always maximum votes for all proposals!
+[COSMØSTAKE](https://cosmostake.space) Always maximum votes for proposals! 
 
 __________________________________________________________________________________________________________________________________________________________ 
 
 <details>
-<summary>ABOUT US:</summary>
+<summary>WEB:</summary>
  
 __________________________________________________________________________________________________________________________________________________________
  
-- [WEBPAGE](https://cosmostake.space)
- 
-__________________________________________________________________________________________________________________________________________________________
- 
-</details>
-
-<details>
-<summary>TEAM:</summary>
- 
-__________________________________________________________________________________________________________________________________________________________
-
-- [Laura Kharkevych](https://github.com/LauraKhar)
-- [Max Levush](https://github.com/maxlevush-COINSIDE)
-- [Yan Lytvynenko](https://github.com/ZAZIK3)
-- [Violetta Markush](https://github.com/vilolaa)
+www.cosmostake.space 
  
 __________________________________________________________________________________________________________________________________________________________
  
 </details>
 
 
+
+
 <details>
-<summary>ENDPOINTS RPC,REST,gRPC,WSS:</summary>
+<summary>ENDPOINTS RPC, REST, gRPC, WSS:</summary>
 
 __________________________________________________________________________________________________________________________________________________________
  
@@ -403,4 +386,20 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
+</details>
+ 
+ 
+ 
+<details>
+<summary>TEAM:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
+
+- [Laura Kharkevych](https://github.com/LauraKhar)
+- [Max Levush](https://github.com/maxlevush-COINSIDE)
+- [Yan Lytvynenko](https://github.com/ZAZIK3)
+- [Violetta Markush](https://github.com/vilolaa)
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
 </details>
