@@ -21,18 +21,27 @@ ________________________________________________________________________________
 
 <details>
 <summary>ABOUT US:</summary>
-
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
 - [WEBPAGE](https://cosmostake.space)
-
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
 </details>
 
 <details>
 <summary>TEAM:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
 
 - [Laura Kharkevych](https://github.com/LauraKhar)
 - [Max Levush](https://github.com/maxlevush-COINSIDE)
 - [Yan Lytvynenko](https://github.com/ZAZIK3)
 - [Violetta Markush](https://github.com/vilolaa)
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
 </details>
 
 
@@ -69,9 +78,19 @@ ________________________________________________________________________________
 <details>
 <summary>MAINNET NODE, TESTNET NODE AND OTHERS TECHNICAL CONTRIBUTIONS:</summary>
 
+__________________________________________________________________________________________________________________________________________________________
 
-- We're validator UMEE - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/umee/validators/umeevaloper10nlsvhss7cfzu0xugyeq8gjkcp5g4kx8gun7xx)
-<img width="1512" alt="Снимок экрана 2023-01-28 в 15 51" src="https://user-images.githubusercontent.com/86792707/215282984-2fa9ac4e-8642-4c30-acf5-506f6498445e.png">
+- VALIDATOR MAINNET UMEE - [LINK TO COSMØSTAKE MAINNET](https://www.mintscan.io/umee/validators/umeevaloper14w25sj0y6r8xfvh4jpek4qtqqwpx9flwnhsu90)
+
+<img width="1512" alt="Umee MAINNET" src="https://user-images.githubusercontent.com/123416278/224537797-b9a38b29-d0ec-4124-8911-655cc1173ca3.png">
+
+__________________________________________________________________________________________________________________________________________________________
+
+- VALIDATOR TESTNET UMEE - [LINK TO COSMØSTAKE TESTNET](https://explorer.network.umee.cc/canon-2/staking/umeevaloper1c6vtj9gejmc3twvwme0hy40hfshe0p8qy9aghs)
+
+<img width="1512" alt="Ume Testnet" src="https://user-images.githubusercontent.com/123416278/224538040-237c2f49-9ec4-468a-a53c-c19855e49301.png">
+
+__________________________________________________________________________________________________________________________________________________________
 
 </details>
 
@@ -82,10 +101,13 @@ ________________________________________________________________________________
 <details>
 <summary>TWITTER:</summary>
 
+__________________________________________________________________________________________________________________________________________________________
+ 
 
 We create a lot of Umee-related content to improve the community's knowledge of features and inform about Umee-related news.
 We use the Umee brandbook to match the style of the company. We often mention the [UMEE](https://app.umee.cc) logo or other related things.
-________________________________________________________________________________________________________________________
+
+__________________________________________________________________________________________________________________________________________________________
  
 - UMEE | STATISTICS  
 
