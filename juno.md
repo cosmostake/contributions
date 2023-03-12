@@ -1,7 +1,6 @@
 <img width="1280" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197387749-d7c48458-3cc7-4579-bc87-8c98a49ba67a.png">
 
-__________________________________________________________________________________________________________________________________________________________
-
+# <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [UMEE](https://app.umee.cc) </a>
 
 [COSMØSTAKE](https://cosmostake.space) Validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
 
