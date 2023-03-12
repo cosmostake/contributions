@@ -1,21 +1,19 @@
 ![UME GIT](https://user-images.githubusercontent.com/86792707/215264628-cffac30a-9ac1-434c-84fe-6f2be263f18a.jpg)
 
 
-# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR UMEE </a> 
+# <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [UMEE](https://app.umee.cc) </a> 
 
 
 This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [UMEE](https://app.umee.cc). 
-Our team added information from the COSMØSTAKE validator here as part of this!
+Our team added information from the [COSMØSTAKE](https://cosmostake.space) validator here as part of this!
 
 
-
-
-### COMMUNITY GROWTH (TECHNICAL CONNTRIBUTIONS, TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM etc.) 
-
-We create a lot of [UMEE](https://app.umee.cc) related content to improve accessibility, community knowledge of features and [UMEE](https://app.umee.cc). 
+##### [COSMØSTAKE](https://cosmostake.space) VALIDATOR PROVIDES MUCH MORE THAN SECURITY! WE ARE ACTIVELY PARTICIPATE IN THE DEVEELOPMENT OF THE NETWORK AND COMMUNITY BY PROVIDING INFORMATIONAL, TECHNICAL AND HUMANITARIAN SUPPORT! 
+##### BELOW IS THE COMPLETE LIST OF UMEE CONTRIBUTIONS. 
+ 
 We have some basic images, logos, gradients from the [UMEE](https://app.umee.cc) brand pack, and we often mention the [UMEE](https://app.umee.cc) logo or other things related to it. 
 
-Also, our validator always votes for proposals!
+Also, our validator always maximum votes for all proposals!
 
 __________________________________________________________________________________________________________________________________________________________ 
 
@@ -367,6 +365,14 @@ ________________________________________________________________________________
 - [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1634876711887339520?s=20)
 
 ![55](https://user-images.githubusercontent.com/123416278/224541200-cbde280a-231c-483b-ae7b-ae987ee82911.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- COSMØSTAKE votes YES on Proposal #56
+ 
+- [LINK TO TWITTER POST](https://twitter.com/COSM0STAKE/status/1634881752794796032?s=20)
+
+![56](https://user-images.githubusercontent.com/123416278/224542192-fd0b4a02-a847-428b-88a8-e02fc8c7fbb4.jpg)
 
 __________________________________________________________________________________________________________________________________________________________
  
