@@ -1,12 +1,12 @@
 <img width="1280" alt="Juno" src="https://user-images.githubusercontent.com/86729290/197387749-d7c48458-3cc7-4579-bc87-8c98a49ba67a.png">
 
-# <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [UMEE](https://app.umee.cc) </a>
+# <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [JUNO](https://www.junonetwork.io) </a>
 
 [COSMØSTAKE](https://cosmostake.space) Validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
 
-We always use only official brand pack, logos, gradients [JUNO](https://www.junonetwork.io) or other things related to it. 
+We always use only official brand pack, logos, gradients or other things related to it [JUNO](https://www.junonetwork.io). 
 
-- [x] COSMØSTAKE Always maximum votes for proposals! 
+[COSMØSTAKE](https://cosmostake.space) Always maximum votes for proposals! 
 
 __________________________________________________________________________________________________________________________________________________________
 
