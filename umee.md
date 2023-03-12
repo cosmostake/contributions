@@ -84,6 +84,19 @@ ________________________________________________________________________________
 <img width="1512" alt="Umee testnet" src="https://user-images.githubusercontent.com/123416278/224538866-46068a9c-0055-426d-94c3-df51f42080b5.png">
 
 __________________________________________________________________________________________________________________________________________________________
+ 
+- GUIDE TO SETUP | UMEE VALIDATOR TESTNET NODE (MANUALLY) [LINK TO MEDIUM](https://link.medium.com/IQ8JJacA6xb)
+
+![photo_2023-03-06_19-37-04](https://user-images.githubusercontent.com/123416278/224538340-2f036691-c792-4b7b-b8f9-bf610901a06b.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+ 
+- GUIDE TO SETUP | UMEE VALIDATOR MAINNET NODE (MANUALLY) [LINK TO MEDIUM](https://link.medium.com/vvSsFSGtCxb)
+
+![1_hOCkGpWUTf6JKdsyRolFiA](https://user-images.githubusercontent.com/123416278/222462470-c574ff81-8cec-4b89-b75b-331e39f14959.jpg)
+
+__________________________________________________________________________________________________________________________________________________________
+
 
 </details>
 
