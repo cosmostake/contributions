@@ -31,7 +31,7 @@ ________________________________________________________________________________
  
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee RPC Mainnet](https://umee-mainnet-rpc.cosmostake.space)
+- [Umee RPC Mainnet](https://umee-mainnet-rpc.cosmostake.space/)
 ```console
 https://umee-mainnet-rpc.cosmostake.space
 ```
