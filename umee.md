@@ -31,37 +31,37 @@ ________________________________________________________________________________
  
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee RPC Mainnet](https://umee-mainnet-rpc.cosmostake.space/)
+- Umee RPC Mainnet
 ```console
 https://umee-mainnet-rpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee gRPC Mainnet](http://umee-mainnet-grpc.cosmostake.space/)
+- Umee gRPC Mainnet
 ```console
 http://umee-mainnet-grpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee REST Mainnet](https://umee-mainnet-rest.cosmostake.space/)
+- Umee REST Mainnet
 ```console
 https://umee-mainnet-rest.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee RPC Testnet](https://umee-testnet-rpc.cosmostake.space)
+- Umee RPC Testnet
 ```console
 https://umee-testnet-rpc.cosmostake.space 
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee gRPC Testnet](http://umee-testnet-grpc.cosmostake.space)
+- Umee gRPC Testnet
 ```console
 http://umee-testnet-grpc.cosmostake.space 
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee REST Testnet](https://umee-testnet-rest.cosmostake.space)
+- Umee REST Testnet
 ```console
 https://umee-testnet-rest.cosmostake.space 
 ```
