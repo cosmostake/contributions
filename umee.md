@@ -55,7 +55,7 @@ https://umee-testnet-rpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Umee gRPC Testnet] http://umee-testnet-grpc.cosmostake.space
+- [Umee gRPC Testnet] (http://umee-testnet-grpc.cosmostake.space)
 ```console
 http://umee-testnet-grpc.cosmostake.space 
 ```
