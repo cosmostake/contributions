@@ -37,19 +37,22 @@ https://umee-mainnet-rpc.cosmostake.space
 
 __________________________________________________________________________________________________________________________________________________________
  
+- [Umee RPC Testnet](https://umee-testnet-rpc.cosmostake.space)
 ```console
 https://umee-testnet-rpc.cosmostake.space 
 ```
 __________________________________________________________________________________________________________________________________________________________
  
+- [Umee gRPC Testnet](http://umee-testnet-grpc.cosmostake.space)
 ```console
-http://umee-mainnet-grpc.cosmostake.space
+http://umee-testnet-grpc.cosmostake.space 
 ```
 
 __________________________________________________________________________________________________________________________________________________________
  
+- [Umee REST Testnet](https://umee-testnet-rest.cosmostake.space)
 ```console
-https://umee-mainnet-rest.cosmostake.space
+https://umee-testnet-rest.cosmostake.space 
 ```
 
 __________________________________________________________________________________________________________________________________________________________
