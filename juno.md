@@ -31,37 +31,37 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
  
-- [Juno RPC Mainnet](https://juno-mainnet-rpc.cosmostake.space)
+- Juno RPC Mainnet
 ```console
 https://juno-mainnet-rpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Juno gRPC Mainnet](http://juno-mainnet-grpc.cosmostake.space)
+- Juno gRPC Mainnet
 ```console
 http://juno-mainnet-grpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Juno REST Mainnet](https://juno-mainnet-rest.cosmostake.space/)
+- Juno REST Mainnet
 ```console
 https://juno-mainnet-rest.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Juno RPC Testnet](https://juno-testnet-rpc.cosmostake.space)
+- Juno RPC Testnet
 ```console
 https://juno-testnet-rpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Juno gRPC Testnet](http://juno-testnet-grpc.cosmostake.space)
+- Juno gRPC Testnet
 ```console
 http://juno-testnet-grpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
-- [Juno REST Testnet](https://juno-testnet-rest.cosmostake.space)
+- Juno REST Testnet
 ```console
 https://juno-testnet-rest.cosmostake.space
 ```
