@@ -37,6 +37,18 @@ https://juno-mainnet-rpc.cosmostake.space
 ```
 __________________________________________________________________________________________________________________________________________________________
  
+- [Juno gRPC Mainnet](http://juno-mainnet-grpc.cosmostake.space)
+```console
+http://juno-mainnet-grpc.cosmostake.space
+```
+__________________________________________________________________________________________________________________________________________________________
+ 
+- [Juno REST Mainnet](https://juno-mainnet-rest.cosmostake.space/)
+```console
+https://juno-mainnet-rest.cosmostake.space
+```
+__________________________________________________________________________________________________________________________________________________________
+ 
 - [Juno RPC Testnet](https://juno-testnet-rpc.cosmostake.space)
 ```console
 https://juno-testnet-rpc.cosmostake.space
