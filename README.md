@@ -1,4 +1,4 @@
-![GITHUB LOGO](https://user-images.githubusercontent.com/86729290/196029540-c5cd7c45-9407-4ccd-b925-faa8ac522712.png)
+![Git Banner](https://user-images.githubusercontent.com/123416278/224935802-86e288b2-2e20-44c2-ba63-5025dd622b5b.png)
 
 
 COSMØSTAKE contributions to the Networks, but also contribute for the development of the Networks and Community.
