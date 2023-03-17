@@ -12,22 +12,16 @@ We always use only official brand pack, logos, gradients or other things related
 __________________________________________________________________________________________________________________________________________________________ 
 
 <details>
-<summary>ABOUT US:</summary>
+<summary>WEB:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
 
 - [WEBPAGE](https://cosmostake.space)
  
-</details>
-
-
-<details>
-<summary>TEAM:</summary>
- 
-- [Laura Kharkevych](https://github.com/LauraKhar)
-- [Max Levush](https://github.com/maxlevush-COINSIDE)
-- [Yan Lytvynenko](https://github.com/ZAZIK3)
-- [Violetta Markush](https://github.com/vilolaa)
+__________________________________________________________________________________________________________________________________________________________
  
 </details>
+
 
 
 
@@ -561,4 +555,19 @@ Original: [https://blog.persistence.one/2021/03/29/the-persistence-mainnet-is-la
 Ukrainian translation: [https://link.medium.com/prcMtkasLtb](https://link.medium.com/prcMtkasLtb)
 
 ![200545765-04d679e3-f0a5-427a-84f0-32e3d4e11247](https://user-images.githubusercontent.com/86729290/205972827-14c5d454-85c6-4f10-a0cf-e414b5649b7c.png)
+</details>
+
+
+
+<details>
+<summary>TEAM:</summary>
+ 
+__________________________________________________________________________________________________________________________________________________________
+ 
+- [Laura Kharkevych](https://github.com/LauraKhar)
+- [Max Levush](https://github.com/maxlevush-COINSIDE)
+- [Yan Lytvynenko](https://github.com/ZAZIK3)
+- [Violetta Markush](https://github.com/vilolaa)
+__________________________________________________________________________________________________________________________________________________________
+ 
 </details>
