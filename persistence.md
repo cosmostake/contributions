@@ -1,23 +1,20 @@
 <img width="1280" alt="Persistance" src="https://user-images.githubusercontent.com/86729290/197390129-ed59a5ec-83bd-47b9-95f6-09eb33d33cb1.png">
 
-# <h1 align="center"> COSMØSTAKE VALIDATOR CONTRIBUTIONS FOR PERSISTENCE </a> 
+# <h1 align="center"> [COSMØSTAKE](https://cosmostake.space) VALIDATOR CONTRIBUTIONS FOR [PERSISTENCE](https://persistence.one) </a> 
 
 
-This repository is based on the overall work of our team to develop the COSMOS ecosystem and, in particular, [PERSISTENCE](https://persistence.one/). Our team added information from the COSMØSTAKE validator here as part of this!
+[COSMØSTAKE](https://cosmostake.space) Validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
 
+We always use only official brand pack, logos, gradients or other things related to it [PERSISTENCE](https://persistence.one).
 
-### COMMUNITY GROWTH (TWITTER, YOUTUBE, VOTES FOR PROPOSALS, MEDIUM, etc.) 
-
-We create a lot of [PERSISTENCE](https://persistence.one) related content to improve accessibility, community knowledge of features and [PERSISTENCE](https://persistence.one). We have some basic images, logos, gradients from the [PERSISTENCE](https://persistence.one) brand pack, and we often mention the [PERSISTENCE](https://persistence.one) logo or other things related to it. 
-
-Also, our validator always votes for proposals!
+[COSMØSTAKE](https://cosmostake.space) Always maximum votes for proposals!
 
 __________________________________________________________________________________________________________________________________________________________ 
 
 <details>
 <summary>ABOUT US:</summary>
 
-- [WEBPAGE](https://cosmostake.space/)
+- [WEBPAGE](https://cosmostake.space)
  
 </details>
 
@@ -35,7 +32,7 @@ ________________________________________________________________________________
 
 
 <details>
-<summary>TECHNICAL CONTRIBUTIONS:</summary>
+<summary>MAINNET NODE, TESTNET NODE AND OTHERS TECHNICAL CONTRIBUTIONS:</summary>
 
 
 - We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
