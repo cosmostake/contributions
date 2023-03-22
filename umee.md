@@ -94,7 +94,7 @@ ________________________________________________________________________________
 
 - VALIDATOR MAINNET UMEE - [LINK TO COSMØSTAKE MAINNET](https://www.mintscan.io/umee/validators/umeevaloper14w25sj0y6r8xfvh4jpek4qtqqwpx9flwnhsu90)
  
-<img width="1512" alt="224537797-b9a38b29-d0ec-4124-8911-655cc1173ca3" src="https://user-images.githubusercontent.com/123416278/224549777-99ebf060-1746-433a-af00-406b56593826.png">
+<img width="1512" alt="Снимок экрана 2023-03-22 в 17 46" src="https://user-images.githubusercontent.com/123416278/226964015-c719ea2b-cf72-471a-856e-5810f69251d5.png">
 
 __________________________________________________________________________________________________________________________________________________________
 
