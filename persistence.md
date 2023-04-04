@@ -73,7 +73,11 @@ ________________________________________________________________________________
 
 <details>
 <summary>IBC RELAYER:</summary>
+
+__________________________________________________________________________________________________________________________________________________________
  
+- [Persistence channel-73](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> [Quicksilver channel-16](https://www.mintscan.io/quicksilver/account/quick1wpxuxc2765wkhfkxt323dza0l8r8h53mp3pyh8)
+
 __________________________________________________________________________________________________________________________________________________________
  
 - [Persistence channel-67](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9) <> [Stride channel-53](https://www.mintscan.io/stride/account/stride1z9vqynvye6dch4qpz404n9e2nma7v6a3pkww0e)
@@ -98,13 +102,12 @@ ________________________________________________________________________________
 
 - We're validator PERSISTENCE (Mainnet) - [LINK TO COSMØSTAKE VALIDATOR](https://www.mintscan.io/persistence/validators/persistencevaloper1qz6xsskhyyd6mrqns2e3empull7el0gqp5dkru)
  
-<img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062150-0917075b-80e5-4137-bc6f-71ea2aef2b78.png">
- 
+<img width="1512" alt="Снимок экрана 2023-04-04 в 10 29 47" src="https://user-images.githubusercontent.com/123416278/229720101-4971bae6-de88-40e5-b526-1a724859c606.png">
+
 __________________________________________________________________________________________________________________________________________________________
  
 
-- We're validator PERSISTENCE (Testnet) - [LINK TO COSMØSTAKE VALIDATOR]
-(https://testnet.mintscan.io/persistence-testnet/validators/persistencevaloper16af2kgt0q2v9ks38pe4chlxk7hjqqykzy4q9gv)
+- We're validator PERSISTENCE (Testnet) - [LINK TO COSMØSTAKE VALIDATOR](https://testnet.mintscan.io/persistence-testnet/validators/persistencevaloper16af2kgt0q2v9ks38pe4chlxk7hjqqykzy4q9gv)
 
 <img width="1512" alt="Снимок экрана 2023-01-11 в 11 32" src="https://user-images.githubusercontent.com/86792707/211770162-e8b5aada-bb3a-48e6-98cf-9812fcd0b398.png">
 
@@ -130,15 +133,22 @@ Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistenc
 
 <img width="1512" alt="Снимок экрана 2022-12-20 в 12 49 59" src="https://user-images.githubusercontent.com/86729290/208651394-38381492-8c27-41ca-a5e5-080bf6c20209.png">
 
+__________________________________________________________________________________________________________________________________________________________
+
+We provide support for validators, We wrote a Github "Guide To Setup Up Testnet | Persistence Validator Node Testnet (Manually)" 
+
+Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistence/persistence_testnet_validator.md
+
+<img width="1512" alt="Снимок экрана 2023-04-04 в 10 34 58" src="https://user-images.githubusercontent.com/123416278/229721212-c3a94dce-319e-4f7b-b21d-8b068d4565c5.png">
+
 __________________________________________________________________________________________________________________________________________________________ 
  
 
 We wrote a blog post on medium "Guide To Setup Up | Persistence Validator Node (Manually)" 
-<img width="1512" alt="Снимок экрана 2022-12-30 в 12 07" src="https://user-images.githubusercontent.com/86792707/210062132-9df8ace3-274d-4dfa-bfd9-58efee5e3793.png">
-
-Read here: https://link.medium.com/XSUJlFF0Gvb
 
 ![1](https://user-images.githubusercontent.com/86729290/208652461-7866c522-4a50-47db-98cd-688ea6742697.jpeg)
+
+Read here: https://link.medium.com/XSUJlFF0Gvb
 
 __________________________________________________________________________________________________________________________________________________________ 
  
