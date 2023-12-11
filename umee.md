@@ -83,6 +83,13 @@ ________________________________________________________________________________
 
 - [Umee channel-34](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) <> [Stride channel-29](https://www.mintscan.io/stride/account/stride1z9vqynvye6dch4qpz404n9e2nma7v6a3pkww0e)
 __________________________________________________________________________________________________________________________________________________________
+
+- [Umee channel-53](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) <> [Quicksilver channel-49](https://www.mintscan.io/quicksilver/account/quick1wpxuxc2765wkhfkxt323dza0l8r8h53mp3pyh8)
+__________________________________________________________________________________________________________________________________________________________
+
+- [Umee channel-51](https://www.mintscan.io/umee/account/umee1tgsgcg9l87n6dl0l0rnm7g2slx6xgjlk7laydh) <> [Persistence channel-81](https://www.mintscan.io/persistence/account/persistence1quylzmjgq8crgh8fnqmj48jp8mxlzyhszyrkn9)
+
+__________________________________________________________________________________________________________________________________________________________
  
 </details>
 
