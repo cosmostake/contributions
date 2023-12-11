@@ -288,58 +288,6 @@ ________________________________________________________________________________
 </details>
 
 
-
-
-
-<details>
-<summary>YOUTUBE:</summary>
- 
-__________________________________________________________________________________________________________________________________________________________
- 
-- UMEE | TOKENOMICS 
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=0BSRJsmey24&t=32s)
-
-![photo_2023-02-02_10-52-53](https://user-images.githubusercontent.com/123416278/217448064-4b806a2b-f12a-4bd6-b5de-d1c075ae9510.jpg)
-
-__________________________________________________________________________________________________________________________________________________________
-
-- UMEE - AUTO-COMPOUND STAKING ⚛️ 
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=igBc-NXOJII&t)
-
-<img width="1280" alt="Frame 488" src="https://user-images.githubusercontent.com/123416278/215980898-3bb38348-7c2b-4758-ad1f-52f92b13b780.png">
-
-__________________________________________________________________________________________________________________________________________________________
-
-- UMEE - CROSS CHAIN DEFI HUB | INSTRUCTIONS FOR USING THE UMEE APP ⚛️
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=Bk87eJATjoU&t)
-
-![photo_2023-01-03_13-48-43](https://user-images.githubusercontent.com/123416278/215321689-cae625be-f185-4138-a7cf-e64a47bf9da6.jpg)
-
-__________________________________________________________________________________________________________________________________________________________
- 
-- New LSD tokens in UMEE dApp
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=8HL3wzawnTE&t=6s)
-
-![Ume LSD](https://user-images.githubusercontent.com/123416278/222463244-b6446174-279b-4ad9-a655-5880a83c0efd.jpeg)
-
-__________________________________________________________________________________________________________________________________________________________
- 
-- Airdrop For UMEE Stakers The Complete Guide
-
-- [LINK TO YOUTUBE VIDEO](https://www.youtube.com/watch?v=ln6MgFQPYYQ&t=2s)
-
-![maxresdefault](https://user-images.githubusercontent.com/123416278/222463633-840bfbb3-ca6e-4aff-b83d-a6f67a95f34c.jpeg)
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-</details>
-
-
 <details>
 <summary>VOTES FOR PROPOSALS:</summary>
  
