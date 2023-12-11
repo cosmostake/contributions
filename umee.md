@@ -105,7 +105,7 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________________
 
-- VALIDATOR TESTNET UMEE - [LINK TO COSMØSTAKE TESTNET](https://explorer.network.umee.cc/canon-2/staking/umeevaloper1c6vtj9gejmc3twvwme0hy40hfshe0p8qy9aghs)
+- VALIDATOR TESTNET UMEE - [LINK TO COSMØSTAKE TESTNET](https://explorer.network.umee.cc/Canon-4/staking/umeevaloper1765sj3nv93p7cs97wjzzzf3f36p9eenel768st)
 
 <img width="1512" alt="Ume Testnet" src="https://user-images.githubusercontent.com/123416278/224538040-237c2f49-9ec4-468a-a53c-c19855e49301.png">
 
