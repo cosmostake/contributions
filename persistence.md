@@ -127,7 +127,7 @@ In this video, we will install the Persistence validator step by step with you. 
 __________________________________________________________________________________________________________________________________________________________ 
  
 
-We provide support for validators, We wrote a Github "Guide To Setup Up | Persistence Validator Node (Manually)" 
+We provide support for validators, We wrote a Github "Guide To Setup Up | Persistence Validator Node (Manually)" 1
 
 Link Github: https://github.com/cosmostake/validator/blob/main/guides/persistence/persistence_setup_validator.md
 
